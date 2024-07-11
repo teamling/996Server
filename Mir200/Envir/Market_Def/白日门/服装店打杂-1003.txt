@@ -1,0 +1,91 @@
+(@buy @sell @repair @s_repair )
+%100
++10
++11
++15
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+哎，没想到来学功夫，竟然每天做的是洗衣服缝衣服之类的事情。 \
+但是也不能说没有收获. 瞒着道师卖剩余的衣服，还帮人家做\
+针线活赚了不少钱，您需要什么？ \ \ 
+
+<购买/@buy>衣服\
+<出售/@sell>衣服\
+<修理/@repair>衣服\
+<特殊修理/@s_repair>\
+<关 闭/@exit>\
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\服装店打杂-1003.txt] @Settings
+
+
+[@buy]
+你想买什么样的衣服？\ \ \
+ <返回/@main>
+
+[goods]
+;items(can be Zen)      pieces     hour
+布衣(男)        50                  1
+布衣(女)        50                  1
+轻型盔甲(男)    50                  1
+轻型盔甲(女)    50                  1
+中型盔甲(男)    50                  1    
+中型盔甲(女)    50                  1
+重盔甲(男)      50                  3
+重盔甲(女)      50                  3
+魔法长袍(男)    50                  3
+魔法长袍(女)    50                  3
+灵魂战衣(男)    50                  3
+灵魂战衣(女)    50                  3 
+幽灵战衣(男)    50                  1 
+幽灵战衣(女)    50                  1 
+恶魔长袍(男)    50                  1 
+恶魔长袍(女)    50                  1 
+战神盔甲(男)    50                  1 
+战神盔甲(女)    50                  1 
+
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+请放上去要卖的衣服，我给估价。\
+头盔和帽子也收购，\
+最好在这儿一起卖吧。\ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\服装店打杂-1003.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+可以修复衣服，头盔，帽子。\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\服装店打杂-1003.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+可以修复衣服，头盔，帽子。\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\服装店打杂-1003.txt] @Mobile_s_repair

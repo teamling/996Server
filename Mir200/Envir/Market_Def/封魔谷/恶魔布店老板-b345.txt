@@ -1,0 +1,93 @@
+(@buy @sell @repair @s_repair )
+%100
++10
++11
++15
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+虽然我穿的破，但我仍旧是个好裁缝，\
+只是不太喜欢洗衣服而已。\
+你是来买衣服呢，还是来补衣服？\ \
+
+ <买/@buy>  衣服\
+ <卖/@sell>  衣服\
+ <修补/@repair> 衣服\
+ <特殊修理/@s_repair>\
+<退出/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔布店老板-b345.txt] @Settings
+
+
+[@buy]
+你想买什么样的衣服？\ \ \
+ <返回/@main>
+
+[~@repair]
+看来修补得很不错.\ \ \
+ <返回/@main>
+
+[@qweapon]
+传说中三英雄留下了三套绝顶装备。\
+法神套装听说就在赤月峡谷的双头金刚手里，\
+得到它的魔法师将是最接近神的人……\\
+ <返回/@main>
+
+[goods]
+;items(can be Zen)      pieces     hour
+布衣(男)        50                  1
+布衣(女)        50                  1
+轻型盔甲(男)    50                  1
+轻型盔甲(女)    50                  1
+中型盔甲(男)        50          1    
+中型盔甲(女)        50          1
+重盔甲(男)      50                  3
+重盔甲(女)      50                  3
+魔法长袍(男)    50                  3
+魔法长袍(女)    50                  3
+灵魂战衣(男)    50                  3
+灵魂战衣(女)    50                  3 
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+请放上去要卖的衣服，我给估价。\
+头盔和帽子也收购，\
+最好在这儿一起卖吧。\ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔布店老板-b345.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+可以修复衣服，头盔，帽子。\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔布店老板-b345.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+可以修复衣服，头盔，帽子。\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔布店老板-b345.txt] @Mobile_s_repair

@@ -1,0 +1,90 @@
+[2020-11-17 10:25:27:515] 脚本错误1: GetRandomText ..\QuestDiary\测试.txt S0 0 第:29 行: D:\MirServer1\Mir200\Envir\Market_Def\功能展示\功能展示-3.txt
+
+[2020-11-17 10:26:49:860] 脚本错误1: GetRandomText ..\QuestDiary\测试.txt S0 0 第:29 行: D:\MirServer1\Mir200\Envir\Market_Def\功能展示\功能展示-3.txt
+
+[2020-11-17 10:28:12:531] 脚本错误1: GetRandomText ..\QuestDiary\测试.txt S0 0 第:29 行: D:\MirServer1\Mir200\Envir\Market_Def\功能展示\功能展示-3.txt
+
+[2020-11-17 10:29:41:203] 脚本错误1: GetRandomText ..\QuestDiary\测试.txt S0 0 第:29 行: D:\MirServer1\Mir200\Envir\Market_Def\功能展示\功能展示-3.txt
+
+[2020-11-17 10:30:07:843] 脚本错误1: GetRandomText ..\QuestDiary\测试.txt <$STR(S0)> 0 第:29 行: D:\MirServer1\Mir200\Envir\Market_Def\功能展示\功能展示-3.txt
+
+[2020-11-17 10:49:09:038] 脚本错误2: LoadFileToMemory ..\QuestDiary\测试预加载.txt 第:7 行: D:\MirServer1\Mir200\Envir\MapQuest_def\QManage.txt
+
+[2020-11-17 11:06:59:735] 脚本错误2: LoadFileToMemory ..\QuestDiary\测试预加载.txt 第:7 行: D:\MirServer1\Mir200\Envir\MapQuest_def\QManage.txt
+
+[2020-11-17 15:49:13:369] [Exception] TBaseObject::Run 1 Except：Access violation at address 007440A7 in module 'M2Server.exe'. Read of address 00000000[007440A7] uPlayObject.TPlayObject.CmdSmakeItem (Line 13856, "uPlayObject.pas" + 42)
+[0040E375] SysUtils.ReplaceDate
+[00776985] ObjBase.TBaseObject.Destroy (Line 852, "ObjBase.pas" + 1)
+[0077559F] uBagT.TBagt.QuestCheckItem (Line 794, "uBagT.pas" + 25)
+[00760B7B] uPlayObject.TPlayObject.ClientTakeBackStorageItem (Line 23325, "uPlayObject.pas" + 5)
+[004A441E] SqlTimSt..TSQLTimeStampData
+[00741F75] uPlayObject.TPlayObject.CmdReloadRobotManage (Line 13195, "uPlayObject.pas" + 9)
+[00773E5B] uBagT.TBagt.Destroy (Line 82, "uBagT.pas" + 9)
+[0071FFDA] uPlayObject.TPlayObject.Operate (Line 3446, "uPlayObject.pas" + 1337)
+[0078D69A] Envir.TEnvirnoment.MoveToMovingObject (Line 596, "Envir.pas" + 87)
+[00793ABA] IdGlobalProtocols.IdGlobalProtocols
+[007A4381] Sockets.Xlat_Domain
+[007A4D8D] crtl...
+[004E2EA2] superobject.process (Line 4947, "superobject.pas" + 54)
+[004E2C40] superobject.process (Line 4893, "superobject.pas" + 0)
+[0042ACEC] Classes.CheckSynchronize
+(000044EC) [004054EC]
+
+
+[2020-11-17 15:49:56:416] [Exception] TBaseObject::Run 1 Except：Access violation at address 007440A7 in module 'M2Server.exe'. Read of address 00000000[007440A7] uPlayObject.TPlayObject.CmdSmakeItem (Line 13856, "uPlayObject.pas" + 42)
+[0040E375] SysUtils.ReplaceDate
+[00776985] ObjBase.TBaseObject.Destroy (Line 852, "ObjBase.pas" + 1)
+[0077559F] uBagT.TBagt.QuestCheckItem (Line 794, "uBagT.pas" + 25)
+[00760B7B] uPlayObject.TPlayObject.ClientTakeBackStorageItem (Line 23325, "uPlayObject.pas" + 5)
+[004A441E] SqlTimSt..TSQLTimeStampData
+[00741F75] uPlayObject.TPlayObject.CmdReloadRobotManage (Line 13195, "uPlayObject.pas" + 9)
+[00773E5B] uBagT.TBagt.Destroy (Line 82, "uBagT.pas" + 9)
+[0071FFDA] uPlayObject.TPlayObject.Operate (Line 3446, "uPlayObject.pas" + 1337)
+[0078D69A] Envir.TEnvirnoment.MoveToMovingObject (Line 596, "Envir.pas" + 87)
+[00793ABA] IdGlobalProtocols.IdGlobalProtocols
+[007A4381] Sockets.Xlat_Domain
+[007A4D8D] crtl...
+[004E2EA2] superobject.process (Line 4947, "superobject.pas" + 54)
+[004E2C40] superobject.process (Line 4893, "superobject.pas" + 0)
+[0042ACEC] Classes.CheckSynchronize
+(000044EC) [004054EC]
+
+
+[2020-11-17 15:50:56:916] [Exception] TBaseObject::Run 1 Except：Access violation at address 007440A7 in module 'M2Server.exe'. Read of address 00000000[007440A7] uPlayObject.TPlayObject.CmdSmakeItem (Line 13856, "uPlayObject.pas" + 42)
+[0040E375] SysUtils.ReplaceDate
+[00776985] ObjBase.TBaseObject.Destroy (Line 852, "ObjBase.pas" + 1)
+[0077559F] uBagT.TBagt.QuestCheckItem (Line 794, "uBagT.pas" + 25)
+[00760B7B] uPlayObject.TPlayObject.ClientTakeBackStorageItem (Line 23325, "uPlayObject.pas" + 5)
+[004A441E] SqlTimSt..TSQLTimeStampData
+[00741F75] uPlayObject.TPlayObject.CmdReloadRobotManage (Line 13195, "uPlayObject.pas" + 9)
+[00773E5B] uBagT.TBagt.Destroy (Line 82, "uBagT.pas" + 9)
+[0071FFDA] uPlayObject.TPlayObject.Operate (Line 3446, "uPlayObject.pas" + 1337)
+[0078D69A] Envir.TEnvirnoment.MoveToMovingObject (Line 596, "Envir.pas" + 87)
+[00793ABA] IdGlobalProtocols.IdGlobalProtocols
+[007A4381] Sockets.Xlat_Domain
+[007A4D8D] crtl...
+[004E2EA2] superobject.process (Line 4947, "superobject.pas" + 54)
+[004E2C40] superobject.process (Line 4893, "superobject.pas" + 0)
+[0042ACEC] Classes.CheckSynchronize
+(000044EC) [004054EC]
+
+
+[2020-11-17 15:52:01:229] [Exception] TBaseObject::Run 1 Except：Access violation at address 007440A7 in module 'M2Server.exe'. Read of address 00000000[007440A7] uPlayObject.TPlayObject.CmdSmakeItem (Line 13856, "uPlayObject.pas" + 42)
+[0040E375] SysUtils.ReplaceDate
+[00776985] ObjBase.TBaseObject.Destroy (Line 852, "ObjBase.pas" + 1)
+[0077559F] uBagT.TBagt.QuestCheckItem (Line 794, "uBagT.pas" + 25)
+[00760B7B] uPlayObject.TPlayObject.ClientTakeBackStorageItem (Line 23325, "uPlayObject.pas" + 5)
+[004A441E] SqlTimSt..TSQLTimeStampData
+[00741F75] uPlayObject.TPlayObject.CmdReloadRobotManage (Line 13195, "uPlayObject.pas" + 9)
+[00773E5B] uBagT.TBagt.Destroy (Line 82, "uBagT.pas" + 9)
+[0071FFDA] uPlayObject.TPlayObject.Operate (Line 3446, "uPlayObject.pas" + 1337)
+[0078D69A] Envir.TEnvirnoment.MoveToMovingObject (Line 596, "Envir.pas" + 87)
+[00793ABA] IdGlobalProtocols.IdGlobalProtocols
+[007A4381] Sockets.Xlat_Domain
+[007A4D8D] crtl...
+[004E2EA2] superobject.process (Line 4947, "superobject.pas" + 54)
+[004E2C40] superobject.process (Line 4893, "superobject.pas" + 0)
+[0042ACEC] Classes.CheckSynchronize
+(000044EC) [004054EC]
+
+

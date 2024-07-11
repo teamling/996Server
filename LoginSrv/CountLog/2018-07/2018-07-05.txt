@@ -1,0 +1,87 @@
+5) SQL数据库连接成功...
+	10:43:40
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:46:49
+0/0	10:48:38
+0/0	10:53:38
+5) SQL数据库连接成功...
+	11:22:11
+0/0	11:27:09
+0/0	11:32:09
+5) SQL数据库连接成功...
+	13:09:34
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:11:12
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:11:49
+0/0	13:14:32
+0/0	13:19:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:21:28
+0/0	13:24:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:26:48
+0/0	13:29:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:30:05
+0/0	13:34:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:35:39
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:37:43
+0/0	13:39:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	13:40:24
+0/0	13:44:32
+0/0	13:49:32
+0/0	13:54:32
+5) SQL数据库连接成功...
+	14:17:02
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:18:27
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:18:36
+5) SQL数据库连接成功...
+	16:56:50
+5) SQL数据库连接成功...
+	19:09:40
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:10:07
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:10:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:10:32
+0/0	19:14:38
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:19:18
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:19:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:19:26
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:19:32
+0/0	19:19:38
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:22:15
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:22:25

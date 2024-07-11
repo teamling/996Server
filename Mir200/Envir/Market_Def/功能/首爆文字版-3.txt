@@ -1,0 +1,16 @@
+[@MAIN]
+#if
+equal <$clientflag> 1
+#act
+#call [/NPC面板分类/PC端/PC端首爆文字版.txt] @PC端首爆文字版
+break
+
+#if
+equal <$clientflag> 2
+#act
+#call [/NPC面板分类/移动端/移动端首爆文字版.txt] @移动端首爆文字版
+break
+
+
+
+

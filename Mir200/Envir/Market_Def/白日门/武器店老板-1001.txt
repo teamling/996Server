@@ -1,0 +1,95 @@
+(@buy @sell @repair @s_repair )
+%100
++5
++6
++43
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎光临!鄙人白日门专职铁匠，手艺精良，价格公道！\ 
+要买要卖，或者修理武器，我一个人包了！\ \
+ <买/@buy>武器\
+ <卖/@sell>武器\
+ <修理/@repair>武器\
+ <特殊修理/@s_repair>\
+<退出/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\武器店老板-1001.txt] @Settings
+
+[@buy]
+您想买些什么武器?\ \ \
+ <返回/@main>
+ 
+ 
+[~@repair]
+怎么样，修好了吧？看起来比新的还值钱！\ \
+ <返回/@main>
+ 
+ 
+ 
+[goods]
+;items(Gen)   pieces     minute
+木剑            50         1
+青铜剑          50         1
+铁剑            50         1
+短剑            50         1
+匕首            50         1
+鹤嘴锄          50         1
+海魂		50	   1
+八荒		50         1
+半月		50	   1
+凌风		10	   1
+偃月		10	   1
+破魂		10	   1
+降魔		10	   1
+斩马刀		10	   1
+修罗            50         1
+凝霜            50         1
+
+
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+给我您要卖的武器.\ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\武器店老板-1001.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+您要修理武器吗?\
+相信我的手艺吧，呵呵。
+给我您要修理的家伙。\ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\武器店老板-1001.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你小子运气好，我正在有特殊修理所需的原材料，不过价格可是\
+普通的三倍哟，我就靠这个赚钱了。\ \
+<返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\武器店老板-1001.txt] @Mobile_s_repair

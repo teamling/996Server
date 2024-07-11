@@ -1,0 +1,16 @@
+2018-06-02 13:06:45:770closeSession2: cs1/2
+2018-06-02 13:08:32:833closeSession2: cs1/3
+2018-06-02 13:09:53:798closeSession2: cs1/4
+2018-06-02 13:12:16:466closeSession2: cs1/5
+2018-06-02 13:14:35:790closeSession2: cs1/6
+2018-06-02 13:23:59:420closeSession2: cs1/7
+2018-06-02 13:25:30:399closeSession2: cs1/8
+2018-06-02 13:27:03:764closeSession2: cs1/9
+2018-06-02 13:29:17:103closeSession2: cs1/10
+2018-06-02 13:30:34:804closeSession2: cs1/11
+2018-06-02 13:32:01:928closeSession2: cs1/12
+2018-06-02 13:37:43:640closeSession2: cs1/13
+2018-06-02 13:41:12:082closeSession2: cs1/14
+2018-06-02 13:42:31:565closeSession2: cs1/15
+2018-06-02 13:42:52:956closeSession2: cs1/16
+2018-06-02 13:46:20:715closeSession2: cs1/17

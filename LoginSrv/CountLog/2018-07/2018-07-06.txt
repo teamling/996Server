@@ -1,0 +1,9 @@
+5) SQL数据库连接成功...
+	10:23:34
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:24:42
+0/0	10:28:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:30:34

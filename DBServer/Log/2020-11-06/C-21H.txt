@@ -1,0 +1,4 @@
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-06 21:01:24 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:0,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-06 21:03:16 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0 -- 

@@ -1,0 +1,14 @@
+2018-07-30 10:05:45:979closeSession2: cs1/7
+2018-07-30 10:13:46:244closeSession2: cs1/8
+2018-07-30 10:14:38:254closeSession2: cs1/9
+2018-07-30 10:18:23:946closeSession2: cs1/10
+2018-07-30 10:26:47:200closeSession2: cs1/11
+2018-07-30 10:29:19:628closeSession2: lzlin/13
+2018-07-30 10:29:35:056closeSession2: lzlin/14
+2018-07-30 10:31:53:291closeSession2: lzlin/15
+2018-07-30 10:34:53:908closeSession2: cs1/12
+2018-07-30 10:38:29:860closeSession2: cs1/17
+2018-07-30 10:38:36:434closeSession2: cs1/18
+2018-07-30 10:40:36:579closeSession2: lzlin/16
+2018-07-30 10:40:47:874closeSession2: lzlin/20
+2018-07-30 10:41:08:376closeSession2: lzlin/21

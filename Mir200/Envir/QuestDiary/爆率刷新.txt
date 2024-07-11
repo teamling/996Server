@@ -1,0 +1,32 @@
+[@爆率刷新]
+{
+#IF
+#ACT
+GOTO @爆率清零
+
+#if
+equal <$GLOBAL(C_骰王)> <$USERNAME>
+#act
+mov N$C_骰王爆率 50
+MOV S$C_骰王标识 1
+inc N$C_基础爆率 <$STR(N$C_骰王爆率)> 
+
+#IF
+#ACT
+GOTO @爆率叠加
+
+
+[@爆率叠加]
+#if
+#act
+KILLMONBURSTRATE <$STR(N$C_基础爆率)> 65535
+SENDMSG 7 爆率属性刷新，当前杀怪爆率为：<$KILLMONBURSTRATE>倍，时长：65535秒
+
+
+[@爆率清零]
+#IF
+#ACT
+KILLMONBURSTRATE 100 65535
+MOV N$C_基础爆率 100
+mov N$C_骰王爆率 0
+}

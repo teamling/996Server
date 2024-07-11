@@ -1,0 +1,42 @@
+Load(¿â):[3] [0] 2020-11-03 19:01:00 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:0,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 19:04:00 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:07:00 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:0,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-03 19:10:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:13:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:16:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 19:19:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:22:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 19:25:01 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:28:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:31:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:34:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:0,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-03 19:37:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:40:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 19:43:02 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-03 19:46:03 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 19:46:24 ÎÞ¶¾¤¦ Level:1  --  -- 
+Load(¿â):[3] [0] 2020-11-03 19:46:52 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 19:49:52 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:0,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-03 19:52:52 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 19:55:52 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 19:58:52 ÎÞ¶¾¤¦ Level:1  --  -- 

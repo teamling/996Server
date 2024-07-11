@@ -1,0 +1,14 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#ACT
+#CALL [\Computer\特殊NPC\新人接待员-0.txt] @Script
+
+;1 电脑端
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\特殊NPC\新人接待员-0.txt] @Settings
+
+;2 移动端

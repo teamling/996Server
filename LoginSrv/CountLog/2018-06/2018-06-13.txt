@@ -1,0 +1,773 @@
+0/0	0:02:46
+0/0	0:07:46
+0/0	0:12:46
+0/0	0:17:46
+0/0	0:22:46
+0/0	0:27:46
+0/0	0:32:46
+0/0	0:37:46
+0/0	0:42:46
+0/0	0:47:46
+0/0	0:52:46
+0/0	0:57:46
+0/0	1:02:46
+0/0	1:07:46
+0/0	1:12:46
+0/0	1:17:46
+0/0	1:22:46
+0/0	1:27:46
+0/0	1:32:46
+0/0	1:37:46
+0/0	1:42:46
+0/0	1:47:46
+0/0	1:52:46
+0/0	1:57:46
+0/0	2:02:46
+0/0	2:07:46
+0/0	2:12:46
+0/0	2:17:46
+0/0	2:22:46
+0/0	2:27:46
+0/0	2:32:46
+0/0	2:37:46
+0/0	2:42:46
+0/0	2:47:46
+0/0	2:52:46
+0/0	2:57:46
+0/0	3:02:46
+0/0	3:07:46
+0/0	3:12:46
+0/0	3:17:46
+0/0	3:22:47
+0/0	3:27:47
+0/0	3:32:47
+0/0	3:37:47
+0/0	3:42:47
+0/0	3:47:47
+0/0	3:52:47
+0/0	3:57:47
+0/0	4:02:47
+0/0	4:07:47
+0/0	4:12:47
+0/0	4:17:47
+0/0	4:22:47
+0/0	4:27:47
+0/0	4:32:47
+0/0	4:37:47
+0/0	4:42:47
+0/0	4:47:47
+0/0	4:52:47
+0/0	4:57:47
+0/0	5:02:47
+0/0	5:07:47
+0/0	5:12:47
+0/0	5:17:47
+0/0	5:22:47
+0/0	5:27:47
+0/0	5:32:47
+0/0	5:37:47
+0/0	5:42:47
+0/0	5:47:47
+0/0	5:52:47
+0/0	5:57:47
+0/0	6:02:47
+0/0	6:07:47
+0/0	6:12:47
+0/0	6:17:47
+0/0	6:22:47
+0/0	6:27:47
+0/0	6:32:47
+0/0	6:37:47
+0/0	6:42:47
+0/0	6:47:47
+0/0	6:52:47
+0/0	6:57:47
+0/0	7:02:47
+0/0	7:07:47
+0/0	7:12:47
+0/0	7:17:47
+0/0	7:22:47
+0/0	7:27:47
+0/0	7:32:47
+0/0	7:37:47
+0/0	7:42:47
+0/0	7:47:47
+0/0	7:52:47
+0/0	7:57:47
+0/0	8:02:47
+0/0	8:07:47
+0/0	8:12:47
+0/0	8:17:47
+0/0	8:22:47
+0/0	8:27:47
+0/0	8:32:47
+0/0	8:37:47
+0/0	8:42:47
+0/0	8:47:47
+0/0	8:52:47
+0/0	8:57:47
+0/0	9:02:47
+0/0	9:07:47
+0/0	9:12:47
+0/0	9:17:47
+0/0	9:22:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:23:12
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:24:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:25:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:26:53
+0/0	9:27:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:28:20
+0/0	9:32:47
+5) SQL数据库连接成功...
+	9:34:32
+0/0	9:39:30
+0/0	9:44:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:48:12
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:48:49
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:49:16
+0/0	9:49:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:49:31
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:49:46
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:49:58
+0/0	9:54:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:55:10
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:55:48
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:57:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:57:53
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:58:46
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	9:59:20
+0/0	9:59:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:00:13
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:03:13
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:03:43
+0/0	10:04:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:04:44
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:06:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:08:44
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:09:26
+0/0	10:09:30
+0/0	10:14:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:15:07
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:15:24
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:15:43
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:16:17
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:16:27
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:16:38
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:16:51
+0/0	10:19:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:21:06
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:21:46
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	10:21:54
+0/0	10:24:30
+0/0	10:29:30
+0/0	10:34:30
+0/0	10:39:30
+0/0	10:44:30
+0/0	10:49:30
+0/0	10:54:30
+0/0	10:59:30
+0/0	11:04:30
+0/0	11:09:30
+0/0	11:14:30
+0/0	11:19:30
+0/0	11:24:30
+0/0	11:29:30
+0/0	11:34:30
+0/0	11:39:30
+0/0	11:44:30
+0/0	11:49:30
+0/0	11:54:30
+0/0	11:59:30
+0/0	12:04:30
+0/0	12:09:30
+0/0	12:14:30
+0/0	12:19:30
+0/0	12:24:30
+0/0	12:29:30
+0/0	12:34:30
+0/0	12:39:30
+0/0	12:44:31
+0/0	12:49:31
+0/0	12:54:31
+0/0	12:59:31
+0/0	13:04:31
+0/0	13:09:31
+0/0	13:14:31
+0/0	13:19:31
+0/0	13:24:31
+0/0	13:29:31
+0/0	13:34:31
+0/0	13:39:31
+0/0	13:44:31
+0/0	13:49:31
+0/0	13:54:31
+0/0	13:59:31
+0/0	14:04:31
+5) SQL数据库连接成功...
+	14:09:39
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:10:26
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:10:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:11:15
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:12:31
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:13:00
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	14:13:32
+0/0	14:14:37
+0/0	14:19:37
+0/0	14:24:37
+0/0	14:29:37
+0/0	14:34:37
+0/0	14:39:37
+0/0	14:44:37
+0/0	14:49:37
+0/0	14:54:37
+0/0	14:59:37
+0/0	15:04:37
+0/0	15:09:37
+0/0	15:14:37
+0/0	15:19:37
+0/0	15:24:37
+0/0	15:29:37
+0/0	15:34:37
+0/0	15:39:37
+0/0	15:44:37
+0/0	15:49:37
+0/0	15:54:37
+0/0	15:59:37
+0/0	16:04:37
+0/0	16:09:37
+0/0	16:14:37
+0/0	16:19:37
+0/0	16:24:37
+0/0	16:29:37
+0/0	16:34:37
+5) SQL数据库连接成功...
+	16:37:25
+0/0	16:42:23
+0/0	16:47:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:03
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:06
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:08
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:15
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:18
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:52:21
+0/0	16:52:23
+0/0	16:57:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:58:37
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:58:39
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:58:42
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:58:58
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:59:00
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	16:59:02
+0/0	17:02:23
+0/0	17:07:23
+0/0	17:12:23
+0/0	17:17:23
+0/0	17:22:23
+0/0	17:27:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:14
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:16
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:19
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:21
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:23
+0/0	17:32:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:32:26
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:17
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:25
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:27
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:41
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:45
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	17:35:47
+0/0	17:37:23
+0/0	17:42:23
+0/0	17:47:23
+0/0	17:52:23
+0/0	17:57:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:09
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:10
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:12
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:21
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:24
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	18:00:26
+0/0	18:02:23
+0/0	18:07:23
+0/0	18:12:23
+0/0	18:17:23
+0/0	18:22:23
+0/0	18:27:23
+0/0	18:32:23
+0/0	18:37:23
+0/0	18:42:23
+0/0	18:47:23
+0/0	18:52:23
+0/0	18:57:23
+0/0	19:02:23
+0/0	19:07:23
+0/0	19:12:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:15:55
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:15:57
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:16:07
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:16:09
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:16:13
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:16:16
+0/0	19:17:23
+0/0	19:22:23
+0/0	19:27:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:29
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:32
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:35
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:37
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:39
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:28:42
+0/0	19:32:23
+0/0	19:37:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:41:00
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:19
+0/0	19:42:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:43
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:45
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:48
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:51
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:42:55
+0/0	19:47:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:07
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:22
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:25
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:28
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:50:42
+0/0	19:52:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:56:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:56:56
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:57:11
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:57:13
+0/0	19:57:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:58:08
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	19:58:11
+0/0	20:02:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:03:28
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:03:31
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:04:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:04:49
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:05:10
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:05:12
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:05:38
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:05:54
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:06:03
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:06:46
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:06:50
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:06:52
+0/0	20:07:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:18
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:51
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:52
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:54
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:56
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:11:59
+0/0	20:12:23
+0/0	20:17:23
+0/0	20:22:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:25:55
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:25:57
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:26:06
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:26:11
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:26:13
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:26:17
+0/0	20:27:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:30:41
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:30:43
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:30:46
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:30:48
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:30:55
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:31:01
+0/0	20:32:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:11
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:13
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:16
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:18
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:36:23
+0/0	20:37:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	20:40:45
+0/0	20:42:23
+0/0	20:47:23
+0/0	20:52:23
+0/0	20:57:23
+0/0	21:02:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:05:25
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:05:36
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:05:44
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:06:14
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:07:02
+0/0	21:07:24
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:08:03
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:08:28
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:09:22
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:09:28
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:09:40
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:09:47
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:09:56
+0/0	21:12:24
+0/0	21:17:24
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	21:19:18
+0/0	21:22:24
+0/0	21:27:24
+0/0	21:32:24
+0/0	21:37:24
+0/0	21:42:24
+0/0	21:47:24
+0/0	21:52:24
+0/0	21:57:24
+0/0	22:02:24
+0/0	22:07:24
+0/0	22:12:24
+0/0	22:17:24
+0/0	22:22:24
+0/0	22:27:24
+0/0	22:32:24
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:32:51
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:33:11
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:33:22
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:33:30
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:47:48
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:47:54
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:48:01
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:48:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	22:48:21
+0/0	22:52:23
+0/0	22:57:23
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	23:01:20
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	23:01:26
+Verify Begin SDKID: 0 -  Code: 2
+Verify End SDKID: 0 Code: 1 Tick: 0
+	23:01:32
+0/0	23:02:23
+0/0	23:07:23
+0/0	23:12:23
+0/0	23:17:23
+0/0	23:22:23

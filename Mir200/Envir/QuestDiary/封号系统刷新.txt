@@ -1,0 +1,99 @@
+[@封号系统刷新]
+{
+#IF
+#ACT
+MOV S$A_爵位称号 
+MOV S$A_天下第一三职业称号
+MOV S$A_天下第一称号
+
+#IF
+equal <$STR(N$A_爵位捐献标识)> 1
+#ACT
+MOV S$A_爵位称号 总统
+
+#IF
+equal <$STR(N$A_爵位捐献标识)> 2
+#ACT
+MOV S$A_爵位称号 公爵
+
+#IF
+equal <$STR(N$A_爵位捐献标识)> 3
+#ACT
+MOV S$A_爵位称号 侯爵
+
+#IF
+equal <$STR(N$A_爵位捐献标识)> 4
+#ACT
+MOV S$A_爵位称号 伯爵
+
+#IF
+equal <$STR(N$A_爵位捐献标识)> 5
+#ACT
+MOV S$A_爵位称号 子爵
+
+
+
+
+#IF
+equal <$GLOBAL(A_天下第一战士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一三职业称号 [天下第一战士]
+
+#IF
+equal <$GLOBAL(A_天下第一法师名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一三职业称号 [天下第一法师]
+
+#IF
+equal <$GLOBAL(A_天下第一道士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一三职业称号 [天下第一道士]
+
+#IF
+equal <$GLOBAL(A_天下第一男战士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一男战士]
+
+#IF
+equal <$GLOBAL(A_天下第一男法师名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一男法师]
+
+#IF
+equal <$GLOBAL(A_天下第一男道士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一男道士]
+
+#IF
+equal <$GLOBAL(A_天下第一女战士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一女战士]
+
+#IF
+equal <$GLOBAL(A_天下第一女法师名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一女法师]
+
+#IF
+equal <$GLOBAL(A_天下第一女道士名字)> <$USERNAME>
+#ACT
+MOV S$A_天下第一称号 [天下第一女道士]
+
+
+
+#IF
+large <$RELEVEL> 0
+#ACT
+MOV S$A_转生称号 转生等级[<$RELEVEL>级]
+
+
+#IF
+#ACT
+SETRANKLEVELNAME %s\<$STR(S$A_爵位称号)>\<$STR(S$A_天下第一称号)>\<$STR(S$A_天下第一三职业称号)>\<$STR(S$A_转生称号)>
+
+
+;------------------------------------------------------------
+
+
+
+}

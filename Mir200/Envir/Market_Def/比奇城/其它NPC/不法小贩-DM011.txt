@@ -1,0 +1,67 @@
+(@buy @sell @repair @s_repair )
+;武器
+%180
++30
++0
++3
++5
++6
++10
++11
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎? 你想购买什么?\
+不要想打折...\
+我认为你别无选择...\
+ <购买/@buy> 物品\
+ <出售/@sell> 物品\
+ <修理/@repair> 物品\
+ <取消/@exit>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM011.txt] @Settings
+
+[@buy]
+是有点昂贵,但如果你有能力最好是买下.\ \ \
+ <返回/@main>
+
+[goods]
+;物品(can be Zen)     数量       小时
+蜡烛              1000        1
+金创药(小量)      1000        1
+魔法药(小量)      1000        1
+地牢逃脱卷        1000        1
+骰子		  5	      1
+
+
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你想把什么卖给我?\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM011.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+这里只修补衣服和武器\ \
+
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM011.txt] @Mobile_repair

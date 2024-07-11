@@ -1,0 +1,88 @@
+(@buy @sell @repair @s_repair )
+%200
++19
++20
++21
++22
++23
++24
++26
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎!我们经营精美首饰！\ \
+
+ <购买/@buy> 首饰 \
+ <出售/@sell> 首饰\
+ <修理/@repair> 首饰\
+ <特殊修理/@s_repair>\
+<退出/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Settings
+
+
+
+[@buy]
+请选择你要购买的首饰.\ \ \
+ <返回/@main>
+ 
+[~@repair]
+看上去修好了.\ \
+ <返回/@main>
+
+[goods]
+;物品(can be Zen)	数量      时间
+小手镯        3          3
+银手镯        3          3
+铁手镯          3          3 
+金项链         3         3
+传统项链       3         3
+古铜戒指        3          3
+六角戒指        3          3
+玻璃戒指        3          3
+死神手套         3          3 
+魔法手镯         3          3 
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+您出售哪种首饰?\
+我们也处理首饰.\ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你可以修理各种首饰. \ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你确定要修理？不过我要收取你三倍的价格！\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_s_repair

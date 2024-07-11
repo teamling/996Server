@@ -1,0 +1,111 @@
+[@属性刷新]
+{
+#IF
+#ACT
+GOTO @属性清零
+
+#IF
+equal <$STR(S$A_爵位捐赠标识)> 1
+#ACT
+INC N$A属性计算6 15
+INC N$A属性计算8 15
+INC N$A属性计算10 15
+
+#IF
+equal <$STR(S$A_爵位捐赠标识)> 2
+#ACT
+INC N$A属性计算6 10
+INC N$A属性计算8 10
+INC N$A属性计算10 10
+
+#IF
+equal <$STR(S$A_爵位捐赠标识)> 3
+#ACT
+INC N$A属性计算6 8
+INC N$A属性计算8 8
+INC N$A属性计算10 8
+
+#IF
+equal <$STR(S$A_爵位捐赠标识)> 4
+#ACT
+INC N$A属性计算6 6
+INC N$A属性计算8 6
+INC N$A属性计算10 6
+
+#IF
+equal <$STR(S$A_爵位捐赠标识)> 5
+#ACT
+INC N$A属性计算6 4
+INC N$A属性计算8 4
+INC N$A属性计算10 4
+
+#IF
+large <$HUMAN(A_捐献元宝)> 99
+equal <$STR(S$A_爵位捐赠标识)>
+#ACT
+INC N$A属性计算6 2
+INC N$A属性计算8 2
+INC N$A属性计算10 2
+
+GOTO @属性赋值
+
+
+
+
+
+
+;------------------------------------------------------------
+
+[@属性清零]
+#IF
+#ACT
+CHANGEHUMABILITY 1 = 0
+CHANGEHUMABILITY 2 = 0
+CHANGEHUMABILITY 3 = 0
+CHANGEHUMABILITY 4 = 0
+CHANGEHUMABILITY 5 = 0
+CHANGEHUMABILITY 6 = 0
+CHANGEHUMABILITY 7 = 0
+CHANGEHUMABILITY 8 = 0
+CHANGEHUMABILITY 9 = 0
+CHANGEHUMABILITY 10 = 0
+
+CHANGEHUMABILITY 11 = 0
+CHANGEHUMABILITY 12 = 0
+
+
+MOV N$A属性计算1 0
+MOV N$A属性计算2 0
+MOV N$A属性计算3 0
+MOV N$A属性计算4 0
+MOV N$A属性计算5 0
+MOV N$A属性计算6 0
+MOV N$A属性计算7 0
+MOV N$A属性计算8 0
+MOV N$A属性计算9 0
+MOV N$A属性计算10 0
+
+MOV N$A属性计算11 0
+MOV N$A属性计算12 0
+
+
+
+
+[@属性赋值]
+#IF
+#ACT
+CHANGEHUMABILITY 1 = <$STR(N$A属性计算1)>
+CHANGEHUMABILITY 2 = <$STR(N$A属性计算2)>
+CHANGEHUMABILITY 3 = <$STR(N$A属性计算3)>
+CHANGEHUMABILITY 4 = <$STR(N$A属性计算4)>
+CHANGEHUMABILITY 5 = <$STR(N$A属性计算5)>
+CHANGEHUMABILITY 6 = <$STR(N$A属性计算6)>
+CHANGEHUMABILITY 7 = <$STR(N$A属性计算7)>
+CHANGEHUMABILITY 8 = <$STR(N$A属性计算8)>
+CHANGEHUMABILITY 9 = <$STR(N$A属性计算9)>
+CHANGEHUMABILITY 10 = <$STR(N$A属性计算10)>
+CHANGEHUMABILITY 11 = <$STR(N$A属性计算11)>
+CHANGEHUMABILITY 12 = <$STR(N$A属性计算12)>
+
+
+}

@@ -1,0 +1,11 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+哼,人类,想尝尝我镰刀的滋味吗?\ \
+<确定/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\NPC\klzj4-4.txt] @Settings

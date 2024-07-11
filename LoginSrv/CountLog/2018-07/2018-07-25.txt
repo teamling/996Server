@@ -1,0 +1,134 @@
+5) SQL数据库连接成功...
+	17:13:43
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:14:37
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:18:20
+0/0	17:18:41
+0/0	17:23:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:26:12
+0/0	17:28:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:31:13
+0/0	17:33:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:34:24
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:34:30
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:36:23
+0/0	17:38:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:39:02
+0/0	17:43:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:44:23
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:45:40
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:46:07
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:48:26
+0/0	17:48:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	17:52:19
+0/0	17:53:41
+0/0	17:58:41
+0/0	18:03:41
+0/0	18:08:41
+0/0	18:13:41
+0/0	18:18:41
+0/0	18:23:41
+0/0	18:28:41
+0/0	18:33:41
+0/0	18:38:41
+0/0	18:43:41
+0/0	18:48:41
+0/0	18:53:41
+0/0	18:58:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:02:31
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:03:21
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:03:24
+0/0	19:03:41
+0/0	19:08:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:12:57
+0/0	19:13:41
+0/0	19:18:41
+0/0	19:23:41
+0/0	19:28:41
+0/0	19:33:41
+0/0	19:38:41
+0/0	19:43:41
+0/0	19:48:41
+0/0	19:53:41
+0/0	19:58:41
+0/0	20:03:41
+0/0	20:08:41
+0/0	20:13:41
+0/0	20:18:41
+0/0	20:23:41
+0/0	20:28:41
+0/0	20:33:41
+0/0	20:38:41
+0/0	20:43:41
+0/0	20:48:41
+0/0	20:53:41
+0/0	20:58:41
+0/0	21:03:41
+0/0	21:08:41
+0/0	21:13:41
+0/0	21:18:41
+0/0	21:23:41
+0/0	21:28:41
+0/0	21:33:41
+0/0	21:38:41
+0/0	21:43:41
+0/0	21:48:41
+0/0	21:53:41
+0/0	21:58:41
+0/0	22:03:41
+0/0	22:08:41
+0/0	22:13:41
+0/0	22:18:41
+0/0	22:23:41
+0/0	22:28:41
+0/0	22:33:41
+0/0	22:38:41
+0/0	22:43:41
+0/0	22:48:41
+0/0	22:53:41
+0/0	22:58:41
+0/0	23:03:41
+0/0	23:08:41
+0/0	23:13:41
+0/0	23:18:41
+0/0	23:23:41
+0/0	23:28:41
+0/0	23:33:41
+0/0	23:38:41
+0/0	23:43:41
+0/0	23:48:41
+0/0	23:53:41
+0/0	23:58:41

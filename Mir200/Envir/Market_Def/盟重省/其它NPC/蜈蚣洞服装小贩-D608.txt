@@ -1,0 +1,41 @@
+(@repair @s_repair )
+%100
++10
++11
++15
+
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+嘿，不管我多么喜欢钱，\
+这么危险的事情我也不想干了。\
+你知道，我贩运的成本是非常高的。 \
+你应该付给我双倍的价格。如果你信任我，\
+没有任何异议的话，修补衣服我可是非常\
+灵巧的啊.\ \
+ <修补衣物/@repair>\
+ <离 开/@exit>\
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\其它NPC\蜈蚣洞服装小贩-D608.txt] @Settings
+
+[~@repair]
+看！活干的多漂亮啊，对不对 ?\ \ \
+ <返 回/@Main>
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我只处理衣物。\
+真正的工匠是不会什么都做的\
+什么都会做的,那肯定是骗子...\ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\其它NPC\蜈蚣洞服装小贩-D608.txt] @Mobile_repair

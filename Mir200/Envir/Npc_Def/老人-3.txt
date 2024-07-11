@@ -1,0 +1,59 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你想知道最近沙巴克的攻城战役吗?\ \
+
+<查 看/@aboutwar>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+你想知道最近沙巴克的攻城战役吗?\ \
+
+<查 看/@aboutwar>
+
+[@aboutwar]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+查看关于最近的攻城战役纪录\ \
+战役开始时间： <$CASTLEWARDATE> , 晚上8:00开始。\
+
+<详细情况/@listwar>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+
+<$NPCNAME>：\ \
+查看关于最近的攻城战役纪录\
+战役开始时间： <$CASTLEWARDATE> , 晚上8:00开始。\
+
+<详细情况/@listwar>
+
+
+
+[@listwar]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+<Img|x=1.0|y=0.0|height=400|show=0|scale9l=10|scale9t=10|scale9r=10|bg=1|scale9b=10|reset=1|move=0|img=public/bg_npc_01.png|esc=1>
+<Button|x=546|y=0|nimg=public/1900000510.png|pimg=public/1900000511.png|link=@exit>
+<Layout|x=545|y=0|width=80|height=80|link=@exit>
+
+<$LISTOFWAR>
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+<Img|x=1.0|y=0.0|height=400|show=0|reset=1|scale9l=10|scale9r=10|bg=1|scale9b=10|esc=1|move=0|img=public/bg_npc_01.png|scale9t=10>
+<Button|x=546|y=0|nimg=public/1900000510.png|pimg=public/1900000511.png|link=@exit>
+<Layout|x=545|y=0|width=80|height=80|link=@exit>
+<Text|a=0|x=29.0|y=24.0|color=243|size=16|text=<$LISTOFWAR>>
+
+
+
+
+

@@ -1,0 +1,33 @@
+Alter Table MIR_HUM_BODY_ITEM Add Idx int not null default 0
+Update MIR_HUM_BODY_ITEM Set Idx = 0
+Alter Table MIR_HUM_BAG_ITEM Add Idx int not null default 0
+Update MIR_HUM_BAG_ITEM Set Idx = 0
+Alter Table MIR_HUM_STORAGE_ITEM Add Idx int not null default 0
+Update MIR_HUM_STORAGE_ITEM Set Idx = 0
+Alter Table MIR_HUM_MAGIC Add Idx int not null default 0
+Update MIR_HUM_MAGIC Set Idx = 0
+
+
+Create Table MIR_HUM_STATISTICS (
+  Id int IDENTITY (1, 1) NOT NULL Primary Key,
+  sChrName varchar(20) NOT NULL,
+  sAccount varchar(20) NOT NULL,
+  nLevel int NOT NULL,
+  sMap varchar(40) NOT NULL,
+  btJob smallint NOT NULL,
+  nMapX int NOT NULL,
+  nMapY int NOT NULL,
+  nExp bigint NOT NULL,
+  nGold int NOT NULL,
+  nBindGold int NOT NULL,
+  nGameGold int NOT NULL,
+  nTaskId int NOT NULL,
+  dtLoginTime datetime NOT NULL,
+  dtUpdateTime datetime NOT NULL,
+  nMinutes int NOT NULL
+)
+
+Create Index idxChrName On MIR_HUM_STATISTICS(sChrName)
+Create Index idxTaskId On MIR_HUM_STATISTICS(nTaskId)
+Create Index idxLoginTime On MIR_HUM_STATISTICS(dtLoginTime)
+Create Index idxUpdateTime On MIR_HUM_STATISTICS(dtUpdateTime)

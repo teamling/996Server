@@ -1,0 +1,43 @@
+[2024-07-11 16:22:52:003] Socket Err:10061
+
+[2024-07-11 16:22:54:815] Failure: .\Map\nz008.map could not be loaded.
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[弓箭手]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[守卫]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize Guard -> UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[守卫]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize Guard -> UnitObj = nil
+[2024-07-11 16:22:56:456] >>>>>RegenMonsterByName ThreadError :[守卫]-0[3-36988] 当前Thread:22336
+[2024-07-11 16:22:56:456] [Error] UserCastle.Initialize Guard -> UnitObj = nil
+[2024-07-11 16:22:57:105] ---------------------线程耗时监控
+[2024-07-11 16:22:57:152] Frame-----------------------------------
+
+[2024-07-11 16:22:57:267] MainRunThread(0)-----------------------------------
+
+[2024-07-11 16:22:57:279] EnvirThread 1/0(7735-0)flag:50000014  lua: 0 CallLua: 0-----------------------------------
+
+[2024-07-11 16:22:57:294] DbThread(0-0)-----------------------------------
+
+[2024-07-11 16:22:57:310] BoxSellDbThread(0)-----------------------------------
+
+[2024-07-11 16:22:57:310] NewHttpPost(0-0-0)-----------------------------------
+
+

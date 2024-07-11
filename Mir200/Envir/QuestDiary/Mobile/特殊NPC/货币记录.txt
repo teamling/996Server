@@ -1,0 +1,33 @@
+[@金币]
+{
+#IF
+Equal <$CLIENTFLAG> 2
+NOT equal <$HUMAN(金币记录)> <$MONEY(金币)>
+#ACT
+SAVEVAR HUMAN 金币记录 <$MONEY(金币)>
+delbutton 101 1
+MOV S$图标1 <Img|x=70|y=-3|img=item/item_0/000123.png>
+INC S$图标1 <Text|text=<$MONEY(金币)>|x=120|y=1|size=20>
+
+INC S$图标1 <Img|x=230|y=-3|img=item/item_0/000124.png>
+INC S$图标1 <Text|text=<$MONEY(元宝)>|x=280|y=1|size=20>
+addbutton 101 1 <$STR(S$图标1)>
+
+}
+
+[@元宝]
+{
+#IF
+Equal <$CLIENTFLAG> 2
+NOT equal <$HUMAN(元宝记录)> <$MONEY(元宝)>
+#ACT
+SAVEVAR HUMAN 元宝记录 <$MONEY(元宝)>
+delbutton 101 1
+MOV S$图标1 <Img|x=70|y=-3|img=item/item_0/000123.png>
+INC S$图标1 <Text|text=<$MONEY(金币)>|x=120|y=1|size=20>
+
+INC S$图标1 <Img|x=230|y=-3|img=item/item_0/000124.png>
+INC S$图标1 <Text|text=<$MONEY(元宝)>|x=280|y=1|size=20>
+addbutton 101 1 <$STR(S$图标1)>
+
+}

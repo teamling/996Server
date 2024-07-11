@@ -1,0 +1,59 @@
+( @repair @s_repair )
+%100
++5
++6
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#ACT
+GOTO @main_01
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\沃玛铁匠-1.txt] @Settings
+
+[@main_01]
+#IF
+checkpkpoint 2
+#SAY
+我不想和你这样的人打交道.. \ \
+<离 开/@exit>
+#ELSEACT
+goto @main-1
+
+[@main-1]
+欢迎光临，需要我帮什么忙吗？\ \ 
+ <修理/@repair> 武器\
+ <特殊修理/@s_repair>\
+ <离 开/@exit>
+ 
+[~@repair]
+它看起来已经修好了，\
+如果您有别的武器要修理,请来这\ \
+ <返 回/@Main>
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我会修好它\ \ \
+ <返 回/@Main>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\沃玛铁匠-1.txt] @Mobile_repair
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你确定要修理？不过我要收取你三倍的价格！\ \ \
+ <返 回/@main>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\沃玛铁匠-1.txt] @Mobile_s_repair

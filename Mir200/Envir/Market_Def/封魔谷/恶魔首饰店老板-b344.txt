@@ -1,0 +1,91 @@
+(@buy @sell @repair @s_repair )
+%200
++19
++20
++21
++22
++23
++24
++26
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+在这座城没有被诅咒之前,我是这一带最有名的工匠.\
+手镯,项链,戒指都让我来帮你处理好了.\ \ 
+<购买/@buy>首饰品\
+<出售/@sell>首饰品\
+<修理/@repair>首饰品\
+<特殊修理/@s_repair>\
+<取消/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔首饰店老板-b344.txt] @Settings
+
+[@buy]
+这里有戒指，手镯，项链，您需要什么? \ \  
+<下一个/@main>
+
+[~@repair]
+已经修理好了. \ \ 
+<下一个/@main>
+
+[goods]
+小手镯 	      10      3
+银手镯	      10      3
+铁手镯        10      3
+钢手镯        10      3
+皮手套        10      3
+大手镯        10      3
+坚固手套      10      3
+铂金手镯      10      3
+魔法手镯      10      3
+魔力手镯      10      3
+道士手镯      10      3
+黑檀手镯      10      3
+死神手套      10      3
+
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+为了防止万一，我要准备一些必要的首饰品做备用\
+如果您有多余的首饰品，可以卖给我 \
+我会给您好价钱. \ \ 
+<下一个/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_sell
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我可以给您修理陈旧或损坏的首饰品. \ 
+您需要修理什么 \ \ 
+<下一个/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你确定要修理？不过我要收取你三倍的价格！\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\首饰店老板-1005.txt] @Mobile_s_repair

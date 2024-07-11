@@ -1,0 +1,71 @@
+(@buy @sell @repair @s_repair )
+%100
++24
++26
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎！这里有你想要的手套。\ \
+ <买/@buy> 手套\
+ <卖/@sell> 手套\
+ <修补/@repair> 手套\
+ <离 开/@exit>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\手套店老板-0149.txt] @Settings
+
+[@buy]
+你想买点什么？\ \ \
+ <返 回/@Main>
+[~@repair]
+这个看上去已经补好了。\ \ \
+ <返 回/@Main>
+ 
+[goods]
+皮制手套      10      3
+坚固手套      10      3 
+死神手套      10      3
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+把你要卖的东西给我看看，我会给你一个估价...\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\手套店老板-0149.txt] @Mobile_sell
+
+
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+这里你可以修补手套.\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\手套店老板-0149.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你确定要修理？不过我要收取你三倍的价格！\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\手套店老板-0149.txt] @Mobile_s_repair

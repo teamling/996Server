@@ -1,0 +1,41 @@
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 11:01:34 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0 -- 
+Load(ª∫):[1] [0] 2020-11-03 11:01:40 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-03 11:04:40 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:07:40 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0Bag[3]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[4]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-03 11:10:40 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0Bag[3]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[4]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-03 11:13:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0Bag[3]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[4]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:16:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426993 Index:10017 OverLap:0Bag[1]: MakeIndex:32426995 Index:10006 OverLap:0Bag[2]: MakeIndex:32426996 Index:10004 OverLap:0Bag[3]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[4]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-03 11:19:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:63,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-03 11:22:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:25:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:28:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 11:31:41 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:16,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 11:34:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-03 11:37:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:32,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-03 11:40:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-03 11:43:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:46:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 11:49:42 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 11:52:43 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-03 11:55:43 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-03 11:58:43 ‘¨÷Ò”∞ Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 

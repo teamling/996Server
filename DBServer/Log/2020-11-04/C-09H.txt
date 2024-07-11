@@ -1,0 +1,45 @@
+Load(库):[3] [0] 2020-11-04 09:01:18 花开的声音 Level:0  --  -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:04:18 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:32,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-04 09:07:18 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:32,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-04 09:10:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-04 09:13:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-04 09:16:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-04 09:19:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:22:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:25:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-04 09:28:19 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-04 09:31:20 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:32,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-04 09:34:20 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-04 09:37:20 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-04 09:40:20 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:43:20 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:47,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-04 09:43:46 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-11-04 09:47:22 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-04 09:47:43 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-11-04 09:47:47 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-04 09:48:25 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-11-04 09:48:54 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-04 09:51:34 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-11-04 09:51:39 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:54:39 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-04 09:57:40 花开的声音 Level:1  -- Bag[0]: MakeIndex:32427095 Index:10017 OverLap:0Bag[1]: MakeIndex:32427096 Index:10001 OverLap:0Bag[2]: MakeIndex:32427097 Index:10006 OverLap:0Bag[3]: MakeIndex:32427098 Index:10004 OverLap:0 -- 

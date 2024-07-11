@@ -1,0 +1,2 @@
+[2020-11-21 11:17:01:515] 脚本错误2: ReadExcelEx ..\QuestDiary\祈福常量定义.xls 第:7 行: D:\MirServer基础版\Mir200\Envir\MapQuest_def\QManage.txt
+

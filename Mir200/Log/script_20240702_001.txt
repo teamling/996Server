@@ -1,0 +1,4 @@
+[2024-07-02 10:02:01:359] NPC:QManage ID:999999996 脚本执行 @STARTUP player: 耗时:47; NpcThreadId:17312, CurPlayThreadId:17312
+
+[2024-07-02 10:06:27:817] NPC:QManage ID:999999996 脚本执行 @STARTUP player: 耗时:31; NpcThreadId:17064, CurPlayThreadId:17064
+

@@ -1,0 +1,7 @@
+2018-06-22 10:47:47:984closeSession2: s1/2
+2018-06-22 10:47:52:727closeSession2: s2/3
+2018-06-22 10:47:54:989closeSession2: s3/4
+2018-06-22 10:47:57:424closeSession2: s4/5
+2018-06-22 10:47:59:615closeSession2: s5/6
+2018-06-22 10:48:02:383closeSession2: s6/7
+2018-06-22 10:53:24:762closeSession2: s3/10

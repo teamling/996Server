@@ -1,0 +1,92 @@
+[2020-11-18 11:03:05:550] Frame-----------------------------------
+[2020-11-18 11:03:05:550] [77132F5C] ZwReadFile
+[0040B500] SysUtils.FileRead
+[00676742] LocalDB.TFrmDB.LoadGoodRecord (Line 8558, "LocalDB.pas" + 14)
+[006F1333] ObjNpc.TMerchant.LoadNPCData (Line 2008, "ObjNpc.pas" + 2)
+[006CA4BD] UsrEngn.TUserEngine.MerchantInitialize (Line 428, "UsrEngn.pas" + 22)
+[006CA213] UsrEngn.TUserEngine.Initialize (Line 372, "UsrEngn.pas" + 1)
+[00422CC4] Classes.TStrings.Add
+[00653140] svMain.TFrmMain.StartEngine (Line 876, "svMain.pas" + 76)
+[006521E4] svMain.TFrmMain.StartTimerTimer (Line 747, "svMain.pas" + 202)
+[0044EA9B] ExtCtrls.TTimer.Timer
+[0044E97F] ExtCtrls.TTimer.WndProc
+[0042C40C] Classes.StdWndProc
+[00480CD8] Forms.TApplication.ProcessMessage
+[00480CFA] Forms.TApplication.HandleMessage
+[00480FEF] Forms.TApplication.Run
+[007A8FD3] M2Server.M2Server (Line 119, "E:\996_code\M2Server\M2Server.dpr" + 18)
+
+[2020-11-18 11:03:05:550] MainRunThread(228993125)-----------------------------------
+[2020-11-18 11:03:05:550] [7713325C] ZwDelayExecution
+[004DB490] uThreadPools.TThreadPool.ThreadProc (Line 152, "uThreadPools.pas" + 3)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+[2020-11-18 11:03:05:550] FDbThread(228993125)-----------------------------------
+[2020-11-18 11:03:05:550] [77132F8C] ZwRemoveIoCompletion
+[004DB4C7] uThreadPools.TThreadPool.ThreadProc (Line 159, "uThreadPools.pas" + 10)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+
+[2020-11-18 20:23:26:625] Frame-----------------------------------
+[2020-11-18 20:23:26:625] [77132F5C] ZwReadFile
+[0040B500] SysUtils.FileRead
+[00676911] LocalDB.TFrmDB.LoadGoodPriceRecord (Line 8609, "LocalDB.pas" + 13)
+[006F1345] ObjNpc.TMerchant.LoadNPCData (Line 2009, "ObjNpc.pas" + 3)
+[006CA4BD] UsrEngn.TUserEngine.MerchantInitialize (Line 428, "UsrEngn.pas" + 22)
+[006CA213] UsrEngn.TUserEngine.Initialize (Line 372, "UsrEngn.pas" + 1)
+[00422CC4] Classes.TStrings.Add
+[00653140] svMain.TFrmMain.StartEngine (Line 876, "svMain.pas" + 76)
+[006521E4] svMain.TFrmMain.StartTimerTimer (Line 747, "svMain.pas" + 202)
+[0044EA9B] ExtCtrls.TTimer.Timer
+[0044E97F] ExtCtrls.TTimer.WndProc
+[0042C40C] Classes.StdWndProc
+[00480CD8] Forms.TApplication.ProcessMessage
+[00480CFA] Forms.TApplication.HandleMessage
+[00480FEF] Forms.TApplication.Run
+[007A8FD3] M2Server.M2Server (Line 119, "E:\996_code\M2Server\M2Server.dpr" + 18)
+
+[2020-11-18 20:23:26:625] MainRunThread(262615156)-----------------------------------
+[2020-11-18 20:23:26:625] [7713325C] ZwDelayExecution
+[004DB490] uThreadPools.TThreadPool.ThreadProc (Line 152, "uThreadPools.pas" + 3)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+[2020-11-18 20:23:26:625] FDbThread(262615156)-----------------------------------
+[2020-11-18 20:23:26:626] [77132F8C] ZwRemoveIoCompletion
+[004DB4C7] uThreadPools.TThreadPool.ThreadProc (Line 159, "uThreadPools.pas" + 10)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+
+[2020-11-19 22:01:04:178] [Exception] TBaseObject::Run 1 Except£ºAccess violation at address 0075C77F in module 'M2Server.exe'. Read of address 00000000[0075C77F] uPlayObject.TPlayObject.Die (Line 15242, "uPlayObject.pas" + 13)
+(00004648) [00405648]
+(00004973) [00405973]
+(00004988) [00405988]
+(000045BD) [004055BD]
+[0078EE75] ObjBase.TBaseObject.RunReAliveFrmMapFlag (Line 3247, "ObjBase.pas" + 20)
+[0078DA8F] ObjBase.TBaseObject.Run (Line 2693, "ObjBase.pas" + 90)
+[0075C468] uPlayObject.TPlayObject.CheckHasSkillName (Line 15170, "uPlayObject.pas" + 24)
+(00002004) [00403004]
+(000045BD) [004055BD]
+[00779253] uPlayObject.TPlayObject.DoAutoPickUpItems (Line 24475, "uPlayObject.pas" + 74)
+[004DA15A] SDK.TGList.UnLock (Line 64, "..\SDK\SDK.pas" + 4)
+[0075A64D] uPlayObject.TPlayObject.DelTemRote (Line 14586, "uPlayObject.pas" + 32)
+[0078C34B] ObjBase.TAnimalObject.Run (Line 2110, "ObjBase.pas" + 14)
+[00738696] uPlayObject.TPlayObject.Run (Line 4915, "uPlayObject.pas" + 836)
+[006CBECE] UsrEngn.TUserEngine.ProcessHumans (Line 1050, "UsrEngn.pas" + 192)
+[006D22EE] UsrEngn.TUserEngine.PrcocessData (Line 3545, "UsrEngn.pas" + 4)
+[00655CB1] svMain.ProcessGameRun (Line 1874, "svMain.pas" + 3)
+[00655DA8] svMain.ProcessGameRun (Line 1898, "svMain.pas" + 27)
+[006566BD] svMain.TMainRunThread.OnRun (Line 2149, "svMain.pas" + 16)
+[004DB4EE] uThreadPools.TThreadPool.ThreadProc (Line 163, "uThreadPools.pas" + 14)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+

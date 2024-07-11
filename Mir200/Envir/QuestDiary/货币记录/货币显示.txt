@@ -1,0 +1,36 @@
+[@货币显示QM]
+{
+#IF
+Equal <$CLIENTFLAG> 1
+#ACT
+MOV S$图标1 <Text|x=26.0|y=20.0|color=255|x=80|y=288|size=12|text=元宝数量：>
+INC S$图标1 <Text|text=$STM(MONEY_2)|x=140|y=288|size=12>
+INC S$图标1 <Text|x=26.0|y=20.0|color=255|x=80|y=301|size=12|text=金刚石数量：>
+INC S$图标1 <Text|text=$STM(MONEY_5)|x=152|y=301|size=12>
+INC S$图标1 <Text|x=26.0|y=20.0|color=255|x=80|y=314|size=12|text=灵符数量：>
+INC S$图标1 <Text|text=$STM(MONEY_7)|x=140|y=314|size=12>
+addbutton 7 99 <$STR(S$图标1)>
+
+MOV S$图标3 <Button|x=256|y=240|text=整理|nimg=public/1900000652.png|pimg=public/1900000653.png|link=@刷新>
+addbutton 7 3 <$STR(S$图标3)>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+MOV S$图标1 <Img|x=70|y=-2|width=41|height=33|img=item/item_0/000123.png>
+INC S$图标1 <Text|text=$STM(MONEY_1)|x=115|y=1|size=20>
+INC S$图标1 <Img|x=200|y=-2|width=41|height=33|img=item/item_0/000124.png>
+INC S$图标1 <Text|text=$STM(MONEY_2)|x=252|y=1|size=20>
+addbutton 101 99 <$STR(S$图标1)>
+
+MOV S$图标3 <Button|x=210|y=345|text=整理|nimg=public/1900000652.png|pimg=public/1900000653.png|link=@刷新>
+
+
+INC S$图标3 <Text|x=26.0|y=20.0|color=255|x=80|y=395|size=16|text=元宝数量：>
+INC S$图标3 <Text|text=$STM(MONEY_2)|x=160|y=395|size=16>
+INC S$图标3 <Text|x=26.0|y=20.0|color=255|x=80|y=413|size=16|text=金刚石数量：>
+INC S$图标3 <Text|text=$STM(MONEY_5)|x=175|y=413|size=16>
+INC S$图标3 <Text|x=26.0|y=20.0|color=255|x=80|y=430|size=16|text=灵符数量：>
+INC S$图标3 <Text|text=$STM(MONEY_7)|x=160|y=430|size=16>
+addbutton 7 3 <$STR(S$图标3)>
+}

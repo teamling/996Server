@@ -1,0 +1,4 @@
+2018-05-31 16:00:05:485closeSession2: cs1/16
+2018-05-31 16:00:16:382closeSession2: cs1/18
+2018-05-31 16:00:18:635closeSession2: cs2/17
+2018-05-31 16:00:27:355closeSession2: cs1/19

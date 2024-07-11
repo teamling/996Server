@@ -1,0 +1,12 @@
+Load(»º):[1] [1] 2020-11-03 18:03:22 ÎÞ¶¾¤¦ Level:1  -- Bag[0]: MakeIndex:1073742661 Index:10134 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 18:03:37 ÎÞ¶¾¤¦ Level:1  -- Bag[0]: MakeIndex:1073742661 Index:10134 OverLap:0 -- 
+Load(»º):[1] [1] 2020-11-03 18:03:41 ÎÞ¶¾¤¦ Level:1  -- Bag[0]: MakeIndex:1073742661 Index:10134 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 18:05:33 ÎÞ¶¾¤¦ Level:1  --  -- 
+Load(»º):[1] [1] 2020-11-03 18:05:37 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:0,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-03 18:05:54 ÎÞ¶¾¤¦ Level:1  --  -- 
+Load(»º):[1] [1] 2020-11-03 18:06:00 ÎÞ¶¾¤¦ Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:0,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 18:06:34 ÎÞ¶¾¤¦ Level:1  --  -- 

@@ -1,0 +1,12 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+那边衣服店卖衣服的家伙,生前是男是女?\
+手蛮巧的,穿得却破破烂烂.\ \
+<确定/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\NPC\klzs1-4.txt] @Settings

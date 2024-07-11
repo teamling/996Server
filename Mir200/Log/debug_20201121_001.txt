@@ -1,0 +1,34 @@
+[2020-11-21 11:17:00:815]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-21 11:17:00:815]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-21 11:19:53:604]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-21 11:19:53:604]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-21 11:20:10:841] >>Login: 0 
+[2020-11-21 11:20:10:841] >>Login: 1 
+[2020-11-21 11:20:10:841] >>Login: 2 68
+[2020-11-21 11:20:10:841] >>Login: 3 68
+[2020-11-21 11:20:10:842] >>Login: 5_0 68
+[2020-11-21 11:20:10:880] >>Login: 5 68, 1
+[2020-11-21 11:20:10:880] >>Login: 5_1 68
+[2020-11-21 11:20:10:880] >>Login: 5_2 68
+[2020-11-21 11:20:10:880] >>Login: 6 68
+[2020-11-21 11:20:10:997] >>Login: 7 68
+[2020-11-21 11:20:11:009] >>Login: 8 68
+
+[2020-11-21 11:20:11:854] >>Login: 9 68
+[2020-11-21 11:20:11:854] >>Login: 10 cfg_att_score, 79CBE9D3F25DD88DE32E814F16658EC3 -> 7D9B58E1088762F1F564B44D85785E65
+[2020-11-21 11:20:11:854] >>Login: 10 cfg_model_info, 4EBCE106BEA5650D28DB9F3832173102 -> 32838DBA543CAE7E5F0208DEF23D2EB3
+[2020-11-21 11:20:11:854] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-21 11:20:11:855] >>Login: 10 cfg_stditem, 685FFADD95D4545D3A1B435B33230BFB1720CB386C59D679FFBF240A7CC5F243 -> 0BB773349B7DF9CFEF252965A80B11CC61C977D7069111DC092E432A407D8214
+[2020-11-21 11:20:11:855] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-21 11:20:11:855] >>Login: 11 68
+

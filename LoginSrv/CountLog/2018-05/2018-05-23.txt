@@ -1,0 +1,519 @@
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	20:30:35
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	20:31:10
+0/0	0:02:35
+0/0	0:07:35
+0/0	0:12:35
+0/0	0:17:35
+0/0	0:22:35
+0/0	0:27:35
+0/0	0:32:35
+0/0	0:37:35
+0/0	0:42:35
+0/0	0:47:35
+0/0	0:52:35
+0/0	0:57:35
+0/0	1:02:35
+0/0	1:07:35
+0/0	1:12:35
+0/0	1:17:35
+0/0	1:22:35
+0/0	1:27:35
+0/0	1:32:35
+0/0	1:37:35
+0/0	1:42:35
+0/0	1:47:35
+0/0	1:52:35
+0/0	1:57:35
+0/0	2:02:35
+0/0	2:07:35
+0/0	2:12:35
+0/0	2:17:35
+0/0	2:22:35
+0/0	2:27:35
+0/0	2:32:35
+0/0	2:37:35
+0/0	2:42:35
+0/0	2:47:35
+0/0	2:52:35
+0/0	2:57:35
+0/0	3:02:35
+0/0	3:07:35
+0/0	3:12:35
+0/0	3:17:35
+0/0	3:22:35
+0/0	3:27:35
+0/0	3:32:35
+0/0	3:37:35
+0/0	3:42:35
+0/0	3:47:35
+0/0	3:52:35
+0/0	3:57:35
+0/0	4:02:35
+0/0	4:07:35
+0/0	4:12:35
+0/0	4:17:35
+0/0	4:22:35
+0/0	4:27:35
+0/0	4:32:35
+0/0	4:37:35
+0/0	4:42:35
+0/0	4:47:35
+0/0	4:52:35
+0/0	4:57:35
+0/0	5:02:35
+0/0	5:07:35
+0/0	5:12:35
+0/0	5:17:35
+0/0	5:22:35
+0/0	5:27:35
+0/0	5:32:35
+0/0	5:37:35
+0/0	5:42:35
+0/0	5:47:35
+0/0	5:52:35
+0/0	5:57:35
+0/0	6:02:35
+0/0	6:07:35
+0/0	6:12:35
+0/0	6:17:35
+0/0	6:22:35
+0/0	6:27:35
+0/0	6:32:35
+0/0	6:37:35
+0/0	6:42:35
+0/0	6:47:36
+0/0	6:52:36
+0/0	6:57:36
+0/0	7:02:36
+0/0	7:07:36
+0/0	7:12:36
+0/0	7:17:36
+0/0	7:22:36
+0/0	7:27:36
+0/0	7:32:36
+0/0	7:37:36
+0/0	7:42:36
+0/0	7:47:36
+0/0	7:52:36
+0/0	7:57:36
+0/0	8:02:36
+0/0	8:07:36
+0/0	8:12:36
+0/0	8:17:36
+0/0	8:22:36
+0/0	8:27:36
+0/0	8:32:36
+0/0	8:37:36
+0/0	8:42:36
+0/0	8:47:36
+0/0	8:52:36
+0/0	8:57:36
+0/0	9:02:36
+0/0	9:07:36
+0/0	9:12:36
+0/0	9:17:36
+0/0	9:22:36
+0/0	9:27:36
+0/0	9:32:36
+0/0	9:37:36
+0/0	9:42:36
+0/0	9:47:36
+0/0	9:52:36
+0/0	9:57:36
+0/0	10:02:36
+0/0	10:07:36
+0/0	10:12:36
+0/0	10:17:36
+0/0	10:22:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:26:47
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:27:10
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:27:27
+0/0	10:27:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:27:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:28:06
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:28:14
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:18
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:45
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:48
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:50
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:55
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:57
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:31:59
+0/0	10:32:36
+0/0	10:37:36
+0/0	10:42:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:44:40
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:44:48
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:44:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:45:10
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:45:13
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:45:18
+0/0	10:47:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:50:29
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:51:01
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:51:05
+0/0	10:52:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:55:15
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:55:26
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:55:32
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	10:55:41
+0/0	10:57:36
+0/0	11:02:36
+0/0	11:07:36
+0/0	11:12:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	11:15:31
+0/0	11:17:36
+0/0	11:22:36
+0/0	11:27:36
+0/0	11:32:36
+0/0	11:37:36
+5) SQL数据库连接成功...
+	13:05:54
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:10:06
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:10:18
+0/0	13:10:52
+0/0	13:15:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:15:53
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:15:55
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:18:40
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:18:42
+0/0	13:20:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:21:40
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:21:41
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:21:58
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:22:20
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:22:27
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:22:36
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:23:20
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:23:22
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:23:24
+0/0	13:25:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:26:44
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:26:46
+0/0	13:30:52
+0/0	13:35:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:40:16
+0/0	13:40:52
+0/0	13:45:52
+0/0	13:50:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:52:53
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:53:12
+0/0	13:55:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:58:58
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:59:00
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:59:13
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:59:26
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:59:28
+0/0	14:00:52
+0/0	14:05:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:08:19
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:08:32
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:08:59
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:09:15
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:09:23
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:09:32
+0/0	14:10:52
+0/0	14:15:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:25
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:27
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:28
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:29
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:31
+0/0	14:20:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:25
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:29
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:31
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:37
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:40
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:22:42
+0/0	14:25:52
+0/0	14:30:52
+0/0	14:35:52
+0/0	14:40:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:44:19
+0/0	14:45:52
+0/0	14:50:52
+0/0	14:55:52
+0/0	15:00:52
+0/0	15:05:52
+0/0	15:10:52
+0/0	15:15:52
+0/0	15:20:52
+0/0	15:25:52
+0/0	15:30:52
+0/0	15:35:52
+0/0	15:40:52
+0/0	15:45:52
+0/0	15:50:52
+0/0	15:55:52
+0/0	16:00:52
+0/0	16:05:52
+0/0	16:10:52
+0/0	16:15:52
+0/0	16:20:52
+0/0	16:25:52
+0/0	16:30:52
+0/0	16:35:52
+0/0	16:40:52
+0/0	16:45:52
+0/0	16:50:52
+0/0	16:55:52
+0/0	17:00:52
+0/0	17:05:52
+0/0	17:10:52
+0/0	17:15:52
+0/0	17:20:52
+0/0	17:25:52
+0/0	17:30:52
+0/0	17:35:52
+0/0	17:40:52
+0/0	17:45:52
+0/0	17:50:52
+0/0	17:55:52
+0/0	18:00:52
+0/0	18:05:52
+0/0	18:10:52
+0/0	18:15:52
+0/0	18:20:52
+0/0	18:25:52
+0/0	18:30:52
+0/0	18:35:52
+0/0	18:40:52
+0/0	18:45:52
+0/0	18:50:52
+0/0	18:55:52
+0/0	19:00:52
+0/0	19:05:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:09:12
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:09:16
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:09:28
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:09:43
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:10:44
+0/0	19:10:52
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:11:59
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:12:05
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:12:18
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:12:36
+0/0	19:15:52
+0/0	19:20:52
+0/0	19:25:53
+0/0	19:30:53
+0/0	19:35:53
+0/0	19:40:53
+0/0	19:45:53
+0/0	19:50:53
+0/0	19:55:53
+0/0	20:00:53
+0/0	20:05:53
+0/0	20:10:53
+0/0	20:15:53
+0/0	20:20:53
+0/0	20:25:53
+0/0	20:30:53
+0/0	20:35:53
+0/0	20:40:53
+0/0	20:45:53
+0/0	20:50:53
+0/0	20:55:53
+0/0	21:00:53
+0/0	21:05:53
+0/0	21:10:53
+0/0	21:15:53
+0/0	21:20:53
+0/0	21:25:53
+0/0	21:30:53
+0/0	21:35:53
+0/0	21:40:53
+0/0	21:45:53
+0/0	21:50:53
+0/0	21:55:53
+0/0	22:00:53
+0/0	22:05:53
+0/0	22:10:53
+0/0	22:15:53
+0/0	22:20:53
+0/0	22:25:53
+0/0	22:30:53
+0/0	22:35:53
+0/0	22:40:53
+0/0	22:45:53
+0/0	22:50:53
+0/0	22:55:53
+0/0	23:00:53
+0/0	23:05:53
+0/0	23:10:53
+0/0	23:15:53
+0/0	23:20:53
+0/0	23:25:53
+0/0	23:30:53
+0/0	23:35:53
+0/0	23:40:53
+0/0	23:45:53
+0/0	23:50:53
+0/0	23:55:53

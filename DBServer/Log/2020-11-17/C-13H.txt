@@ -1,0 +1,127 @@
+Load(ø‚):[3] [0] 2020-11-17 13:47:39 –Ÿ≈´»À∑Ë¡À Level:55 Body[1]: MakeIndex:1073742841 Index:10207 btValue:33(1) -- Bag[0]: MakeIndex:32427568 Index:10017 OverLap:0Bag[1]: MakeIndex:32427569 Index:10001 OverLap:0Bag[2]: MakeIndex:32427633 Index:10134 OverLap:0Bag[3]: MakeIndex:32427571 Index:10004 OverLap:0btValue:0(3)btValue:33(1)Bag[4]: MakeIndex:32427570 Index:10006 OverLap:0btValue:0(1)btValue:33(1) -- 
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[00479FF4] Forms.TScreen.AlignForms
+[0047876D] Forms.TCustomForm.RequestAlign
+[00460697] Controls.TWinControl.AlignControl
+[004606B5] Controls.TWinControl.AlignControl
+(0000360C) [0040460C]
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[0045E8E7] Controls.TControl.CheckNewSize
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[0045E8E7] Controls.TControl.CheckNewSize
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[00479FF4] Forms.TScreen.AlignForms
+[0047876D] Forms.TCustomForm.RequestAlign
+[00460697] Controls.TWinControl.AlignControl
+[004606B5] Controls.TWinControl.AlignControl
+(0000360C) [0040460C]
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[00479FF4] Forms.TScreen.AlignForms
+[0047876D] Forms.TCustomForm.RequestAlign
+[00460697] Controls.TWinControl.AlignControl
+[004606B5] Controls.TWinControl.AlignControl
+(0000360C) [0040460C]
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[00460697] Controls.TWinControl.AlignControl
+[004606B5] Controls.TWinControl.AlignControl
+(0000360C) [0040460C]
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[0045E8E7] Controls.TControl.CheckNewSize
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[0045E8E7] Controls.TControl.CheckNewSize
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Access violation at address 005270EC in module 'DBServer.exe'. Read of address 00000008
+[005270EC] DBSMain.TFrmDBSrv.AniTimerTimer (Line 769, "DBSMain.pas" + 24)
+[00479FF4] Forms.TScreen.AlignForms
+[0047876D] Forms.TCustomForm.RequestAlign
+[00460697] Controls.TWinControl.AlignControl
+[004606B5] Controls.TWinControl.AlignControl
+(0000360C) [0040460C]
+[005270D1] DBSMain.TFrmDBSrv.AniTimerTimer (Line 764, "DBSMain.pas" + 19)
+[00447BD3] ExtCtrls.TTimer.Timer
+[00447AB7] ExtCtrls.TTimer.WndProc
+[0042AEB4] Classes.StdWndProc
+[0047BDD4] Forms.TApplication.ProcessMessage
+[0047BE0E] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+

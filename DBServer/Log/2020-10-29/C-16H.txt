@@ -1,0 +1,42 @@
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-10-29 16:01:26 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-10-29 16:04:26 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-10-29 16:07:26 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-10-29 16:10:26 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-10-29 16:13:26 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-10-29 16:16:27 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-10-29 16:19:17 乜宇寰 Level:1  -- Bag[0]: MakeIndex:32340801 Index:10006 OverLap:0 -- 
+Load(库):[3] [0] 2020-10-29 16:22:14 不好意思射到你 Level:0  --  -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-10-29 16:25:14 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-10-29 16:28:14 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-10-29 16:31:15 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-10-29 16:34:15 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-10-29 16:37:15 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-10-29 16:39:16 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-10-29 16:39:24 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:32,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-10-29 16:39:55 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+Load(库):[3] [0] 2020-10-29 16:40:19 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-10-29 16:41:40 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+Load(缓):[1] [0] 2020-10-29 16:41:48 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-10-29 16:44:48 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-10-29 16:47:49 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340806 Index:10001 OverLap:0Bag[2]: MakeIndex:32340807 Index:10006 OverLap:0Bag[3]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-10-29 16:50:49 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340807 Index:10006 OverLap:0Bag[2]: MakeIndex:32340808 Index:10004 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-10-29 16:51:46 不好意思射到你 Level:1  -- Bag[0]: MakeIndex:32340805 Index:10017 OverLap:0Bag[1]: MakeIndex:32340807 Index:10006 OverLap:0Bag[2]: MakeIndex:32340808 Index:10004 OverLap:0 -- 

@@ -1,0 +1,24 @@
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 14:00:19 Ô¬ÖñÓ° Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-03 14:03:19 Ô¬ÖñÓ° Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-03 14:06:19 Ô¬ÖñÓ° Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-03 14:09:20 Ô¬ÖñÓ° Level:1  -- Bag[0]: MakeIndex:32426995 Index:10006 OverLap:0Bag[1]: MakeIndex:32426996 Index:10004 OverLap:0Bag[2]: MakeIndex:1073742636 Index:10272 OverLap:0Bag[3]: MakeIndex:1073742637 Index:10273 OverLap:0 -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-522290359,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-522470531,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:-522650671,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-522830734,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523010906,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523191078,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523371250,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523551359,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523731531,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-523911703,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-524091875,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:-524272046,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:-524452218,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:-524632390,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-524812562,HumBagItems:0,HumStorageItems:0,HumMagics:0
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:-524992734,HumBagItems:0,HumStorageItems:0,HumMagics:0

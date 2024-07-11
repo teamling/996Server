@@ -1,0 +1,101 @@
+5) SQL数据库连接成功...
+	13:18:58
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:19:26
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:19:37
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:19:46
+0/0	13:23:56
+0/0	13:28:56
+0/0	13:33:56
+0/0	13:38:56
+0/0	13:43:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:45:00
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:45:02
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:48:51
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:48:54
+0/0	13:48:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:52:23
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:52:26
+0/0	13:53:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:58:48
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	13:58:50
+0/0	13:58:56
+0/0	14:03:56
+0/0	14:08:56
+0/0	14:13:56
+0/0	14:18:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:19:57
+0/0	14:23:56
+0/0	14:28:56
+0/0	14:33:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:36:30
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:37:08
+0/0	14:38:56
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:39:10
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	14:39:12
+0/0	14:43:56
+0/0	14:48:56
+0/0	14:53:56
+0/0	14:58:56
+0/0	15:03:56
+0/0	15:08:56
+0/0	15:13:56
+0/0	15:18:56
+0/0	15:23:56
+0/0	15:28:56
+0/0	15:33:56
+0/0	15:38:56
+0/0	15:43:56
+5) SQL数据库连接成功...
+	19:58:35
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	19:59:32
+5) SQL数据库连接成功...
+	20:04:16
+Verify Begin SDKID: 20 -  Code: 2
+Verify End SDKID: 20 Code: 1 Tick: 0
+	20:04:34
+0/0	20:09:14
+0/0	20:14:14
+0/0	20:19:14
+0/0	20:24:14
+0/0	20:29:14
+0/0	20:34:14
+0/0	20:39:14
+0/0	20:44:14
+0/0	20:49:14
+0/0	20:54:14
+0/0	20:59:14
+0/0	21:04:14

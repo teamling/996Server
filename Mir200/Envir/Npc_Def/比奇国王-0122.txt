@@ -1,0 +1,234 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+这里是比奇城堡宫殿.我是管理各种事情的国王.你有什么事情吗？\
+请注意:您在填写行会名称时一定要慎重。如果包含不健康、\
+有悖于社会精神文明的字眼，我们可以在不通知的情况下\
+做删除处理。我们愿与您共建网络文明，谢谢您的配合！\ 
+
+<请求创建行会./@@buildguildnow>\
+<申请行会战争./@guildwar>\
+<如何建立行会./@buildguildexp>\
+<有关行会战争./@guildwarexp>\
+<申请攻城战争./@requestcastlewar>\
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+这里是比奇城堡宫殿.我是管理各种事情的国王.你有什么事情吗？\
+我们愿与您共建网络文明，谢谢您的配合！\
+
+<Img:UI/Mobile/Npc/1900012910.png:0:0:100:0>
+<请求创建行会{FCOLOR=243}:30:95:18/@@buildguildnow>
+
+<Img:UI/Mobile/Npc/1900012910.png:0:160:100:0>
+<申请行会战争{FCOLOR=243}:190:95:18/@guildwar>
+
+<Img:UI/Mobile/Npc/1900012910.png:0:338:100:0>
+<如何建立行会{FCOLOR=243}:365:95:18/@buildguildexp>
+
+<Img:UI/Mobile/Npc/1900012910.png:0:160:133:0>
+<申请攻城战争{FCOLOR=243}:190:128:18/@requestcastlewar>
+
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133:0>
+<有关行会战争{FCOLOR=243}:30:128:18/@guildwarexp>
+
+
+ 
+[@buildguildexp]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+想要成立行会，你首先需要证明你是否有这个资格才行哦.\
+成立行会需要100万金币和一个沃玛\
+号角为条件的， 沃玛教主是只在\
+沃玛寺庙里出现的哦，你要是想杀死他，\
+需要你自己足够强大才行 \ \
+<返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+想要成立行会，你首先需要证明你是否有这个资格才行哦.\
+成立行会需要100万金币和一个沃玛号角为条件的，\
+沃玛教主是只在沃玛寺庙里出现的哦，你要是想杀死他，\
+需要你自己足够强大才行\
+
+<TOUCHSIZE:80:50:0:30:128:0/@main>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<返 回{FCOLOR=243}:25:128:18/@main>
+
+[@guildwar]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+填写与你交战的敌对行会的名字，申请行会战争必须支付3万金币\ \
+ <立即申请行会战争/@@guildwar>\
+<返回/@main>\
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+填写与你交战的敌对行会的名字，\
+申请行会战争必须支付3万金币\
+
+<TOUCHSIZE:80:50:0:30:128:0/@@guildwar>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<立即申请{FCOLOR=243}:25:128:18/@@guildwar>
+
+
+[@guildwarexp]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+
+<行会战/@guildwar2>是一种合法的战争，因为目前有许多行会和\
+玩家都同意，这是<合法的/@warrule>的行会间战争。\
+你是否<请求/@guildwar>行会战争?战争将进行3小时,\
+你必须支付<$GUILDWARFEE>所规定的申请费用.\ \
+
+<返回/@main>
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+<行会战/@guildwar2>是一种合法的战争，因为目前有许多行会和\
+玩家都同意，这是<合法的/@warrule>的行会间战争。\
+你是否<请求/@guildwar>行会战争?战争将进行3小时,\
+你必须支付<$GUILDWARFEE>所规定的申请费用.\
+
+<TOUCHSIZE:80:50:0:30:128:0/@main>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<返 回{FCOLOR=243}:25:128:18/@main>
+
+[@guildwar2]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+当你请求行会战争的时候,相同行会成员的名字将会出现在蓝色的。\
+ 在另一方面,敌人的行会成员名字将会变成橘色的.开战中的行会\
+成员在此期间登录,信息窗口会有[××在与你行会进行行会战]\
+的信息出现，在这个时候，如果你杀敌了人的行会某一个成员,\
+系统对你的行为将不会被视为 PK 。 \ \
+<返回/@guildwarexp>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+当你请求行会战争的时候,相同行会成员的名字将会出现在蓝色的。\
+在另一方面,敌人的行会成员名字将会变成橘色的.开战中的行会\
+成员在此期间登录,信息窗口会有[××在与你行会进行行会战]\
+
+<TOUCHSIZE:80:50:0:30:128:0/@guildwar21>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<下一页{FCOLOR=243}:25:128:18/@guildwar21>
+
+[@guildwar21]
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+的信息出现，在这个时候，如果你杀敌了人的行会某一个成员,\
+系统对你的行为将不会被视为 PK 。\
+
+<TOUCHSIZE:80:50:0:30:128:0/@guildwarexp>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<返 回{FCOLOR=243}:25:128:18/@guildwarexp>
+
+[@warrule]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+行会战争在城市中不能发生,它在城市某范围外或内部竞赛区\
+域(一些建筑物之内)被启动.否则你 PK 你的身份将会是红色\
+的!甚至在战争期间。\ \
+<返 回/@guildwarexp>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+行会战争在城市中不能发生,它在城市某范围外或内部竞赛区\
+域(一些建筑物之内)被启动.否则你 PK 你的身份将会是红色\
+的!甚至在战争期间。\
+
+<TOUCHSIZE:80:50:0:30:128:0/@guildwarexp>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<返 回{FCOLOR=243}:25:128:18/@guildwarexp>
+
+
+[@requestcastlewar]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+请求对沙巴克作战你应该有祖玛教主的头像,你有它吗?\
+战争将会在申请日期的第三天内开始。\ \
+
+<给祖玛头像/@requestcastlewarnow>\
+<返 回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+请求对沙巴克作战你应该有祖玛教主的头像,你有它吗?\
+战争将会在申请日期的第三天内开始。\
+
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133:0>
+<给祖玛头像{FCOLOR=243}:25:128:18/@requestcastlewarnow>
+
+<Img:UI/Mobile/Npc/1900012910.png:0:181:133:0>
+<返 回{FCOLOR=243}:205:128:18/@main>
+
+
+[~@request_ok]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你的请求被许可,<$CASTLEWARDATE>\
+战争将会发生在这个值得回忆\
+的日子...剩下的时间不多了，祝你好运!\
+
+<关闭/@exit>\
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+你的请求被许可,<$CASTLEWARDATE>\
+战争将会发生在这个值得回忆\
+的日子...剩下的时间不多了，祝你好运!\
+
+<TOUCHSIZE:80:50:0:30:128:0/@exit>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<关 闭{FCOLOR=243}:25:128:18/@exit>
+
+
+[@@donate]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+已经记下了你提出的建议，请等待管理员回复，谢谢.\ \
+ <返回/@main>\
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+{<$NPCNAME>/FCOLOR=210:0:0:20}\ \
+已经记下了你提出的建议，请等待管理员回复，谢谢.\
+
+<TOUCHSIZE:80:50:0:30:128:0/@main>
+<Img:UI/Mobile/Npc/1900012910.png:0:0:133>
+<返 回{FCOLOR=243}:25:128:18/@main>

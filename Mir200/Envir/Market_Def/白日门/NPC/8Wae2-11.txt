@@ -1,0 +1,15 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+从白日门往北走，就会出现叫做灌木林的森林 \
+那里树木茂盛，白天也不见一丝阳光， \
+附近的人们经常在那里迷路 \
+所以去那儿一定要倍加小心. \ \
+<关闭/@exit>
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\NPC\8Wae2-11.txt] @Settings

@@ -1,0 +1,11 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+ÐÞÁ¶Ì«ÐÁ¿à,ÏëË¯¾õ~~~~~~\ \
+<È·¶¨/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\·âÄ§¹È\NPC\klzs2-4.txt] @Settings

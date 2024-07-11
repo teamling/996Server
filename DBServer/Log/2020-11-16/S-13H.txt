@@ -1,0 +1,12 @@
+Msg:-------------
+2020-11-16 13:21:54 LoadHumanRcd: 67 Ret:1
+Msg:-------------
+2020-11-16 13:22:19 LoadHumanRcd: 67 Ret:1
+Msg:-------------
+2020-11-16 13:26:04 LoadHumanRcd: 68 Ret:1
+Msg:-------------
+2020-11-16 13:28:16 LoadHumanRcd: 68 Ret:1
+Msg:-------------
+2020-11-16 13:32:30 LoadHumanRcd: 68 Ret:1
+Msg:-------------
+2020-11-16 13:42:28 LoadHumanRcd: 68 Ret:1

@@ -1,0 +1,2 @@
+¥Ê¥¢∫ƒ ±£∫SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-16 20:51:11 –Ÿ≈´»À∑Ë¡À Level:55  -- Bag[0]: MakeIndex:32427568 Index:10017 OverLap:0Bag[1]: MakeIndex:32427569 Index:10001 OverLap:0Bag[2]: MakeIndex:32427570 Index:10006 OverLap:0Bag[3]: MakeIndex:32427571 Index:10004 OverLap:0Bag[4]: MakeIndex:32427633 Index:10134 OverLap:0 -- 

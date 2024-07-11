@@ -1,0 +1,302 @@
+( @getback )
+;此脚为功能脚本，用于实现各种与脚本有关的功能
+
+[@SetDay]
+#IF
+#ACT
+SENDMSG 6 你当天第一次登陆
+
+
+
+[@伸缩]
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+delbutton 102 2
+MOV S$图标2 <Button|x=-230|a=3|y=35|rotate=180|nimg=official/top/1900012531.png|link=@展开>
+addbutton 102 2 <$STR(S$图标2)>
+
+
+[@展开]
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+delbutton 102 2
+MOV S$图标2 <Button|x=-230|y=35|nimg=official/top/1900012531.png|link=@伸缩>
+INC S$图标2 <Button|x=-320|y=35|nimg=official/top/1900012611.png|link=@建议>
+INC S$图标2 <Button|x=-400|y=35|nimg=official/top/1900012607.png|link=@首充>
+INC S$图标2 <Button|x=-480|y=35|nimg=official/top/1900012601.png|link=@活动>
+INC S$图标2 <Button|x=-560|y=35|nimg=official/top/1900012602.png|link=@飞鞋>
+addbutton 102 2 <$STR(S$图标2)>
+break
+
+
+[@管理模式]
+#IF
+#ACT
+#Call [\Mobile\特殊NPC\系统管理员.txt] @GM
+
+
+[@刷新]
+#IF
+#ACT
+REFRESHBAG
+
+
+
+[@飞鞋]
+#IF
+#ACT
+#Call [\Mobile\特殊NPC\传送员.txt] @Settings_cs
+
+[@PlayOffLine]
+#IF
+#ACT
+SENDMSG 0 玩家<$USERNAME>退出了游戏。
+
+[@小组成员触发]
+#IF
+#ACT
+sendmsg 5 GOTOLABEL触发成功！
+
+
+[@GetExp]
+#if
+#act
+SENDMSG 5 人物本次获取经验为:<$GetExp>
+break
+
+[@ItemDamage1]
+#IF
+#ACT
+sendmsg 6 触发成功,武器消失了！
+
+[@ItemDamage0]
+#IF
+#ACT
+sendmsg 6 触发成功,衣服消失了！
+
+
+;[@GetCastle0]    ;测不了
+;#IF
+;#ACT
+;sendmsg 0 触发成功,沙巴克已被占领！
+
+
+
+[@StartGroup]
+#IF
+#ACT
+sendmsg 6 触发成功！
+
+
+[@Run]
+#if
+#act
+SENDMSG 5 你在跑步
+
+
+[@Walk]
+#if
+#act
+SENDMSG 5 你在走路
+
+
+[@DropItem100000]
+#if
+#act
+SENDMSG 0 玩家<$USERNAME>在<$MAPTITLE>坐标<$X>：<$Y>扔掉了布衣(男)
+break
+
+[@PickUpItem100000]
+#if
+#act
+SENDMSG 0 玩家<$USERNAME>在<$MAPTITLE>坐标<$X>：<$Y>捡到布衣(男)
+break
+
+
+
+
+[@ScatterBagItems]
+#if
+#act
+SENDMSG 5 杀死怪物或人物，爆物品触发
+
+
+
+
+[@SelfKillSlave]
+#if
+#act
+SENDMSG 5 你的宝宝已经死亡！
+
+
+[@KillSlave]
+#IF
+;CheckKillSlaveName 神兽
+#ACT
+SendMsg 5 你把对方的宝宝杀死了.
+
+
+
+[@Killplay]
+#if
+#act
+SENDMSG 5 你已杀死了对方！
+
+
+
+[@采集完成]
+#ACT
+Give 回城卷 1
+SendMsg 5 你采集一个回城卷
+Break
+
+[@采集中断]
+#ACT
+SendMsg 5 采集被中断
+Break
+
+
+
+
+
+
+[@PlayLevelUp]
+#IF
+CHECKLEVELEX = 8
+#ACT
+SENDMSG 7 升级成功
+Break
+
+
+#IF
+CHECKLEVELEX = 9
+#ACT
+SENDMSG 7 升级成功
+Break
+
+
+
+[@Struck]
+#IF
+CHECKCURRTARGETRACE = 0
+#ACT 
+SENDMSG 6 你被人物【<$CURRRTARGETNAME>】攻击了。使用魔法ID=<$CURRRUSEMAGICID> 255 253
+BREAK
+
+
+#IF
+#ACT 
+SENDMSG 6 你被怪物【<$CURRRTARGETNAME>】攻击了。使用魔法ID=<$CURRRUSEMAGICID> 255 253
+BREAK
+
+
+
+
+[@OnKillMob]
+;#IF
+;CheckKillMonName 白野猪
+;#SAY
+;你杀死一头白野猪! 
+
+;[@KillMon]
+;#ACT
+;SENDMSG 7 你杀死<$KILLMONNAME>
+;break
+
+
+[@PlayDie]
+#IF
+Equal <$CLIENTFLAG> 1
+#ACT
+Break
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+GOTO @Settings
+Break
+
+[@Settings]
+#IF
+CHECKMONEY 元宝 > 1
+#ACT
+MOV S$复活条件 <Text|id=1|text=消耗：　　x2|x=163|y=73|size=16|color=1006>
+GOTO @死亡复活1
+#ELSEACT
+MOV S$复活条件 <Text|id=1|text=消耗：　　x2|x=163|y=73|size=16|color=1009>
+GOTO @死亡复活1
+
+[@死亡复活1]
+
+<Layout|width=3000|height=3000|link=@无效>
+<Img|children={0,1,2,3,4,5,6,7}|bg=1|reset=1|move=1|img=private/revive/bg_swfh_1.png|a=1|x=1136|y=200>
+<Layout|id=0|width=348|height=200>
+    <Text|id=2|text=死亡复活|x=110|y=15|size=18|color=1001>
+    <Text|id=3|text=你被　<$CURRRTARGETNAME>　杀死了！|x=50|y=44|size=16|color=1006>
+    <Img|id=4|img=item/004203.png|x=212|y=70>
+    <COUNTDOWN|id=5|x=70|y=73|time=30|count=1|size=16|color=249|link=@复活1>
+    <Button|id=6|x=45|y=100|nimg=public/1900000653.png|pimg=public/1900000652.png|text=免费复活|color=1020|size=17|link=@复活1>
+    <Button|id=7|x=170|y=100|nimg=public/1900000653.png|pimg=public/1900000652.png|text=原地复活|color=1020|size=17|link=@复活2>
+
+    <$STR(S$复活条件)>
+
+
+[@复活1]
+#If
+#Act
+REALIVE
+GoHome
+HumanHP + 9999999999 1
+close
+
+[@复活2]
+#If
+CHECKMONEY 元宝 > 1
+#Act
+MONEY 元宝 - 2
+REALIVE
+HumanHP + 9999999999 1
+close
+#ELSEACT
+MessageBox 元宝不足，无法复活！
+
+
+[@Member]
+#IF
+ISADMIN
+#ACT
+#Call [\Mobile\特殊NPC\系统管理员.txt] @GM
+
+[@PickUpItemEx]
+#IF
+#ACT
+SendMsg 0 --【】--
+LINKPICKUPITEM
+CHANGEITEMADDVALUE -1 0 + 1
+SetNewItemValue -1 6 + 5
+
+[@主界面按钮设置]
+#CALL [\主界面基础按钮\主界面基础按钮QF.txt] @基础按钮QF
+
+[@STDMODEFUNC1]
+#IF
+#ACT
+MONEY 元宝 + 100
+SENDMSG 6 提示：您的帐户已经增加100元宝，当前元宝总额【<$MONEY(元宝)>】
+BREAK
+
+[@STDMODEFUNC2]
+#IF
+#ACT
+MONEY 元宝 + 200
+SENDMSG 6 提示：您的帐户已经增加200元宝，当前元宝总额【<$MONEY(元宝)>】
+BREAK
+
+[@STDMODEFUNC3]
+#IF
+#ACT
+MONEY 元宝 + 300
+SENDMSG 6 提示：您的帐户已经增加300元宝，当前元宝总额【<$MONEY(元宝)>】
+BREAK

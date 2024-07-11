@@ -1,0 +1,1736 @@
+[2020-11-20 20:11:42:829]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-20 20:11:42:829]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-20 19:12:12:671]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-20 19:12:12:671]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-20 19:12:54:531] >>Login: 0 
+[2020-11-20 19:12:54:531] >>Login: 1 
+[2020-11-20 19:12:54:531] >>Login: 2 67
+[2020-11-20 19:12:54:531] >>Login: 3 67
+[2020-11-20 19:12:54:533] >>Login: 5_0 67
+[2020-11-20 19:12:54:569] >>Login: 5 67, 1
+[2020-11-20 19:12:54:569] >>Login: 5_1 67
+[2020-11-20 19:12:54:569] >>Login: 5_2 67
+[2020-11-20 19:12:54:569] >>Login: 6 67
+[2020-11-20 19:12:54:643] >>Login: 7 67
+[2020-11-20 19:12:54:824] >>Login: 8 67
+[2020-11-20 19:12:55:434] >>Login: 9 67
+[2020-11-20 19:12:55:434] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 19:12:55:434] >>Login: 10 cfg_merChant,  -> 0F14EC6A63637F09999C1147F1700C95
+[2020-11-20 19:12:55:434] >>Login: 11 67
+
+[2020-11-20 19:14:07:449] >>Login: 0 
+[2020-11-20 19:14:07:449] >>Login: 1 
+[2020-11-20 19:14:07:449] >>Login: 2 67
+[2020-11-20 19:14:07:449] >>Login: 3 67
+[2020-11-20 19:14:07:451] >>Login: 5_0 67
+[2020-11-20 19:14:07:455] >>Login: 5 67, 1
+[2020-11-20 19:14:07:455] >>Login: 5_1 67
+[2020-11-20 19:14:07:455] >>Login: 5_2 67
+[2020-11-20 19:14:07:455] >>Login: 6 67
+[2020-11-20 19:14:07:544] >>Login: 7 67
+[2020-11-20 19:14:07:746] >>Login: 8 67
+[2020-11-20 19:14:08:354] >>Login: 9 67
+[2020-11-20 19:14:08:354] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 19:14:08:354] >>Login: 10 cfg_merChant,  -> 0F14EC6A63637F09999C1147F1700C95
+[2020-11-20 19:14:08:355] >>Login: 11 67
+
+[2020-11-20 19:14:55:577] >>Login: 0 
+[2020-11-20 19:14:55:577] >>Login: 1 
+[2020-11-20 19:14:55:577] >>Login: 2 67
+[2020-11-20 19:14:55:577] >>Login: 3 67
+[2020-11-20 19:14:55:579] >>Login: 5_0 67
+[2020-11-20 19:14:55:583] >>Login: 5 67, 1
+[2020-11-20 19:14:55:583] >>Login: 5_1 67
+[2020-11-20 19:14:55:583] >>Login: 5_2 67
+[2020-11-20 19:14:55:583] >>Login: 6 67
+[2020-11-20 19:14:55:689] >>Login: 7 67
+[2020-11-20 19:14:55:887] >>Login: 8 67
+[2020-11-20 19:14:56:495] >>Login: 9 67
+[2020-11-20 19:14:56:495] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 19:14:56:495] >>Login: 10 cfg_merChant,  -> 0F14EC6A63637F09999C1147F1700C95
+[2020-11-20 19:14:56:495] >>Login: 11 67
+
+[2020-11-20 19:15:05:277] SendMerChantSayMsg-----
+[2020-11-20 19:15:05:277] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:15:05:277] SendMerChantSayMsg-----json
+[2020-11-20 19:15:05:277] SendMerChantSayMsg-----End
+
+[2020-11-20 19:16:30:909] SendMerChantSayMsg-----
+[2020-11-20 19:16:30:909] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:16:30:909] SendMerChantSayMsg-----json
+[2020-11-20 19:16:30:909] SendMerChantSayMsg-----End
+
+[2020-11-20 19:16:44:309] SendMerChantSayMsg-----
+[2020-11-20 19:16:44:309] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:16:44:309] SendMerChantSayMsg-----json
+[2020-11-20 19:16:44:309] SendMerChantSayMsg-----End
+
+[2020-11-20 19:16:45:730] SendMerChantSayMsg-----
+[2020-11-20 19:16:45:730] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:16:45:730] SendMerChantSayMsg-----json
+[2020-11-20 19:16:45:730] SendMerChantSayMsg-----End
+
+[2020-11-20 19:16:52:026] SendMerChantSayMsg-----
+[2020-11-20 19:16:52:026] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:16:52:026] SendMerChantSayMsg-----json
+[2020-11-20 19:16:52:026] SendMerChantSayMsg-----End
+
+[2020-11-21 20:03:49:711] SendMerChantSayMsg-----
+[2020-11-21 20:03:49:711] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:03:49:711] SendMerChantSayMsg-----json
+[2020-11-21 20:03:49:711] SendMerChantSayMsg-----End
+
+[2020-11-21 20:03:55:600] SendMerChantSayMsg-----
+[2020-11-21 20:03:55:600] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:03:55:600] SendMerChantSayMsg-----json
+[2020-11-21 20:03:55:600] SendMerChantSayMsg-----End
+[2020-11-21 20:03:58:242] SendMerChantSayMsg-----
+[2020-11-21 20:03:58:242] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:03:58:242] SendMerChantSayMsg-----json
+[2020-11-21 20:03:58:242] SendMerChantSayMsg-----End
+[2020-11-21 20:03:59:460] SendMerChantSayMsg-----
+[2020-11-21 20:03:59:460] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:03:59:460] SendMerChantSayMsg-----json
+[2020-11-21 20:03:59:460] SendMerChantSayMsg-----End
+[2020-11-21 20:04:00:475] SendMerChantSayMsg-----
+[2020-11-21 20:04:00:475] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:00:475] SendMerChantSayMsg-----json
+[2020-11-21 20:04:00:475] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:03:319] SendMerChantSayMsg-----
+[2020-11-21 20:04:03:319] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:03:319] SendMerChantSayMsg-----json
+[2020-11-21 20:04:03:319] SendMerChantSayMsg-----End
+[2020-11-21 20:04:04:537] SendMerChantSayMsg-----
+[2020-11-21 20:04:04:537] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:04:537] SendMerChantSayMsg-----json
+[2020-11-21 20:04:04:537] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:06:366] SendMerChantSayMsg-----
+[2020-11-21 20:04:06:366] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:06:366] SendMerChantSayMsg-----json
+[2020-11-21 20:04:06:366] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:15:710] SendMerChantSayMsg-----
+[2020-11-21 20:04:15:710] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:15:710] SendMerChantSayMsg-----json
+[2020-11-21 20:04:15:710] SendMerChantSayMsg-----End
+[2020-11-21 20:04:18:147] SendMerChantSayMsg-----
+[2020-11-21 20:04:18:147] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:18:147] SendMerChantSayMsg-----json
+[2020-11-21 20:04:18:147] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:20:584] SendMerChantSayMsg-----
+[2020-11-21 20:04:20:584] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:20:584] SendMerChantSayMsg-----json
+[2020-11-21 20:04:20:584] SendMerChantSayMsg-----End
+[2020-11-21 20:04:22:008] SendMerChantSayMsg-----
+[2020-11-21 20:04:22:008] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:22:008] SendMerChantSayMsg-----json
+[2020-11-21 20:04:22:008] SendMerChantSayMsg-----End
+[2020-11-21 20:04:24:241] SendMerChantSayMsg-----
+[2020-11-21 20:04:24:241] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:24:241] SendMerChantSayMsg-----json
+[2020-11-21 20:04:24:241] SendMerChantSayMsg-----End
+[2020-11-21 20:04:25:461] SendMerChantSayMsg-----
+[2020-11-21 20:04:25:461] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:25:461] SendMerChantSayMsg-----json
+[2020-11-21 20:04:25:461] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:26:272] SendMerChantSayMsg-----
+[2020-11-21 20:04:26:272] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:26:272] SendMerChantSayMsg-----json
+[2020-11-21 20:04:26:272] SendMerChantSayMsg-----End
+[2020-11-21 20:04:27:491] SendMerChantSayMsg-----
+[2020-11-21 20:04:27:491] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:27:491] SendMerChantSayMsg-----json
+[2020-11-21 20:04:27:491] SendMerChantSayMsg-----End
+[2020-11-21 20:04:28:507] SendMerChantSayMsg-----
+[2020-11-21 20:04:28:507] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:28:507] SendMerChantSayMsg-----json
+[2020-11-21 20:04:28:507] SendMerChantSayMsg-----End
+[2020-11-21 20:04:29:320] SendMerChantSayMsg-----
+[2020-11-21 20:04:29:320] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:29:320] SendMerChantSayMsg-----json
+[2020-11-21 20:04:29:320] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:33:992] SendMerChantSayMsg-----
+[2020-11-21 20:04:33:992] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:33:992] SendMerChantSayMsg-----json
+[2020-11-21 20:04:33:992] SendMerChantSayMsg-----End
+[2020-11-21 20:04:34:803] SendMerChantSayMsg-----
+[2020-11-21 20:04:34:803] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:34:803] SendMerChantSayMsg-----json
+[2020-11-21 20:04:34:803] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:35:616] SendMerChantSayMsg-----
+[2020-11-21 20:04:35:616] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:35:616] SendMerChantSayMsg-----json
+[2020-11-21 20:04:35:616] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:42:319] SendMerChantSayMsg-----
+[2020-11-21 20:04:42:319] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:42:319] SendMerChantSayMsg-----json
+[2020-11-21 20:04:42:319] SendMerChantSayMsg-----End
+[2020-11-21 20:04:43:944] SendMerChantSayMsg-----
+[2020-11-21 20:04:43:944] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:43:944] SendMerChantSayMsg-----json
+[2020-11-21 20:04:43:944] SendMerChantSayMsg-----End
+[2020-11-21 20:04:44:960] SendMerChantSayMsg-----
+[2020-11-21 20:04:44:960] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:44:960] SendMerChantSayMsg-----json
+[2020-11-21 20:04:44:960] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:45:975] SendMerChantSayMsg-----
+[2020-11-21 20:04:45:975] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:45:975] SendMerChantSayMsg-----json
+[2020-11-21 20:04:45:975] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:51:053] SendMerChantSayMsg-----
+[2020-11-21 20:04:51:053] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:51:053] SendMerChantSayMsg-----json
+[2020-11-21 20:04:51:053] SendMerChantSayMsg-----End
+[2020-11-21 20:04:52:069] SendMerChantSayMsg-----
+[2020-11-21 20:04:52:069] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:52:069] SendMerChantSayMsg-----json
+[2020-11-21 20:04:52:069] SendMerChantSayMsg-----End
+[2020-11-21 20:04:54:304] SendMerChantSayMsg-----
+[2020-11-21 20:04:54:304] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:54:304] SendMerChantSayMsg-----json
+[2020-11-21 20:04:54:304] SendMerChantSayMsg-----End
+
+[2020-11-21 20:04:57:555] SendMerChantSayMsg-----
+[2020-11-21 20:04:57:555] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:57:555] SendMerChantSayMsg-----json
+[2020-11-21 20:04:57:555] SendMerChantSayMsg-----End
+[2020-11-21 20:04:59:132] SendMerChantSayMsg-----
+[2020-11-21 20:04:59:132] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:59:132] SendMerChantSayMsg-----json
+[2020-11-21 20:04:59:132] SendMerChantSayMsg-----End
+[2020-11-21 20:04:59:944] SendMerChantSayMsg-----
+[2020-11-21 20:04:59:944] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:04:59:944] SendMerChantSayMsg-----json
+[2020-11-21 20:04:59:944] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:08:476] SendMerChantSayMsg-----
+[2020-11-21 20:05:08:476] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:08:476] SendMerChantSayMsg-----json
+[2020-11-21 20:05:08:476] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:19:663] SendMerChantSayMsg-----
+[2020-11-21 20:05:19:663] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:19:663] SendMerChantSayMsg-----json
+[2020-11-21 20:05:19:663] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:22:303] SendMerChantSayMsg-----
+[2020-11-21 20:05:22:303] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:22:303] SendMerChantSayMsg-----json
+[2020-11-21 20:05:22:303] SendMerChantSayMsg-----End
+[2020-11-21 20:05:23:726] SendMerChantSayMsg-----
+[2020-11-21 20:05:23:726] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:23:726] SendMerChantSayMsg-----json
+[2020-11-21 20:05:23:726] SendMerChantSayMsg-----End
+[2020-11-21 20:05:25:149] SendMerChantSayMsg-----
+[2020-11-21 20:05:25:149] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:25:149] SendMerChantSayMsg-----json
+[2020-11-21 20:05:25:149] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:27:991] SendMerChantSayMsg-----
+[2020-11-21 20:05:27:991] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:27:991] SendMerChantSayMsg-----json
+[2020-11-21 20:05:27:991] SendMerChantSayMsg-----End
+[2020-11-21 20:05:29:210] SendMerChantSayMsg-----
+[2020-11-21 20:05:29:210] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:29:210] SendMerChantSayMsg-----json
+[2020-11-21 20:05:29:210] SendMerChantSayMsg-----End
+[2020-11-21 20:05:30:022] SendMerChantSayMsg-----
+[2020-11-21 20:05:30:022] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:30:022] SendMerChantSayMsg-----json
+[2020-11-21 20:05:30:022] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:31:851] SendMerChantSayMsg-----
+[2020-11-21 20:05:31:851] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:31:851] SendMerChantSayMsg-----json
+[2020-11-21 20:05:31:851] SendMerChantSayMsg-----End
+[2020-11-21 20:05:32:867] SendMerChantSayMsg-----
+[2020-11-21 20:05:32:867] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:32:867] SendMerChantSayMsg-----json
+[2020-11-21 20:05:32:867] SendMerChantSayMsg-----End
+[2020-11-21 20:05:33:678] SendMerChantSayMsg-----
+[2020-11-21 20:05:33:678] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:33:678] SendMerChantSayMsg-----json
+[2020-11-21 20:05:33:678] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:36:117] SendMerChantSayMsg-----
+[2020-11-21 20:05:36:117] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:36:117] SendMerChantSayMsg-----json
+[2020-11-21 20:05:36:117] SendMerChantSayMsg-----End
+[2020-11-21 20:05:37:131] SendMerChantSayMsg-----
+[2020-11-21 20:05:37:131] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:37:131] SendMerChantSayMsg-----json
+[2020-11-21 20:05:37:131] SendMerChantSayMsg-----End
+[2020-11-21 20:05:38:147] SendMerChantSayMsg-----
+[2020-11-21 20:05:38:147] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:38:147] SendMerChantSayMsg-----json
+[2020-11-21 20:05:38:147] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:41:194] SendMerChantSayMsg-----
+[2020-11-21 20:05:41:194] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:41:194] SendMerChantSayMsg-----json
+[2020-11-21 20:05:41:194] SendMerChantSayMsg-----End
+[2020-11-21 20:05:43:631] SendMerChantSayMsg-----
+[2020-11-21 20:05:43:631] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:43:631] SendMerChantSayMsg-----json
+[2020-11-21 20:05:43:631] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:54:804] SendMerChantSayMsg-----
+[2020-11-21 20:05:54:804] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:54:804] SendMerChantSayMsg-----json
+[2020-11-21 20:05:54:804] SendMerChantSayMsg-----End
+
+[2020-11-21 20:05:56:226] SendMerChantSayMsg-----
+[2020-11-21 20:05:56:226] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:56:226] SendMerChantSayMsg-----json
+[2020-11-21 20:05:56:226] SendMerChantSayMsg-----End
+[2020-11-21 20:05:59:476] SendMerChantSayMsg-----
+[2020-11-21 20:05:59:476] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:05:59:476] SendMerChantSayMsg-----json
+[2020-11-21 20:05:59:476] SendMerChantSayMsg-----End
+
+[2020-11-21 20:06:03:741] SendMerChantSayMsg-----
+[2020-11-21 20:06:03:741] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:06:03:741] SendMerChantSayMsg-----json
+[2020-11-21 20:06:03:741] SendMerChantSayMsg-----End
+
+[2020-11-21 20:07:29:804] SendMerChantSayMsg-----
+[2020-11-21 20:07:29:804] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:07:29:804] SendMerChantSayMsg-----json
+[2020-11-21 20:07:29:804] SendMerChantSayMsg-----End
+
+[2020-11-21 20:07:34:679] SendMerChantSayMsg-----
+[2020-11-21 20:07:34:679] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:07:34:679] SendMerChantSayMsg-----json
+[2020-11-21 20:07:34:679] SendMerChantSayMsg-----End
+
+[2020-11-21 20:07:37:319] SendMerChantSayMsg-----
+[2020-11-21 20:07:37:319] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:07:37:319] SendMerChantSayMsg-----json
+[2020-11-21 20:07:37:319] SendMerChantSayMsg-----End
+[2020-11-21 20:07:38:944] SendMerChantSayMsg-----
+[2020-11-21 20:07:38:944] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:07:38:944] SendMerChantSayMsg-----json
+[2020-11-21 20:07:38:944] SendMerChantSayMsg-----End
+[2020-11-21 20:07:40:164] SendMerChantSayMsg-----
+[2020-11-21 20:07:40:164] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-21 20:07:40:164] SendMerChantSayMsg-----json
+[2020-11-21 20:07:40:164] SendMerChantSayMsg-----End
+
+[2020-11-20 13:21:53:745]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-20 13:21:53:745]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-20 14:14:24:989] >>Login: 0 
+[2020-11-20 14:14:24:989] >>Login: 1 
+[2020-11-20 14:14:24:989] >>Login: 2 68
+[2020-11-20 14:14:24:989] >>Login: 3 68
+[2020-11-20 14:14:24:991] >>Login: 5_0 68
+[2020-11-20 14:14:25:028] >>Login: 5 68, 1
+[2020-11-20 14:14:25:028] >>Login: 5_1 68
+[2020-11-20 14:14:25:028] >>Login: 5_2 68
+[2020-11-20 14:14:25:028] >>Login: 6 68
+[2020-11-20 14:14:25:085] >>Login: 7 68
+[2020-11-20 14:14:25:267] >>Login: 8 68
+[2020-11-20 14:14:28:921] >>Login: 9 68
+[2020-11-20 14:14:28:921] >>Login: 10 cfg_att_score, 9D5857DBEA3FD66A2389C0CD87D96A5D -> 79CBE9D3F25DD88DE32E814F16658EC3
+[2020-11-20 14:14:28:921] >>Login: 10 cfg_model_info, 9631B4B411A2140302827326963353DC -> 4EBCE106BEA5650D28DB9F3832173102
+[2020-11-20 14:14:28:921] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 14:14:28:922] >>Login: 10 cfg_pick_set, 9D40150E59A1B97C1E2D7272BB3A1525 -> 6CA077FE5A2DA6C25FA7D8AB4983F70B
+[2020-11-20 14:14:28:922] >>Login: 10 cfg_stditem, C0FEDC4E37FBEA3323FD196924AB4626705A60670E0011B2087427D85D6537E1 -> 685FFADD95D4545D3A1B435B33230BFB1720CB386C59D679FFBF240A7CC5F243
+[2020-11-20 14:14:28:922] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 14:14:28:922] >>Login: 11 68
+
+[2020-11-20 15:59:50:678] >>Login: 0 
+[2020-11-20 15:59:50:678] >>Login: 1 
+[2020-11-20 15:59:50:678] >>Login: 2 1263027
+[2020-11-20 15:59:50:678] >>Login: 3 1263027
+[2020-11-20 15:59:50:680] >>Login: 5_0 1263027
+[2020-11-20 15:59:50:715] >>Login: 5 1263027, 1
+[2020-11-20 15:59:50:715] >>Login: 5_1 1263027
+[2020-11-20 15:59:50:715] >>Login: 5_2 1263027
+[2020-11-20 15:59:50:715] >>Login: 6 1263027
+[2020-11-20 15:59:50:825] >>Login: 7 1263027
+[2020-11-20 15:59:51:017] >>Login: 8 1263027
+[2020-11-20 15:59:53:046] >>Login: 9 1263027
+[2020-11-20 15:59:53:046] >>Login: 10 cfg_att_score, 9D5857DBEA3FD66A2389C0CD87D96A5D -> 79CBE9D3F25DD88DE32E814F16658EC3
+[2020-11-20 15:59:53:046] >>Login: 10 cfg_model_info, 9631B4B411A2140302827326963353DC -> 4EBCE106BEA5650D28DB9F3832173102
+[2020-11-20 15:59:53:046] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 15:59:53:047] >>Login: 10 cfg_pick_set, 9D40150E59A1B97C1E2D7272BB3A1525 -> 6CA077FE5A2DA6C25FA7D8AB4983F70B
+[2020-11-20 15:59:53:047] >>Login: 10 cfg_stditem, C0FEDC4E37FBEA3323FD196924AB4626705A60670E0011B2087427D85D6537E1 -> 685FFADD95D4545D3A1B435B33230BFB1720CB386C59D679FFBF240A7CC5F243
+[2020-11-20 15:59:53:047] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 15:59:53:048] >>Login: 11 1263027
+
+[2020-11-20 16:08:31:510]  LoadReChargeConfig temstr 
+[{"currency_name":"\u5143\u5b9d","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"\u9053\u51771","itemid":12,"ratio":10},{"name":"\u9053\u51772","itemid":222,"ratio":20}],"point_deploy":[{"name":"\u9053\u51771","var_name":"3","ratio":10},{"name":"\u9053\u51772","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+[2020-11-20 16:08:31:510]  LoadReChargeConfig g_DbConfig.StartTime 
+[{"currency_name":"元宝","currency_itemid":1001,"currency_ratio":100,"present_deploy":[{"name":"道具1","itemid":12,"ratio":10},{"name":"道具2","itemid":222,"ratio":20}],"point_deploy":[{"name":"道具1","var_name":"3","ratio":10},{"name":"道具2","var_name":"4","ratio":20}],"present_ratio":10,"per_pay_present":[{"pay":10,"present":50},{"pay":20,"present":100}]},{"currency_name":"1","currency_ratio":1,"currency_itemid":1,"present_deploy":[],"point_deploy":[],"present_ratio":"","per_pay_present":[]}]
+
+
+[2020-11-20 16:08:39:182] >>Login: 0 
+[2020-11-20 16:08:39:182] >>Login: 1 
+[2020-11-20 16:08:39:182] >>Login: 2 68
+[2020-11-20 16:08:39:182] >>Login: 4 68
+
+[2020-11-20 16:08:40:342] >>Login: 0 
+[2020-11-20 16:08:40:342] >>Login: 1 
+[2020-11-20 16:08:40:342] >>Login: 2 1263027
+[2020-11-20 16:08:40:342] >>Login: 4 1263027
+[2020-11-20 16:08:41:016] >>Login: 0 *disable*
+[2020-11-20 16:08:41:568] >>Login: 0 *disable*
+[2020-11-20 16:08:43:002] >>Login: 0 *disable*
+[2020-11-20 16:08:43:570] >>Login: 0 *disable*
+
+[2020-11-20 16:08:45:014] >>Login: 0 *disable*
+[2020-11-20 16:08:45:570] >>Login: 0 *disable*
+[2020-11-20 16:08:47:013] >>Login: 0 *disable*
+[2020-11-20 16:08:47:572] >>Login: 0 *disable*
+[2020-11-20 16:08:49:014] >>Login: 0 *disable*
+
+[2020-11-20 16:08:49:573] >>Login: 0 *disable*
+[2020-11-20 16:08:51:014] >>Login: 0 *disable*
+[2020-11-20 16:08:51:574] >>Login: 0 *disable*
+[2020-11-20 16:08:53:014] >>Login: 0 *disable*
+[2020-11-20 16:08:53:575] >>Login: 0 *disable*
+
+[2020-11-20 16:08:55:014] >>Login: 0 *disable*
+[2020-11-20 16:08:55:575] >>Login: 0 *disable*
+[2020-11-20 16:08:57:015] >>Login: 0 *disable*
+[2020-11-20 16:08:57:573] >>Login: 0 *disable*
+[2020-11-20 16:08:59:016] >>Login: 0 *disable*
+
+[2020-11-20 16:08:59:569] >>Login: 0 *disable*
+[2020-11-20 16:09:01:017] >>Login: 0 *disable*
+[2020-11-20 16:09:01:572] >>Login: 0 *disable*
+[2020-11-20 16:09:03:016] >>Login: 0 *disable*
+[2020-11-20 16:09:03:594] >>Login: 0 *disable*
+
+[2020-11-20 16:09:05:016] >>Login: 0 *disable*
+[2020-11-20 16:09:05:571] >>Login: 0 *disable*
+[2020-11-20 16:09:07:572] >>Login: 0 *disable*
+
+[2020-11-20 16:09:09:571] >>Login: 0 *disable*
+[2020-11-20 16:09:11:576] >>Login: 0 *disable*
+[2020-11-20 16:09:13:575] >>Login: 0 *disable*
+
+[2020-11-20 16:09:15:576] >>Login: 0 *disable*
+[2020-11-20 16:09:17:569] >>Login: 0 *disable*
+[2020-11-20 16:09:18:495] >>Login: 0 
+[2020-11-20 16:09:18:495] >>Login: 1 
+[2020-11-20 16:09:18:495] >>Login: 2 68
+[2020-11-20 16:09:18:495] >>Login: 3 68
+[2020-11-20 16:09:18:497] >>Login: 5_0 68
+[2020-11-20 16:09:18:538] >>Login: 5 68, 1
+[2020-11-20 16:09:18:538] >>Login: 5_1 68
+[2020-11-20 16:09:18:538] >>Login: 5_2 68
+[2020-11-20 16:09:18:538] >>Login: 6 68
+[2020-11-20 16:09:18:732] >>Login: 7 68
+[2020-11-20 16:09:18:860] >>Login: 8 68
+[2020-11-20 16:09:19:469] >>Login: 9 68
+[2020-11-20 16:09:19:469] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 16:09:19:469] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 16:09:19:469] >>Login: 11 68
+
+[2020-11-20 16:09:19:571] >>Login: 0 *disable*
+[2020-11-20 16:09:21:572] >>Login: 0 *disable*
+[2020-11-20 16:09:23:573] >>Login: 0 *disable*
+
+[2020-11-20 16:09:25:573] >>Login: 0 *disable*
+[2020-11-20 16:09:27:565] >>Login: 0 *disable*
+
+[2020-11-20 16:09:29:566] >>Login: 0 *disable*
+[2020-11-20 16:09:31:570] >>Login: 0 *disable*
+[2020-11-20 16:09:33:577] >>Login: 0 *disable*
+
+[2020-11-20 16:09:35:573] >>Login: 0 *disable*
+[2020-11-20 16:09:37:574] >>Login: 0 *disable*
+
+[2020-11-20 16:09:39:576] >>Login: 0 *disable*
+[2020-11-20 16:09:41:575] >>Login: 0 *disable*
+[2020-11-20 16:09:43:575] >>Login: 0 *disable*
+
+[2020-11-20 16:09:45:578] >>Login: 0 *disable*
+[2020-11-20 16:09:47:582] >>Login: 0 *disable*
+
+[2020-11-20 16:09:49:581] >>Login: 0 *disable*
+[2020-11-20 16:09:51:578] >>Login: 0 *disable*
+[2020-11-20 16:09:53:577] >>Login: 0 *disable*
+
+[2020-11-20 16:09:55:573] >>Login: 0 *disable*
+[2020-11-20 16:09:57:566] >>Login: 0 *disable*
+
+[2020-11-20 16:09:59:572] >>Login: 0 *disable*
+[2020-11-20 16:10:01:581] >>Login: 0 *disable*
+[2020-11-20 16:10:03:581] >>Login: 0 *disable*
+
+[2020-11-20 16:10:05:580] >>Login: 0 *disable*
+[2020-11-20 16:10:07:569] >>Login: 0 *disable*
+
+[2020-11-20 16:10:09:573] >>Login: 0 *disable*
+[2020-11-20 16:10:11:566] >>Login: 0 *disable*
+[2020-11-20 16:10:13:579] >>Login: 0 *disable*
+
+[2020-11-20 16:10:15:574] >>Login: 0 *disable*
+[2020-11-20 16:10:16:895] SendMerChantSayMsg-----
+[2020-11-20 16:10:16:898] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:10:16:898] SendMerChantSayMsg-----json
+[2020-11-20 16:10:16:898] SendMerChantSayMsg-----End
+[2020-11-20 16:10:17:575] >>Login: 0 *disable*
+
+[2020-11-20 16:10:19:576] >>Login: 0 *disable*
+[2020-11-20 16:10:21:575] >>Login: 0 *disable*
+[2020-11-20 16:10:23:577] >>Login: 0 *disable*
+
+[2020-11-20 16:10:25:577] >>Login: 0 *disable*
+[2020-11-20 16:10:27:575] >>Login: 0 *disable*
+
+[2020-11-20 16:10:29:578] >>Login: 0 *disable*
+[2020-11-20 16:10:31:579] >>Login: 0 *disable*
+[2020-11-20 16:10:33:576] >>Login: 0 *disable*
+
+[2020-11-20 16:10:35:578] >>Login: 0 *disable*
+[2020-11-20 16:10:37:578] >>Login: 0 *disable*
+
+[2020-11-20 16:10:39:579] >>Login: 0 *disable*
+[2020-11-20 16:10:41:576] >>Login: 0 *disable*
+[2020-11-20 16:10:43:581] >>Login: 0 *disable*
+
+[2020-11-20 16:10:45:575] >>Login: 0 *disable*
+[2020-11-20 16:10:47:580] >>Login: 0 *disable*
+
+[2020-11-20 16:10:49:565] >>Login: 0 *disable*
+[2020-11-20 16:10:51:576] >>Login: 0 *disable*
+[2020-11-20 16:10:53:576] >>Login: 0 *disable*
+
+[2020-11-20 16:10:55:578] >>Login: 0 *disable*
+[2020-11-20 16:10:56:300] SendMerChantSayMsg-----
+[2020-11-20 16:10:56:302] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:10:56:302] SendMerChantSayMsg-----json
+[2020-11-20 16:10:56:302] SendMerChantSayMsg-----End
+[2020-11-20 16:10:57:581] >>Login: 0 *disable*
+[2020-11-20 16:10:59:345] SendMerChantSayMsg-----
+[2020-11-20 16:10:59:347] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:10:59:347] SendMerChantSayMsg-----json
+[2020-11-20 16:10:59:347] SendMerChantSayMsg-----End
+
+[2020-11-20 16:10:59:568] >>Login: 0 *disable*
+[2020-11-20 16:11:01:576] >>Login: 0 *disable*
+[2020-11-20 16:11:03:577] >>Login: 0 *disable*
+
+[2020-11-20 16:11:05:578] >>Login: 0 *disable*
+[2020-11-20 16:11:07:581] >>Login: 0 *disable*
+
+[2020-11-20 16:11:09:579] >>Login: 0 *disable*
+[2020-11-20 16:11:11:576] >>Login: 0 *disable*
+[2020-11-20 16:11:13:565] >>Login: 0 *disable*
+
+[2020-11-20 16:11:15:571] >>Login: 0 *disable*
+[2020-11-20 16:11:17:580] >>Login: 0 *disable*
+
+[2020-11-20 16:11:19:566] >>Login: 0 *disable*
+[2020-11-20 16:11:21:575] >>Login: 0 *disable*
+[2020-11-20 16:11:23:582] >>Login: 0 *disable*
+
+[2020-11-20 16:11:25:570] >>Login: 0 *disable*
+[2020-11-20 16:11:27:571] >>Login: 0 *disable*
+
+[2020-11-20 16:11:29:576] >>Login: 0 *disable*
+[2020-11-20 16:11:31:579] >>Login: 0 *disable*
+[2020-11-20 16:11:33:580] >>Login: 0 *disable*
+
+[2020-11-20 16:11:35:586] >>Login: 0 *disable*
+[2020-11-20 16:11:37:532] SendMerChantSayMsg-----
+[2020-11-20 16:11:37:534] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:11:37:534] SendMerChantSayMsg-----json
+[2020-11-20 16:11:37:535] SendMerChantSayMsg-----End
+[2020-11-20 16:11:37:573] >>Login: 0 *disable*
+
+[2020-11-20 16:11:39:573] >>Login: 0 *disable*
+[2020-11-20 16:11:41:582] >>Login: 0 *disable*
+[2020-11-20 16:11:43:568] >>Login: 0 *disable*
+
+[2020-11-20 16:11:45:565] >>Login: 0 *disable*
+[2020-11-20 16:11:47:569] >>Login: 0 *disable*
+
+[2020-11-20 16:11:49:582] >>Login: 0 *disable*
+[2020-11-20 16:11:51:567] >>Login: 0 *disable*
+[2020-11-20 16:11:53:577] >>Login: 0 *disable*
+
+[2020-11-20 16:11:55:581] >>Login: 0 *disable*
+[2020-11-20 16:11:57:567] >>Login: 0 *disable*
+
+[2020-11-20 16:11:59:568] >>Login: 0 *disable*
+[2020-11-20 16:12:01:567] >>Login: 0 *disable*
+[2020-11-20 16:12:03:568] >>Login: 0 *disable*
+
+[2020-11-20 16:12:05:578] >>Login: 0 *disable*
+[2020-11-20 16:12:07:566] >>Login: 0 *disable*
+
+[2020-11-20 16:12:09:576] >>Login: 0 *disable*
+[2020-11-20 16:12:11:566] >>Login: 0 *disable*
+[2020-11-20 16:12:13:582] >>Login: 0 *disable*
+
+[2020-11-20 16:12:15:576] >>Login: 0 *disable*
+[2020-11-20 16:12:17:581] >>Login: 0 *disable*
+
+[2020-11-20 16:12:19:568] >>Login: 0 *disable*
+[2020-11-20 16:12:21:568] >>Login: 0 *disable*
+[2020-11-20 16:12:23:567] >>Login: 0 *disable*
+
+[2020-11-20 16:12:25:569] >>Login: 0 *disable*
+[2020-11-20 16:12:27:569] >>Login: 0 *disable*
+
+[2020-11-20 16:12:29:570] >>Login: 0 *disable*
+[2020-11-20 16:12:31:569] >>Login: 0 *disable*
+[2020-11-20 16:12:33:576] >>Login: 0 *disable*
+
+[2020-11-20 16:12:35:567] >>Login: 0 *disable*
+[2020-11-20 16:12:37:581] >>Login: 0 *disable*
+
+[2020-11-20 16:12:39:582] >>Login: 0 *disable*
+[2020-11-20 16:12:41:596] >>Login: 0 *disable*
+[2020-11-20 16:12:43:566] >>Login: 0 *disable*
+
+[2020-11-20 16:12:45:567] >>Login: 0 *disable*
+[2020-11-20 16:12:47:568] >>Login: 0 *disable*
+
+[2020-11-20 16:12:49:577] >>Login: 0 *disable*
+[2020-11-20 16:12:51:579] >>Login: 0 *disable*
+[2020-11-20 16:12:53:570] >>Login: 0 *disable*
+
+[2020-11-20 16:12:55:577] >>Login: 0 *disable*
+[2020-11-20 16:12:57:579] >>Login: 0 *disable*
+
+[2020-11-20 16:12:59:569] >>Login: 0 *disable*
+[2020-11-20 16:13:01:577] >>Login: 0 *disable*
+[2020-11-20 16:13:03:581] >>Login: 0 *disable*
+
+[2020-11-20 16:13:05:566] >>Login: 0 *disable*
+[2020-11-20 16:13:07:567] >>Login: 0 *disable*
+
+[2020-11-20 16:13:09:566] >>Login: 0 *disable*
+[2020-11-20 16:13:11:567] >>Login: 0 *disable*
+[2020-11-20 16:13:13:566] >>Login: 0 *disable*
+
+[2020-11-20 16:13:15:570] >>Login: 0 *disable*
+[2020-11-20 16:13:17:565] >>Login: 0 *disable*
+
+[2020-11-20 16:13:19:568] >>Login: 0 *disable*
+[2020-11-20 16:13:21:567] >>Login: 0 *disable*
+[2020-11-20 16:13:23:568] >>Login: 0 *disable*
+
+[2020-11-20 16:13:25:570] >>Login: 0 *disable*
+[2020-11-20 16:13:27:572] >>Login: 0 *disable*
+
+[2020-11-20 16:13:29:576] >>Login: 0 *disable*
+[2020-11-20 16:13:31:582] >>Login: 0 *disable*
+[2020-11-20 16:13:33:581] >>Login: 0 *disable*
+
+[2020-11-20 16:13:35:581] >>Login: 0 *disable*
+[2020-11-20 16:13:37:378] SendMerChantSayMsg-----
+[2020-11-20 16:13:37:380] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:13:37:380] SendMerChantSayMsg-----json
+[2020-11-20 16:13:37:381] SendMerChantSayMsg-----End
+[2020-11-20 16:13:37:568] >>Login: 0 *disable*
+
+[2020-11-20 16:13:39:567] >>Login: 0 *disable*
+[2020-11-20 16:13:41:571] >>Login: 0 *disable*
+[2020-11-20 16:13:43:584] >>Login: 0 *disable*
+
+[2020-11-20 16:13:45:567] >>Login: 0 *disable*
+[2020-11-20 16:13:47:568] >>Login: 0 *disable*
+
+[2020-11-20 16:13:49:567] >>Login: 0 *disable*
+[2020-11-20 16:13:51:571] >>Login: 0 *disable*
+[2020-11-20 16:13:53:571] >>Login: 0 *disable*
+
+[2020-11-20 16:13:55:573] >>Login: 0 *disable*
+[2020-11-20 16:13:57:582] >>Login: 0 *disable*
+
+[2020-11-20 16:13:59:566] >>Login: 0 *disable*
+[2020-11-20 16:14:01:569] >>Login: 0 *disable*
+[2020-11-20 16:14:03:568] >>Login: 0 *disable*
+
+[2020-11-20 16:14:05:579] >>Login: 0 *disable*
+[2020-11-20 16:14:07:578] >>Login: 0 *disable*
+
+[2020-11-20 16:14:09:579] >>Login: 0 *disable*
+[2020-11-20 16:14:11:567] >>Login: 0 *disable*
+[2020-11-20 16:14:13:568] >>Login: 0 *disable*
+
+[2020-11-20 16:14:15:579] >>Login: 0 *disable*
+[2020-11-20 16:14:17:566] >>Login: 0 *disable*
+
+[2020-11-20 16:14:19:566] >>Login: 0 *disable*
+[2020-11-20 16:14:21:568] >>Login: 0 *disable*
+[2020-11-20 16:14:23:570] >>Login: 0 *disable*
+
+[2020-11-20 16:14:25:569] >>Login: 0 *disable*
+[2020-11-20 16:14:27:572] >>Login: 0 *disable*
+
+[2020-11-20 16:14:29:567] >>Login: 0 *disable*
+[2020-11-20 16:14:31:579] >>Login: 0 *disable*
+[2020-11-20 16:14:33:572] >>Login: 0 *disable*
+
+[2020-11-20 16:14:35:579] >>Login: 0 *disable*
+[2020-11-20 16:14:37:578] >>Login: 0 *disable*
+
+[2020-11-20 16:14:39:568] >>Login: 0 *disable*
+[2020-11-20 16:14:41:569] >>Login: 0 *disable*
+[2020-11-20 16:14:43:570] >>Login: 0 *disable*
+
+[2020-11-20 16:14:45:575] >>Login: 0 *disable*
+[2020-11-20 16:14:47:576] >>Login: 0 *disable*
+
+[2020-11-20 16:14:49:568] >>Login: 0 *disable*
+[2020-11-20 16:14:51:568] >>Login: 0 *disable*
+[2020-11-20 16:14:53:584] >>Login: 0 *disable*
+
+[2020-11-20 16:14:55:582] >>Login: 0 *disable*
+[2020-11-20 16:14:57:575] >>Login: 0 *disable*
+
+[2020-11-20 16:14:59:570] >>Login: 0 *disable*
+[2020-11-20 16:15:01:570] >>Login: 0 *disable*
+[2020-11-20 16:15:03:572] >>Login: 0 *disable*
+
+[2020-11-20 16:15:05:574] >>Login: 0 *disable*
+[2020-11-20 16:15:07:318] >>Login: 0 
+[2020-11-20 16:15:07:318] >>Login: 1 
+[2020-11-20 16:15:07:318] >>Login: 2 1263068
+[2020-11-20 16:15:07:318] >>Login: 3 1263068
+[2020-11-20 16:15:07:319] >>Login: 5_0 1263068
+[2020-11-20 16:15:07:355] >>Login: 5 1263068, 1
+[2020-11-20 16:15:07:355] >>Login: 5_1 1263068
+[2020-11-20 16:15:07:355] >>Login: 5_2 1263068
+[2020-11-20 16:15:07:355] >>Login: 6 1263068
+[2020-11-20 16:15:07:450] >>Login: 7 1263068
+[2020-11-20 16:15:07:583] >>Login: 0 *disable*
+[2020-11-20 16:15:07:626] >>Login: 8 1263068
+
+[2020-11-20 16:15:09:566] >>Login: 0 *disable*
+[2020-11-20 16:15:10:063] >>Login: 9 1263068
+[2020-11-20 16:15:10:063] >>Login: 10 cfg_colour_style,  -> 936C6E8795F4D345C4A84EE403167190
+[2020-11-20 16:15:10:063] >>Login: 10 cfg_colour_style-win32,  -> DAFFF3E50A86AAEA76B8A87B105C2C82
+[2020-11-20 16:15:10:064] >>Login: 10 cfg_damage_number,  -> ADD727292D3D42722E2B3288021AA969
+[2020-11-20 16:15:10:064] >>Login: 10 cfg_att_score,  -> 79CBE9D3F25DD88DE32E814F16658EC3
+[2020-11-20 16:15:10:064] >>Login: 10 cfg_suit,  -> 356FB318749367F632EC3AC3AEE67443
+[2020-11-20 16:15:10:064] >>Login: 10 cfg_magicinfo,  -> 9CB6E54562D699B2F0318593CF075E1E
+[2020-11-20 16:15:10:065] >>Login: 10 cfg_setup,  -> 8D497D0E64D4814C4C2118F4BBEFE62D
+[2020-11-20 16:15:10:065] >>Login: 10 cfg_menulayer,  -> DD4F6184A2052BD75C9DCF76034922A3
+[2020-11-20 16:15:10:066] >>Login: 10 cfg_newbuffer,  -> F1C1C807447717440796E67A92EE7D72
+[2020-11-20 16:15:10:066] >>Login: 10 cfg_mission,  -> 2C24CC11AF0F654B3DA2BAF662639167
+[2020-11-20 16:15:10:066] >>Login: 10 cfg_model_info,  -> 4EBCE106BEA5650D28DB9F3832173102
+[2020-11-20 16:15:10:066] >>Login: 10 cfg_skill_present,  -> 9770ABFBE3B732534AD4871FDBE2B529
+[2020-11-20 16:15:10:067] >>Login: 10 cfg_sound,  -> 570CCCC98BB6E673F866DD0A46906E21
+[2020-11-20 16:15:10:068] >>Login: 10 cfg_tipicon,  -> A0DEDC3DE01FFFCC0D075CE1239A965A
+[2020-11-20 16:15:10:068] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 16:15:10:068] >>Login: 10 cfg_pick_set,  -> 6CA077FE5A2DA6C25FA7D8AB4983F70B
+[2020-11-20 16:15:10:068] >>Login: 10 cfg_stditem,  -> 685FFADD95D4545D3A1B435B33230BFB1720CB386C59D679FFBF240A7CC5F243
+[2020-11-20 16:15:10:069] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 16:15:10:069] >>Login: 11 1263068
+[2020-11-20 16:15:10:270] SendMerChantSayMsg-----
+[2020-11-20 16:15:10:270] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:15:10:270] SendMerChantSayMsg-----json
+[2020-11-20 16:15:10:270] SendMerChantSayMsg-----End
+[2020-11-20 16:15:11:567] >>Login: 0 *disable*
+[2020-11-20 16:15:13:567] >>Login: 0 *disable*
+
+[2020-11-20 16:15:15:568] >>Login: 0 *disable*
+[2020-11-20 16:15:17:570] >>Login: 0 *disable*
+
+[2020-11-20 16:15:19:573] >>Login: 0 *disable*
+[2020-11-20 16:15:21:569] >>Login: 0 *disable*
+[2020-11-20 16:15:23:574] >>Login: 0 *disable*
+
+[2020-11-20 16:15:25:568] >>Login: 0 *disable*
+[2020-11-20 16:15:27:569] >>Login: 0 *disable*
+
+[2020-11-20 16:15:29:570] >>Login: 0 *disable*
+[2020-11-20 16:15:31:580] >>Login: 0 *disable*
+[2020-11-20 16:15:33:571] >>Login: 0 *disable*
+
+[2020-11-20 16:15:35:578] >>Login: 0 *disable*
+[2020-11-20 16:15:37:576] >>Login: 0 *disable*
+
+[2020-11-20 16:15:39:579] >>Login: 0 *disable*
+[2020-11-20 16:15:41:566] >>Login: 0 *disable*
+[2020-11-20 16:15:43:569] >>Login: 0 *disable*
+
+[2020-11-20 16:15:45:571] >>Login: 0 *disable*
+[2020-11-20 16:15:47:569] >>Login: 0 *disable*
+
+[2020-11-20 16:15:49:567] >>Login: 0 *disable*
+[2020-11-20 16:15:51:572] >>Login: 0 *disable*
+[2020-11-20 16:15:53:573] >>Login: 0 *disable*
+
+[2020-11-20 16:15:55:577] >>Login: 0 *disable*
+[2020-11-20 16:15:57:571] >>Login: 0 *disable*
+
+[2020-11-20 16:15:59:574] >>Login: 0 *disable*
+[2020-11-20 16:16:01:577] >>Login: 0 *disable*
+[2020-11-20 16:16:03:579] >>Login: 0 *disable*
+
+[2020-11-20 16:16:05:572] >>Login: 0 *disable*
+[2020-11-20 16:16:07:571] >>Login: 0 *disable*
+
+[2020-11-20 16:16:09:573] >>Login: 0 *disable*
+[2020-11-20 16:16:11:579] >>Login: 0 *disable*
+[2020-11-20 16:16:13:581] >>Login: 0 *disable*
+
+[2020-11-20 16:16:15:577] >>Login: 0 *disable*
+[2020-11-20 16:16:17:578] >>Login: 0 *disable*
+
+[2020-11-20 16:16:19:574] >>Login: 0 *disable*
+[2020-11-20 16:16:21:574] >>Login: 0 *disable*
+[2020-11-20 16:16:23:575] >>Login: 0 *disable*
+
+[2020-11-20 16:16:25:574] >>Login: 0 *disable*
+[2020-11-20 16:16:26:434] >>Login: 0 
+[2020-11-20 16:16:26:434] >>Login: 1 
+[2020-11-20 16:16:26:434] >>Login: 2 1263068
+[2020-11-20 16:16:26:434] >>Login: 3 1263068
+[2020-11-20 16:16:26:436] >>Login: 5_0 1263068
+[2020-11-20 16:16:26:438] >>Login: 5 1263068, 1
+[2020-11-20 16:16:26:438] >>Login: 5_1 1263068
+[2020-11-20 16:16:26:438] >>Login: 5_2 1263068
+[2020-11-20 16:16:26:438] >>Login: 6 1263068
+[2020-11-20 16:16:26:643] >>Login: 7 1263068
+[2020-11-20 16:16:26:845] >>Login: 8 1263068
+[2020-11-20 16:16:27:568] >>Login: 0 *disable*
+[2020-11-20 16:16:27:859] >>Login: 9 1263068
+[2020-11-20 16:16:27:859] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 16:16:27:859] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 16:16:27:859] >>Login: 11 1263068
+[2020-11-20 16:16:28:067] SendMerChantSayMsg-----
+[2020-11-20 16:16:28:067] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:16:28:067] SendMerChantSayMsg-----json
+[2020-11-20 16:16:28:067] SendMerChantSayMsg-----End
+
+[2020-11-20 16:16:29:575] >>Login: 0 *disable*
+[2020-11-20 16:16:31:580] >>Login: 0 *disable*
+[2020-11-20 16:16:33:578] >>Login: 0 *disable*
+
+[2020-11-20 16:16:35:580] >>Login: 0 *disable*
+[2020-11-20 16:16:37:581] >>Login: 0 *disable*
+
+[2020-11-20 16:16:39:583] >>Login: 0 *disable*
+[2020-11-20 16:16:41:575] >>Login: 0 *disable*
+[2020-11-20 16:16:43:579] >>Login: 0 *disable*
+
+[2020-11-20 16:16:45:579] >>Login: 0 *disable*
+[2020-11-20 16:16:47:579] >>Login: 0 *disable*
+
+[2020-11-20 16:16:49:581] >>Login: 0 *disable*
+[2020-11-20 16:16:51:580] >>Login: 0 *disable*
+[2020-11-20 16:16:53:583] >>Login: 0 *disable*
+
+[2020-11-20 16:16:55:576] >>Login: 0 *disable*
+[2020-11-20 16:16:57:582] >>Login: 0 *disable*
+
+[2020-11-20 16:16:59:567] >>Login: 0 *disable*
+[2020-11-20 16:17:01:578] >>Login: 0 *disable*
+[2020-11-20 16:17:03:578] >>Login: 0 *disable*
+
+[2020-11-20 16:17:05:579] >>Login: 0 *disable*
+[2020-11-20 16:17:07:579] >>Login: 0 *disable*
+
+[2020-11-20 16:17:09:578] >>Login: 0 *disable*
+[2020-11-20 16:17:11:579] >>Login: 0 *disable*
+[2020-11-20 16:17:13:579] >>Login: 0 *disable*
+
+[2020-11-20 16:17:15:580] >>Login: 0 *disable*
+[2020-11-20 16:17:17:580] >>Login: 0 *disable*
+
+[2020-11-20 16:17:19:580] >>Login: 0 *disable*
+[2020-11-20 16:17:21:579] >>Login: 0 *disable*
+[2020-11-20 16:17:23:580] >>Login: 0 *disable*
+
+[2020-11-20 16:17:25:581] >>Login: 0 *disable*
+[2020-11-20 16:17:27:581] >>Login: 0 *disable*
+
+[2020-11-20 16:17:29:574] >>Login: 0 *disable*
+[2020-11-20 16:17:31:580] >>Login: 0 *disable*
+[2020-11-20 16:17:33:575] >>Login: 0 *disable*
+
+[2020-11-20 16:17:35:575] >>Login: 0 *disable*
+[2020-11-20 16:17:37:567] >>Login: 0 *disable*
+
+[2020-11-20 16:17:39:577] >>Login: 0 *disable*
+[2020-11-20 16:17:41:577] >>Login: 0 *disable*
+[2020-11-20 16:17:43:579] >>Login: 0 *disable*
+
+[2020-11-20 16:17:45:579] >>Login: 0 *disable*
+[2020-11-20 16:17:47:581] >>Login: 0 *disable*
+
+[2020-11-20 16:17:49:582] >>Login: 0 *disable*
+[2020-11-20 16:17:51:582] >>Login: 0 *disable*
+[2020-11-20 16:17:53:582] >>Login: 0 *disable*
+
+[2020-11-20 16:17:55:581] >>Login: 0 *disable*
+[2020-11-20 16:17:57:584] >>Login: 0 *disable*
+
+[2020-11-20 16:17:59:570] >>Login: 0 *disable*
+[2020-11-20 16:18:01:581] >>Login: 0 *disable*
+[2020-11-20 16:18:03:568] >>Login: 0 *disable*
+
+[2020-11-20 16:18:05:568] >>Login: 0 *disable*
+[2020-11-20 16:18:07:568] >>Login: 0 *disable*
+
+[2020-11-20 16:18:09:572] >>Login: 0 *disable*
+[2020-11-20 16:18:11:568] >>Login: 0 *disable*
+[2020-11-20 16:18:13:582] >>Login: 0 *disable*
+
+[2020-11-20 16:18:15:583] >>Login: 0 *disable*
+[2020-11-20 16:18:17:571] >>Login: 0 *disable*
+
+[2020-11-20 16:18:19:574] >>Login: 0 *disable*
+[2020-11-20 16:18:21:575] >>Login: 0 *disable*
+[2020-11-20 16:18:23:577] >>Login: 0 *disable*
+
+[2020-11-20 16:18:25:568] >>Login: 0 *disable*
+[2020-11-20 16:18:27:579] >>Login: 0 *disable*
+
+[2020-11-20 16:18:29:580] >>Login: 0 *disable*
+[2020-11-20 16:18:31:580] >>Login: 0 *disable*
+[2020-11-20 16:18:33:580] >>Login: 0 *disable*
+
+[2020-11-20 16:18:35:568] >>Login: 0 *disable*
+[2020-11-20 16:18:37:583] >>Login: 0 *disable*
+
+[2020-11-20 16:18:39:567] >>Login: 0 *disable*
+[2020-11-20 16:18:41:569] >>Login: 0 *disable*
+[2020-11-20 16:18:43:576] >>Login: 0 *disable*
+
+[2020-11-20 16:18:45:576] >>Login: 0 *disable*
+[2020-11-20 16:18:47:569] >>Login: 0 *disable*
+
+[2020-11-20 16:18:49:569] >>Login: 0 *disable*
+[2020-11-20 16:18:51:582] >>Login: 0 *disable*
+[2020-11-20 16:18:53:583] >>Login: 0 *disable*
+
+[2020-11-20 16:18:55:568] >>Login: 0 *disable*
+[2020-11-20 16:18:57:570] >>Login: 0 *disable*
+
+[2020-11-20 16:18:59:570] >>Login: 0 *disable*
+[2020-11-20 16:19:01:571] >>Login: 0 *disable*
+[2020-11-20 16:19:03:576] >>Login: 0 *disable*
+
+[2020-11-20 16:19:05:576] >>Login: 0 *disable*
+[2020-11-20 16:19:07:570] >>Login: 0 *disable*
+
+[2020-11-20 16:19:09:568] >>Login: 0 *disable*
+[2020-11-20 16:19:11:568] >>Login: 0 *disable*
+[2020-11-20 16:19:13:580] >>Login: 0 *disable*
+
+[2020-11-20 16:19:15:571] >>Login: 0 *disable*
+[2020-11-20 16:19:17:571] >>Login: 0 *disable*
+
+[2020-11-20 16:19:19:571] >>Login: 0 *disable*
+[2020-11-20 16:19:21:568] >>Login: 0 *disable*
+[2020-11-20 16:19:23:568] >>Login: 0 *disable*
+
+[2020-11-20 16:19:25:569] >>Login: 0 *disable*
+[2020-11-20 16:19:27:570] >>Login: 0 *disable*
+
+[2020-11-20 16:19:29:569] >>Login: 0 *disable*
+[2020-11-20 16:19:31:580] >>Login: 0 *disable*
+[2020-11-20 16:19:33:580] >>Login: 0 *disable*
+
+[2020-11-20 16:19:35:581] >>Login: 0 *disable*
+[2020-11-20 16:19:37:570] >>Login: 0 *disable*
+
+[2020-11-20 16:19:39:592] >>Login: 0 *disable*
+[2020-11-20 16:19:41:573] >>Login: 0 *disable*
+[2020-11-20 16:19:43:568] >>Login: 0 *disable*
+
+[2020-11-20 16:19:45:579] >>Login: 0 *disable*
+[2020-11-20 16:19:47:579] >>Login: 0 *disable*
+
+[2020-11-20 16:19:49:569] >>Login: 0 *disable*
+[2020-11-20 16:19:51:582] >>Login: 0 *disable*
+[2020-11-20 16:19:53:581] >>Login: 0 *disable*
+
+[2020-11-20 16:19:55:582] >>Login: 0 *disable*
+[2020-11-20 16:19:57:584] >>Login: 0 *disable*
+
+[2020-11-20 16:19:59:581] >>Login: 0 *disable*
+[2020-11-20 16:20:01:583] >>Login: 0 *disable*
+[2020-11-20 16:20:03:582] >>Login: 0 *disable*
+
+[2020-11-20 16:20:05:583] >>Login: 0 *disable*
+[2020-11-20 16:20:07:573] >>Login: 0 *disable*
+
+[2020-11-20 16:20:09:574] >>Login: 0 *disable*
+[2020-11-20 16:20:11:574] >>Login: 0 *disable*
+[2020-11-20 16:20:13:566] >>Login: 0 *disable*
+
+[2020-11-20 16:20:15:570] >>Login: 0 *disable*
+[2020-11-20 16:20:17:568] >>Login: 0 *disable*
+
+[2020-11-20 16:20:19:573] >>Login: 0 *disable*
+[2020-11-20 16:20:21:570] >>Login: 0 *disable*
+[2020-11-20 16:20:23:577] >>Login: 0 *disable*
+
+[2020-11-20 16:20:25:573] >>Login: 0 *disable*
+[2020-11-20 16:20:27:569] >>Login: 0 *disable*
+
+[2020-11-20 16:20:29:571] >>Login: 0 *disable*
+[2020-11-20 16:20:31:578] >>Login: 0 *disable*
+[2020-11-20 16:20:33:582] >>Login: 0 *disable*
+
+[2020-11-20 16:20:35:581] >>Login: 0 *disable*
+[2020-11-20 16:20:37:572] >>Login: 0 *disable*
+
+[2020-11-20 16:20:39:574] >>Login: 0 *disable*
+[2020-11-20 16:20:41:576] >>Login: 0 *disable*
+[2020-11-20 16:20:43:577] >>Login: 0 *disable*
+
+[2020-11-20 16:20:45:576] >>Login: 0 *disable*
+[2020-11-20 16:20:47:570] >>Login: 0 *disable*
+
+[2020-11-20 16:20:49:573] >>Login: 0 *disable*
+[2020-11-20 16:20:51:573] >>Login: 0 *disable*
+[2020-11-20 16:20:53:568] >>Login: 0 *disable*
+
+[2020-11-20 16:20:55:574] >>Login: 0 *disable*
+[2020-11-20 16:20:57:579] >>Login: 0 *disable*
+
+[2020-11-20 16:20:59:580] >>Login: 0 *disable*
+[2020-11-20 16:21:01:567] >>Login: 0 *disable*
+[2020-11-20 16:21:03:573] >>Login: 0 *disable*
+
+[2020-11-20 16:21:05:573] >>Login: 0 *disable*
+[2020-11-20 16:21:07:574] >>Login: 0 *disable*
+
+[2020-11-20 16:21:09:574] >>Login: 0 *disable*
+[2020-11-20 16:21:11:579] >>Login: 0 *disable*
+[2020-11-20 16:21:13:577] >>Login: 0 *disable*
+
+[2020-11-20 16:21:15:574] >>Login: 0 *disable*
+[2020-11-20 16:21:17:573] >>Login: 0 *disable*
+
+[2020-11-20 16:21:19:573] >>Login: 0 *disable*
+[2020-11-20 16:21:21:573] >>Login: 0 *disable*
+[2020-11-20 16:21:23:573] >>Login: 0 *disable*
+
+[2020-11-20 16:21:25:573] >>Login: 0 *disable*
+[2020-11-20 16:21:27:572] >>Login: 0 *disable*
+
+[2020-11-20 16:21:29:581] >>Login: 0 *disable*
+[2020-11-20 16:21:31:581] >>Login: 0 *disable*
+[2020-11-20 16:21:33:572] >>Login: 0 *disable*
+
+[2020-11-20 16:21:35:573] >>Login: 0 *disable*
+[2020-11-20 16:21:37:578] >>Login: 0 *disable*
+
+[2020-11-20 16:21:39:580] >>Login: 0 *disable*
+[2020-11-20 16:21:41:584] >>Login: 0 *disable*
+[2020-11-20 16:21:43:576] >>Login: 0 *disable*
+
+[2020-11-20 16:21:45:577] >>Login: 0 *disable*
+[2020-11-20 16:21:47:580] >>Login: 0 *disable*
+
+[2020-11-20 16:21:49:578] >>Login: 0 *disable*
+[2020-11-20 16:21:51:572] >>Login: 0 *disable*
+[2020-11-20 16:21:53:578] >>Login: 0 *disable*
+
+[2020-11-20 16:21:55:571] >>Login: 0 *disable*
+[2020-11-20 16:21:57:581] >>Login: 0 *disable*
+
+[2020-11-20 16:21:59:568] >>Login: 0 *disable*
+[2020-11-20 16:22:01:580] >>Login: 0 *disable*
+[2020-11-20 16:22:03:580] >>Login: 0 *disable*
+
+[2020-11-20 16:22:05:581] >>Login: 0 *disable*
+[2020-11-20 16:22:07:575] >>Login: 0 *disable*
+
+[2020-11-20 16:22:09:581] >>Login: 0 *disable*
+[2020-11-20 16:22:11:579] >>Login: 0 *disable*
+[2020-11-20 16:22:13:579] >>Login: 0 *disable*
+
+[2020-11-20 16:22:15:582] >>Login: 0 *disable*
+[2020-11-20 16:22:17:581] >>Login: 0 *disable*
+
+[2020-11-20 16:22:19:581] >>Login: 0 *disable*
+[2020-11-20 16:22:21:582] >>Login: 0 *disable*
+[2020-11-20 16:22:23:583] >>Login: 0 *disable*
+
+[2020-11-20 16:22:25:583] >>Login: 0 *disable*
+[2020-11-20 16:22:27:582] >>Login: 0 *disable*
+
+[2020-11-20 16:22:29:575] >>Login: 0 *disable*
+[2020-11-20 16:22:31:575] >>Login: 0 *disable*
+[2020-11-20 16:22:33:576] >>Login: 0 *disable*
+
+[2020-11-20 16:22:35:576] >>Login: 0 *disable*
+[2020-11-20 16:22:37:576] >>Login: 0 *disable*
+
+[2020-11-20 16:22:39:577] >>Login: 0 *disable*
+[2020-11-20 16:22:41:580] >>Login: 0 *disable*
+[2020-11-20 16:22:43:580] >>Login: 0 *disable*
+
+[2020-11-20 16:22:45:580] >>Login: 0 *disable*
+[2020-11-20 16:22:47:569] >>Login: 0 *disable*
+
+[2020-11-20 16:22:49:578] >>Login: 0 *disable*
+[2020-11-20 16:22:51:580] >>Login: 0 *disable*
+[2020-11-20 16:22:53:580] >>Login: 0 *disable*
+
+[2020-11-20 16:22:55:582] >>Login: 0 *disable*
+[2020-11-20 16:22:57:582] >>Login: 0 *disable*
+
+[2020-11-20 16:22:59:582] >>Login: 0 *disable*
+[2020-11-20 16:23:01:582] >>Login: 0 *disable*
+[2020-11-20 16:23:03:582] >>Login: 0 *disable*
+
+[2020-11-20 16:23:05:577] >>Login: 0 *disable*
+[2020-11-20 16:23:07:577] >>Login: 0 *disable*
+
+[2020-11-20 16:23:09:577] >>Login: 0 *disable*
+[2020-11-20 16:23:11:578] >>Login: 0 *disable*
+[2020-11-20 16:23:13:572] >>Login: 0 *disable*
+
+[2020-11-20 16:23:15:572] >>Login: 0 *disable*
+[2020-11-20 16:23:17:575] >>Login: 0 *disable*
+
+[2020-11-20 16:23:19:576] >>Login: 0 *disable*
+[2020-11-20 16:23:21:579] >>Login: 0 *disable*
+[2020-11-20 16:23:23:581] >>Login: 0 *disable*
+
+[2020-11-20 16:23:25:580] >>Login: 0 *disable*
+[2020-11-20 16:23:27:581] >>Login: 0 *disable*
+
+[2020-11-20 16:23:29:578] >>Login: 0 *disable*
+[2020-11-20 16:23:31:578] >>Login: 0 *disable*
+[2020-11-20 16:23:33:569] >>Login: 0 *disable*
+
+[2020-11-20 16:23:35:570] >>Login: 0 *disable*
+[2020-11-20 16:23:37:585] >>Login: 0 *disable*
+
+[2020-11-20 16:23:39:569] >>Login: 0 *disable*
+[2020-11-20 16:23:41:570] >>Login: 0 *disable*
+[2020-11-20 16:23:43:570] >>Login: 0 *disable*
+
+[2020-11-20 16:23:45:570] >>Login: 0 *disable*
+[2020-11-20 16:23:47:584] >>Login: 0 *disable*
+
+[2020-11-20 16:23:49:584] >>Login: 0 *disable*
+[2020-11-20 16:23:51:568] >>Login: 0 *disable*
+[2020-11-20 16:23:53:571] >>Login: 0 *disable*
+
+[2020-11-20 16:23:55:579] >>Login: 0 *disable*
+[2020-11-20 16:23:57:583] >>Login: 0 *disable*
+
+[2020-11-20 16:23:59:570] >>Login: 0 *disable*
+[2020-11-20 16:24:01:570] >>Login: 0 *disable*
+[2020-11-20 16:24:03:570] >>Login: 0 *disable*
+
+[2020-11-20 16:24:05:570] >>Login: 0 *disable*
+[2020-11-20 16:24:07:570] >>Login: 0 *disable*
+
+[2020-11-20 16:24:09:570] >>Login: 0 *disable*
+[2020-11-20 16:24:11:570] >>Login: 0 *disable*
+[2020-11-20 16:24:13:571] >>Login: 0 *disable*
+
+[2020-11-20 16:24:15:571] >>Login: 0 *disable*
+[2020-11-20 16:24:17:571] >>Login: 0 *disable*
+
+[2020-11-20 16:24:19:572] >>Login: 0 *disable*
+[2020-11-20 16:24:21:573] >>Login: 0 *disable*
+[2020-11-20 16:24:23:573] >>Login: 0 *disable*
+
+[2020-11-20 16:24:25:573] >>Login: 0 *disable*
+[2020-11-20 16:24:27:573] >>Login: 0 *disable*
+
+[2020-11-20 16:24:29:580] >>Login: 0 *disable*
+[2020-11-20 16:24:31:581] >>Login: 0 *disable*
+[2020-11-20 16:24:33:568] >>Login: 0 *disable*
+
+[2020-11-20 16:24:35:571] >>Login: 0 *disable*
+[2020-11-20 16:24:37:572] >>Login: 0 *disable*
+
+[2020-11-20 16:24:39:572] >>Login: 0 *disable*
+[2020-11-20 16:24:41:572] >>Login: 0 *disable*
+[2020-11-20 16:24:43:572] >>Login: 0 *disable*
+
+[2020-11-20 16:24:45:572] >>Login: 0 *disable*
+[2020-11-20 16:24:47:573] >>Login: 0 *disable*
+
+[2020-11-20 16:24:49:573] >>Login: 0 *disable*
+[2020-11-20 16:24:51:573] >>Login: 0 *disable*
+[2020-11-20 16:24:53:573] >>Login: 0 *disable*
+
+[2020-11-20 16:24:55:573] >>Login: 0 *disable*
+[2020-11-20 16:24:57:573] >>Login: 0 *disable*
+
+[2020-11-20 16:24:59:573] >>Login: 0 *disable*
+[2020-11-20 16:25:01:583] >>Login: 0 *disable*
+[2020-11-20 16:25:03:583] >>Login: 0 *disable*
+
+[2020-11-20 16:25:05:584] >>Login: 0 *disable*
+[2020-11-20 16:25:07:584] >>Login: 0 *disable*
+
+[2020-11-20 16:25:09:569] >>Login: 0 *disable*
+[2020-11-20 16:25:11:570] >>Login: 0 *disable*
+[2020-11-20 16:25:13:569] >>Login: 0 *disable*
+
+[2020-11-20 16:25:15:570] >>Login: 0 *disable*
+[2020-11-20 16:25:17:570] >>Login: 0 *disable*
+
+[2020-11-20 16:25:19:570] >>Login: 0 *disable*
+[2020-11-20 16:25:21:569] >>Login: 0 *disable*
+[2020-11-20 16:25:23:571] >>Login: 0 *disable*
+
+[2020-11-20 16:25:25:570] >>Login: 0 *disable*
+[2020-11-20 16:25:27:570] >>Login: 0 *disable*
+
+[2020-11-20 16:25:29:570] >>Login: 0 *disable*
+[2020-11-20 16:25:31:571] >>Login: 0 *disable*
+[2020-11-20 16:25:33:570] >>Login: 0 *disable*
+
+[2020-11-20 16:25:35:570] >>Login: 0 *disable*
+[2020-11-20 16:25:37:571] >>Login: 0 *disable*
+
+[2020-11-20 16:25:39:570] >>Login: 0 *disable*
+[2020-11-20 16:25:41:570] >>Login: 0 *disable*
+[2020-11-20 16:25:43:569] >>Login: 0 *disable*
+
+[2020-11-20 16:25:45:571] >>Login: 0 *disable*
+[2020-11-20 16:25:47:571] >>Login: 0 *disable*
+
+[2020-11-20 16:25:49:571] >>Login: 0 *disable*
+[2020-11-20 16:25:51:572] >>Login: 0 *disable*
+[2020-11-20 16:25:53:573] >>Login: 0 *disable*
+
+[2020-11-20 16:25:55:574] >>Login: 0 *disable*
+[2020-11-20 16:25:57:574] >>Login: 0 *disable*
+
+[2020-11-20 16:25:59:573] >>Login: 0 *disable*
+[2020-11-20 16:26:01:574] >>Login: 0 *disable*
+[2020-11-20 16:26:03:575] >>Login: 0 *disable*
+
+[2020-11-20 16:26:05:574] >>Login: 0 *disable*
+[2020-11-20 16:26:07:574] >>Login: 0 *disable*
+
+[2020-11-20 16:26:09:574] >>Login: 0 *disable*
+[2020-11-20 16:26:11:574] >>Login: 0 *disable*
+[2020-11-20 16:26:13:575] >>Login: 0 *disable*
+
+[2020-11-20 16:26:15:577] >>Login: 0 *disable*
+[2020-11-20 16:26:17:575] >>Login: 0 *disable*
+
+[2020-11-20 16:26:19:576] >>Login: 0 *disable*
+[2020-11-20 16:26:21:576] >>Login: 0 *disable*
+[2020-11-20 16:26:23:576] >>Login: 0 *disable*
+
+[2020-11-20 16:26:25:576] >>Login: 0 *disable*
+[2020-11-20 16:26:27:577] >>Login: 0 *disable*
+
+[2020-11-20 16:26:29:577] >>Login: 0 *disable*
+[2020-11-20 16:26:31:577] >>Login: 0 *disable*
+[2020-11-20 16:26:33:577] >>Login: 0 *disable*
+
+[2020-11-20 16:26:35:577] >>Login: 0 *disable*
+[2020-11-20 16:26:37:578] >>Login: 0 *disable*
+
+[2020-11-20 16:26:39:578] >>Login: 0 *disable*
+[2020-11-20 16:26:41:577] >>Login: 0 *disable*
+[2020-11-20 16:26:43:578] >>Login: 0 *disable*
+
+[2020-11-20 16:26:45:577] >>Login: 0 *disable*
+[2020-11-20 16:26:47:579] >>Login: 0 *disable*
+
+[2020-11-20 16:26:49:580] >>Login: 0 *disable*
+[2020-11-20 16:26:51:579] >>Login: 0 *disable*
+[2020-11-20 16:26:53:580] >>Login: 0 *disable*
+
+[2020-11-20 16:26:55:580] >>Login: 0 *disable*
+[2020-11-20 16:26:57:580] >>Login: 0 *disable*
+
+[2020-11-20 16:26:59:570] >>Login: 0 *disable*
+[2020-11-20 16:27:01:570] >>Login: 0 *disable*
+[2020-11-20 16:27:03:571] >>Login: 0 *disable*
+
+[2020-11-20 16:27:05:571] >>Login: 0 *disable*
+[2020-11-20 16:27:07:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:09:572] >>Login: 0 *disable*
+[2020-11-20 16:27:11:573] >>Login: 0 *disable*
+[2020-11-20 16:27:13:573] >>Login: 0 *disable*
+
+[2020-11-20 16:27:15:574] >>Login: 0 *disable*
+[2020-11-20 16:27:17:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:19:574] >>Login: 0 *disable*
+[2020-11-20 16:27:21:574] >>Login: 0 *disable*
+[2020-11-20 16:27:23:573] >>Login: 0 *disable*
+
+[2020-11-20 16:27:25:574] >>Login: 0 *disable*
+[2020-11-20 16:27:27:575] >>Login: 0 *disable*
+
+[2020-11-20 16:27:29:574] >>Login: 0 *disable*
+[2020-11-20 16:27:31:575] >>Login: 0 *disable*
+[2020-11-20 16:27:33:576] >>Login: 0 *disable*
+
+[2020-11-20 16:27:35:575] >>Login: 0 *disable*
+[2020-11-20 16:27:37:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:39:572] >>Login: 0 *disable*
+[2020-11-20 16:27:41:572] >>Login: 0 *disable*
+[2020-11-20 16:27:43:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:45:572] >>Login: 0 *disable*
+[2020-11-20 16:27:47:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:49:572] >>Login: 0 *disable*
+[2020-11-20 16:27:51:572] >>Login: 0 *disable*
+[2020-11-20 16:27:53:572] >>Login: 0 *disable*
+
+[2020-11-20 16:27:55:572] >>Login: 0 *disable*
+[2020-11-20 16:27:57:573] >>Login: 0 *disable*
+
+[2020-11-20 16:27:59:573] >>Login: 0 *disable*
+[2020-11-20 16:28:01:572] >>Login: 0 *disable*
+[2020-11-20 16:28:03:573] >>Login: 0 *disable*
+
+[2020-11-20 16:28:05:572] >>Login: 0 *disable*
+[2020-11-20 16:28:07:572] >>Login: 0 *disable*
+
+[2020-11-20 16:28:09:573] >>Login: 0 *disable*
+[2020-11-20 16:28:11:575] >>Login: 0 *disable*
+[2020-11-20 16:28:13:573] >>Login: 0 *disable*
+
+[2020-11-20 16:28:15:574] >>Login: 0 *disable*
+[2020-11-20 16:28:17:574] >>Login: 0 *disable*
+
+[2020-11-20 16:28:19:573] >>Login: 0 *disable*
+[2020-11-20 16:28:21:574] >>Login: 0 *disable*
+[2020-11-20 16:28:23:574] >>Login: 0 *disable*
+
+[2020-11-20 16:28:25:575] >>Login: 0 *disable*
+[2020-11-20 16:28:27:574] >>Login: 0 *disable*
+
+[2020-11-20 16:28:29:575] >>Login: 0 *disable*
+[2020-11-20 16:28:31:575] >>Login: 0 *disable*
+[2020-11-20 16:28:33:574] >>Login: 0 *disable*
+
+[2020-11-20 16:28:35:575] >>Login: 0 *disable*
+[2020-11-20 16:28:37:575] >>Login: 0 *disable*
+
+[2020-11-20 16:28:39:575] >>Login: 0 *disable*
+[2020-11-20 16:28:41:575] >>Login: 0 *disable*
+[2020-11-20 16:28:43:575] >>Login: 0 *disable*
+
+[2020-11-20 16:28:45:575] >>Login: 0 *disable*
+[2020-11-20 16:28:47:585] >>Login: 0 *disable*
+
+[2020-11-20 16:28:49:570] >>Login: 0 *disable*
+[2020-11-20 16:28:51:569] >>Login: 0 *disable*
+[2020-11-20 16:28:53:576] >>Login: 0 *disable*
+
+[2020-11-20 16:28:55:577] >>Login: 0 *disable*
+[2020-11-20 16:28:57:581] >>Login: 0 *disable*
+
+[2020-11-20 16:28:59:580] >>Login: 0 *disable*
+[2020-11-20 16:29:01:582] >>Login: 0 *disable*
+[2020-11-20 16:29:03:583] >>Login: 0 *disable*
+
+[2020-11-20 16:29:05:584] >>Login: 0 *disable*
+[2020-11-20 16:29:07:584] >>Login: 0 *disable*
+
+[2020-11-20 16:29:09:586] >>Login: 0 *disable*
+[2020-11-20 16:29:11:586] >>Login: 0 *disable*
+[2020-11-20 16:29:13:570] >>Login: 0 *disable*
+
+[2020-11-20 16:29:15:569] >>Login: 0 *disable*
+[2020-11-20 16:29:17:570] >>Login: 0 *disable*
+
+[2020-11-20 16:29:19:569] >>Login: 0 *disable*
+[2020-11-20 16:29:21:570] >>Login: 0 *disable*
+[2020-11-20 16:29:23:569] >>Login: 0 *disable*
+
+[2020-11-20 16:29:25:570] >>Login: 0 *disable*
+[2020-11-20 16:29:27:570] >>Login: 0 *disable*
+
+[2020-11-20 16:29:29:569] >>Login: 0 *disable*
+[2020-11-20 16:29:31:570] >>Login: 0 *disable*
+[2020-11-20 16:29:33:569] >>Login: 0 *disable*
+
+[2020-11-20 16:29:35:570] >>Login: 0 *disable*
+[2020-11-20 16:29:37:570] >>Login: 0 *disable*
+
+[2020-11-20 16:29:39:570] >>Login: 0 *disable*
+[2020-11-20 16:29:41:571] >>Login: 0 *disable*
+[2020-11-20 16:29:43:570] >>Login: 0 *disable*
+
+[2020-11-20 16:29:45:570] >>Login: 0 *disable*
+[2020-11-20 16:29:47:571] >>Login: 0 *disable*
+
+[2020-11-20 16:29:49:571] >>Login: 0 *disable*
+[2020-11-20 16:29:51:570] >>Login: 0 *disable*
+[2020-11-20 16:29:53:571] >>Login: 0 *disable*
+
+[2020-11-20 16:29:55:571] >>Login: 0 *disable*
+[2020-11-20 16:29:57:572] >>Login: 0 *disable*
+
+[2020-11-20 16:29:59:572] >>Login: 0 *disable*
+[2020-11-20 16:30:01:572] >>Login: 0 *disable*
+[2020-11-20 16:30:03:581] >>Login: 0 *disable*
+
+[2020-11-20 16:30:05:579] >>Login: 0 *disable*
+[2020-11-20 16:30:07:580] >>Login: 0 *disable*
+
+[2020-11-20 16:30:09:580] >>Login: 0 *disable*
+[2020-11-20 16:30:11:579] >>Login: 0 *disable*
+[2020-11-20 16:30:13:581] >>Login: 0 *disable*
+
+[2020-11-20 16:30:15:580] >>Login: 0 *disable*
+[2020-11-20 16:30:17:580] >>Login: 0 *disable*
+
+[2020-11-20 16:30:19:579] >>Login: 0 *disable*
+[2020-11-20 16:30:21:572] >>Login: 0 *disable*
+[2020-11-20 16:30:23:581] >>Login: 0 *disable*
+
+[2020-11-20 16:30:25:572] >>Login: 0 *disable*
+[2020-11-20 16:30:27:572] >>Login: 0 *disable*
+
+[2020-11-20 16:30:29:573] >>Login: 0 *disable*
+[2020-11-20 16:30:31:575] >>Login: 0 *disable*
+[2020-11-20 16:30:33:573] >>Login: 0 *disable*
+
+[2020-11-20 16:30:35:574] >>Login: 0 *disable*
+[2020-11-20 16:30:37:572] >>Login: 0 *disable*
+
+[2020-11-20 16:30:39:572] >>Login: 0 *disable*
+[2020-11-20 16:30:41:576] >>Login: 0 *disable*
+[2020-11-20 16:30:43:574] >>Login: 0 *disable*
+
+[2020-11-20 16:30:45:578] >>Login: 0 *disable*
+[2020-11-20 16:30:47:577] >>Login: 0 *disable*
+
+[2020-11-20 16:30:49:577] >>Login: 0 *disable*
+[2020-11-20 16:30:51:570] >>Login: 0 *disable*
+[2020-11-20 16:30:53:570] >>Login: 0 *disable*
+
+[2020-11-20 16:30:55:572] >>Login: 0 *disable*
+[2020-11-20 16:30:57:572] >>Login: 0 *disable*
+
+[2020-11-20 16:30:59:574] >>Login: 0 *disable*
+[2020-11-20 16:31:01:575] >>Login: 0 *disable*
+[2020-11-20 16:31:03:574] >>Login: 0 *disable*
+
+[2020-11-20 16:31:05:576] >>Login: 0 *disable*
+[2020-11-20 16:31:07:584] >>Login: 0 *disable*
+
+[2020-11-20 16:31:09:569] >>Login: 0 *disable*
+[2020-11-20 16:31:11:580] >>Login: 0 *disable*
+[2020-11-20 16:31:13:582] >>Login: 0 *disable*
+
+[2020-11-20 16:31:15:569] >>Login: 0 *disable*
+[2020-11-20 16:31:17:570] >>Login: 0 *disable*
+
+[2020-11-20 16:31:19:570] >>Login: 0 *disable*
+[2020-11-20 16:31:21:570] >>Login: 0 *disable*
+[2020-11-20 16:31:23:571] >>Login: 0 *disable*
+
+[2020-11-20 16:31:25:570] >>Login: 0 *disable*
+[2020-11-20 16:31:27:571] >>Login: 0 *disable*
+
+[2020-11-20 16:31:29:573] >>Login: 0 *disable*
+[2020-11-20 16:31:31:570] >>Login: 0 *disable*
+[2020-11-20 16:31:33:573] >>Login: 0 *disable*
+
+[2020-11-20 16:31:35:575] >>Login: 0 *disable*
+[2020-11-20 16:31:37:576] >>Login: 0 *disable*
+
+[2020-11-20 16:31:39:577] >>Login: 0 *disable*
+[2020-11-20 16:31:41:577] >>Login: 0 *disable*
+[2020-11-20 16:31:43:579] >>Login: 0 *disable*
+
+[2020-11-20 16:31:45:576] >>Login: 0 *disable*
+[2020-11-20 16:31:47:578] >>Login: 0 *disable*
+
+[2020-11-20 16:31:49:585] >>Login: 0 *disable*
+[2020-11-20 16:31:51:574] >>Login: 0 *disable*
+[2020-11-20 16:31:53:577] >>Login: 0 *disable*
+
+[2020-11-20 16:31:55:578] >>Login: 0 *disable*
+[2020-11-20 16:31:57:578] >>Login: 0 *disable*
+
+[2020-11-20 16:31:59:578] >>Login: 0 *disable*
+[2020-11-20 16:32:01:578] >>Login: 0 *disable*
+[2020-11-20 16:32:03:572] >>Login: 0 *disable*
+
+[2020-11-20 16:32:05:572] >>Login: 0 *disable*
+[2020-11-20 16:32:07:572] >>Login: 0 *disable*
+
+[2020-11-20 16:32:09:572] >>Login: 0 *disable*
+[2020-11-20 16:32:11:572] >>Login: 0 *disable*
+[2020-11-20 16:32:13:078] >>Login: 0 
+[2020-11-20 16:32:13:078] >>Login: 1 
+[2020-11-20 16:32:13:078] >>Login: 2 190
+[2020-11-20 16:32:13:078] >>Login: 3 190
+[2020-11-20 16:32:13:079] >>Login: 5_0 190
+[2020-11-20 16:32:13:121] >>Login: 5 190, 1
+[2020-11-20 16:32:13:121] >>Login: 5_1 190
+[2020-11-20 16:32:13:121] >>Login: 5_2 190
+[2020-11-20 16:32:13:121] >>Login: 6 190
+[2020-11-20 16:32:13:228] >>Login: 7 190
+[2020-11-20 16:32:13:422] >>Login: 8 190
+[2020-11-20 16:32:13:572] >>Login: 0 *disable*
+[2020-11-20 16:32:14:235] >>Login: 9 190
+[2020-11-20 16:32:14:235] >>Login: 10 cfg_damage_number, C63639EA5583B4770A637585149CD4A1 -> ADD727292D3D42722E2B3288021AA969
+[2020-11-20 16:32:14:235] >>Login: 10 cfg_att_score, 78C2155994924BB079886F03C39B6605 -> 79CBE9D3F25DD88DE32E814F16658EC3
+[2020-11-20 16:32:14:235] >>Login: 10 cfg_suit, 33759DCC2446D32A09D1A30F5D246B68 -> 356FB318749367F632EC3AC3AEE67443
+[2020-11-20 16:32:14:235] >>Login: 10 cfg_magicinfo, BA8F29E40619970F85F8C243DDF88D4D -> 9CB6E54562D699B2F0318593CF075E1E
+[2020-11-20 16:32:14:236] >>Login: 10 cfg_setup, 33F709FD2D68A42AE19D33C17E217BD9 -> 8D497D0E64D4814C4C2118F4BBEFE62D
+[2020-11-20 16:32:14:236] >>Login: 10 cfg_mission, D0033645BC04FDC510C64532E830A2D5 -> 2C24CC11AF0F654B3DA2BAF662639167
+[2020-11-20 16:32:14:237] >>Login: 10 cfg_model_info, 41D1428356BD446AC8ED9ECB8B2D0BF0 -> 4EBCE106BEA5650D28DB9F3832173102
+[2020-11-20 16:32:14:237] >>Login: 10 cfg_skill_present, 1FB5A9C955BEAA8C9508DFBF224B8719 -> 9770ABFBE3B732534AD4871FDBE2B529
+[2020-11-20 16:32:14:238] >>Login: 10 cfg_sound, 36ABB76D20EF53D5993B1B15A6B54655 -> 570CCCC98BB6E673F866DD0A46906E21
+[2020-11-20 16:32:14:238] >>Login: 10 cfg_tipicon, CA05DD7BFE895714330A955B55140A00 -> A0DEDC3DE01FFFCC0D075CE1239A965A
+[2020-11-20 16:32:14:238] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 16:32:14:238] >>Login: 10 cfg_pick_set, 9D40150E59A1B97C1E2D7272BB3A1525 -> 6CA077FE5A2DA6C25FA7D8AB4983F70B
+[2020-11-20 16:32:14:239] >>Login: 10 cfg_stditem, 495335D8C205A1DB14E7D308C0512A2B583D8CC31A7755BBD88DBCF961A5F84B -> 685FFADD95D4545D3A1B435B33230BFB1720CB386C59D679FFBF240A7CC5F243
+[2020-11-20 16:32:14:239] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 16:32:14:239] >>Login: 11 190
+[2020-11-20 16:32:14:441] SendMerChantSayMsg-----
+[2020-11-20 16:32:14:441] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:32:14:441] SendMerChantSayMsg-----json
+[2020-11-20 16:32:14:441] SendMerChantSayMsg-----End
+
+[2020-11-20 16:32:15:572] >>Login: 0 *disable*
+[2020-11-20 16:32:17:571] >>Login: 0 *disable*
+
+[2020-11-20 16:32:19:572] >>Login: 0 *disable*
+[2020-11-20 16:32:21:575] >>Login: 0 *disable*
+[2020-11-20 16:32:23:571] >>Login: 0 *disable*
+
+[2020-11-20 16:32:25:585] >>Login: 0 *disable*
+[2020-11-20 16:32:27:577] >>Login: 0 *disable*
+
+[2020-11-20 16:32:29:579] >>Login: 0 *disable*
+[2020-11-20 16:32:31:578] >>Login: 0 *disable*
+[2020-11-20 16:32:33:580] >>Login: 0 *disable*
+
+[2020-11-20 16:32:35:578] >>Login: 0 *disable*
+[2020-11-20 16:32:35:751] SendMerChantSayMsg-----
+[2020-11-20 16:32:35:751] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:32:35:751] SendMerChantSayMsg-----json
+[2020-11-20 16:32:35:751] SendMerChantSayMsg-----End
+[2020-11-20 16:32:37:578] >>Login: 0 *disable*
+
+[2020-11-20 16:32:39:579] >>Login: 0 *disable*
+[2020-11-20 16:32:41:578] >>Login: 0 *disable*
+[2020-11-20 16:32:42:287] SendMerChantSayMsg-----
+[2020-11-20 16:32:42:289] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:32:42:289] SendMerChantSayMsg-----json
+[2020-11-20 16:32:42:289] SendMerChantSayMsg-----End
+[2020-11-20 16:32:43:580] >>Login: 0 *disable*
+[2020-11-20 16:32:43:859] SendMerChantSayMsg-----
+[2020-11-20 16:32:43:864] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:32:43:864] SendMerChantSayMsg-----json
+[2020-11-20 16:32:43:864] SendMerChantSayMsg-----End
+[2020-11-20 16:32:44:470] SendMerChantSayMsg-----
+[2020-11-20 16:32:44:471] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:32:44:471] SendMerChantSayMsg-----json
+[2020-11-20 16:32:44:471] SendMerChantSayMsg-----End
+
+[2020-11-20 16:32:45:579] >>Login: 0 *disable*
+[2020-11-20 16:32:47:580] >>Login: 0 *disable*
+
+[2020-11-20 16:32:49:580] >>Login: 0 *disable*
+[2020-11-20 16:32:51:580] >>Login: 0 *disable*
+[2020-11-20 16:32:53:570] >>Login: 0 *disable*
+
+[2020-11-20 16:32:55:570] >>Login: 0 *disable*
+[2020-11-20 16:32:57:571] >>Login: 0 *disable*
+
+[2020-11-20 16:32:59:571] >>Login: 0 *disable*
+[2020-11-20 16:33:01:571] >>Login: 0 *disable*
+[2020-11-20 16:33:03:571] >>Login: 0 *disable*
+
+[2020-11-20 16:33:05:577] >>Login: 0 *disable*
+[2020-11-20 16:33:07:572] >>Login: 0 *disable*
+
+[2020-11-20 16:33:09:574] >>Login: 0 *disable*
+[2020-11-20 16:33:11:574] >>Login: 0 *disable*
+[2020-11-20 16:33:13:576] >>Login: 0 *disable*
+
+[2020-11-20 16:33:15:585] >>Login: 0 *disable*
+[2020-11-20 16:33:17:575] >>Login: 0 *disable*
+
+[2020-11-20 16:33:19:574] >>Login: 0 *disable*
+[2020-11-20 16:33:21:574] >>Login: 0 *disable*
+[2020-11-20 16:33:23:575] >>Login: 0 *disable*
+
+[2020-11-20 16:33:25:583] >>Login: 0 *disable*
+[2020-11-20 16:33:27:580] >>Login: 0 *disable*
+
+[2020-11-20 16:33:29:581] >>Login: 0 *disable*
+[2020-11-20 16:33:31:581] >>Login: 0 *disable*
+[2020-11-20 16:33:33:571] >>Login: 0 *disable*
+
+[2020-11-20 16:33:35:571] >>Login: 0 *disable*
+[2020-11-20 16:33:37:577] >>Login: 0 *disable*
+
+[2020-11-20 16:33:39:577] >>Login: 0 *disable*
+[2020-11-20 16:33:41:582] >>Login: 0 *disable*
+[2020-11-20 16:33:43:582] >>Login: 0 *disable*
+
+[2020-11-20 16:33:45:583] >>Login: 0 *disable*
+[2020-11-20 16:33:47:583] >>Login: 0 *disable*
+
+[2020-11-20 16:33:49:583] >>Login: 0 *disable*
+[2020-11-20 16:33:51:578] >>Login: 0 *disable*
+[2020-11-20 16:33:53:578] >>Login: 0 *disable*
+
+[2020-11-20 16:33:55:597] >>Login: 0 *disable*
+[2020-11-20 16:33:57:578] >>Login: 0 *disable*
+
+[2020-11-20 16:33:59:578] >>Login: 0 *disable*
+[2020-11-20 16:34:01:579] >>Login: 0 *disable*
+[2020-11-20 16:34:03:580] >>Login: 0 *disable*
+
+[2020-11-20 16:34:05:580] >>Login: 0 *disable*
+[2020-11-20 16:34:07:582] >>Login: 0 *disable*
+
+[2020-11-20 16:34:09:583] >>Login: 0 *disable*
+[2020-11-20 16:34:11:585] >>Login: 0 *disable*
+[2020-11-20 16:34:13:593] >>Login: 0 *disable*
+
+[2020-11-20 16:34:15:571] >>Login: 0 *disable*
+[2020-11-20 16:34:17:576] >>Login: 0 *disable*
+
+[2020-11-20 16:34:19:576] >>Login: 0 *disable*
+[2020-11-20 16:34:21:578] >>Login: 0 *disable*
+[2020-11-20 16:34:23:580] >>Login: 0 *disable*
+
+[2020-11-20 16:34:25:580] >>Login: 0 *disable*
+[2020-11-20 16:34:27:580] >>Login: 0 *disable*
+
+[2020-11-20 16:34:29:584] >>Login: 0 *disable*
+[2020-11-20 16:34:31:584] >>Login: 0 *disable*
+[2020-11-20 16:34:33:586] >>Login: 0 *disable*
+
+[2020-11-20 16:34:35:585] >>Login: 0 *disable*
+[2020-11-20 16:34:37:586] >>Login: 0 *disable*
+
+[2020-11-20 16:34:39:587] >>Login: 0 *disable*
+[2020-11-20 16:34:41:587] >>Login: 0 *disable*
+[2020-11-20 16:34:43:587] >>Login: 0 *disable*
+
+[2020-11-20 16:34:45:587] >>Login: 0 *disable*
+[2020-11-20 16:34:47:578] >>Login: 0 *disable*
+
+[2020-11-20 16:34:49:578] >>Login: 0 *disable*
+[2020-11-20 16:34:51:578] >>Login: 0 *disable*
+[2020-11-20 16:34:53:572] >>Login: 0 *disable*
+
+[2020-11-20 16:34:55:581] >>Login: 0 *disable*
+[2020-11-20 16:34:57:571] >>Login: 0 *disable*
+
+[2020-11-20 16:34:59:571] >>Login: 0 *disable*
+[2020-11-20 16:35:01:581] >>Login: 0 *disable*
+[2020-11-20 16:35:03:583] >>Login: 0 *disable*
+
+[2020-11-20 16:35:05:572] >>Login: 0 *disable*
+[2020-11-20 16:35:07:580] >>Login: 0 *disable*
+
+[2020-11-20 16:35:09:582] >>Login: 0 *disable*
+[2020-11-20 16:35:11:580] >>Login: 0 *disable*
+
+[2020-11-20 16:38:56:062] SendMerChantSayMsg-----
+[2020-11-20 16:38:56:062] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:38:56:062] SendMerChantSayMsg-----json
+[2020-11-20 16:38:56:062] SendMerChantSayMsg-----End
+[2020-11-20 16:38:58:500] SendMerChantSayMsg-----
+[2020-11-20 16:38:58:500] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:38:58:500] SendMerChantSayMsg-----json
+[2020-11-20 16:38:58:500] SendMerChantSayMsg-----End
+
+[2020-11-20 16:39:00:328] SendMerChantSayMsg-----
+[2020-11-20 16:39:00:328] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:39:00:328] SendMerChantSayMsg-----json
+[2020-11-20 16:39:00:328] SendMerChantSayMsg-----End
+[2020-11-20 16:39:02:360] SendMerChantSayMsg-----
+[2020-11-20 16:39:02:360] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 16:39:02:360] SendMerChantSayMsg-----json
+[2020-11-20 16:39:02:360] SendMerChantSayMsg-----End
+
+[2020-11-20 18:02:40:159] >>Login: 0 
+[2020-11-20 18:02:40:159] >>Login: 1 
+[2020-11-20 18:02:40:159] >>Login: 2 1263027
+[2020-11-20 18:02:40:159] >>Login: 3 1263027
+[2020-11-20 18:02:40:160] >>Login: 5_0 1263027
+[2020-11-20 18:02:40:198] >>Login: 5 1263027, 1
+[2020-11-20 18:02:40:198] >>Login: 5_1 1263027
+[2020-11-20 18:02:40:198] >>Login: 5_2 1263027
+[2020-11-20 18:02:40:198] >>Login: 6 1263027
+[2020-11-20 18:02:40:323] >>Login: 7 1263027
+[2020-11-20 18:02:40:515] >>Login: 8 1263027
+[2020-11-20 18:02:41:734] >>Login: 9 1263027
+[2020-11-20 18:02:41:734] >>Login: 10 cfg_game_data,  -> 48AE2D3436F0F8F73950D8F65D355FE0
+[2020-11-20 18:02:41:734] >>Login: 10 cfg_merChant,  -> 7E37B4F60C35C9759A8F4857F1860E25
+[2020-11-20 18:02:41:734] >>Login: 11 1263027
+
+[2020-11-20 19:06:07:703] SendMerChantSayMsg-----
+[2020-11-20 19:06:07:703] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:07:703] SendMerChantSayMsg-----json
+[2020-11-20 19:06:07:703] SendMerChantSayMsg-----End
+
+[2020-11-20 19:06:17:687] SendMerChantSayMsg-----
+[2020-11-20 19:06:17:687] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:17:687] SendMerChantSayMsg-----json
+[2020-11-20 19:06:17:687] SendMerChantSayMsg-----End
+
+[2020-11-20 19:06:32:275] SendMerChantSayMsg-----
+[2020-11-20 19:06:32:277] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:32:277] SendMerChantSayMsg-----json
+[2020-11-20 19:06:32:277] SendMerChantSayMsg-----End
+[2020-11-20 19:06:33:640] SendMerChantSayMsg-----
+[2020-11-20 19:06:33:646] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:33:646] SendMerChantSayMsg-----json
+[2020-11-20 19:06:33:646] SendMerChantSayMsg-----End
+[2020-11-20 19:06:34:047] SendMerChantSayMsg-----
+[2020-11-20 19:06:34:053] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:34:053] SendMerChantSayMsg-----json
+[2020-11-20 19:06:34:053] SendMerChantSayMsg-----End
+
+[2020-11-20 19:06:36:485] SendMerChantSayMsg-----
+[2020-11-20 19:06:36:485] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:36:485] SendMerChantSayMsg-----json
+[2020-11-20 19:06:36:485] SendMerChantSayMsg-----End
+
+[2020-11-20 19:06:53:751] SendMerChantSayMsg-----
+[2020-11-20 19:06:53:751] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 19:06:53:751] SendMerChantSayMsg-----json
+[2020-11-20 19:06:53:751] SendMerChantSayMsg-----End
+
+[2020-11-20 21:31:06:797] SendMerChantSayMsg-----
+[2020-11-20 21:31:06:797] SendMerChantSayMsg-----GetScriptLabel
+[2020-11-20 21:31:06:797] SendMerChantSayMsg-----json
+[2020-11-20 21:31:06:797] SendMerChantSayMsg-----End
+

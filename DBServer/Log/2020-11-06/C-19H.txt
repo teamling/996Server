@@ -1,0 +1,37 @@
+Load(库):[3] [0] 2020-11-06 19:04:02 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-06 19:07:02 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:10:02 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-06 19:13:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:16:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-06 19:19:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:32,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-06 19:22:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-06 19:25:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:28:03 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-06 19:31:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:34:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-06 19:37:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:32,HumStorageItems:15,HumMagics:0
+Save:[4] [0] 2020-11-06 19:40:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:32,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-06 19:43:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-06 19:46:04 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:49:05 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:52:05 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-06 19:55:05 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-06 19:58:05 村里名人 Level:1  -- Bag[0]: MakeIndex:32427344 Index:10006 OverLap:0Bag[1]: MakeIndex:32427345 Index:10004 OverLap:0Bag[2]: MakeIndex:32427342 Index:10017 OverLap:0Bag[3]: MakeIndex:32427343 Index:10001 OverLap:0 -- 

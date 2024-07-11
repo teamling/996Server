@@ -1,0 +1,9 @@
+2018-05-31 17:14:06:364closeSession2: cs1/21
+2018-05-31 17:14:23:805closeSession2: cs2/20
+2018-05-31 17:20:07:819closeSession2: cs1/22
+2018-05-31 17:20:10:112closeSession2: cs2/23
+2018-05-31 17:38:42:883closeSession2: cs2/25
+2018-05-31 17:39:50:556closeSession2: cs2/26
+2018-05-31 17:43:15:299closeSession2: cs2/27
+2018-05-31 17:48:08:683closeSession2: cs2/28
+2018-05-31 17:49:57:011closeSession2: cs2/29

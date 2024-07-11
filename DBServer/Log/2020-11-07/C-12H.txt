@@ -1,0 +1,6 @@
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-07 12:02:55 ³Ø¼Ä´ä Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-07 12:05:55 ³Ø¼Ä´ä Level:1  --  -- 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-07 12:07:22 ³Ø¼Ä´ä Level:1  --  -- 

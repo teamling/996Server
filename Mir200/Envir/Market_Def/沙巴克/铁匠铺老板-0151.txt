@@ -1,0 +1,34 @@
+(@s_repair )
+%100
++5
++6
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎..  您想要修理那种武器?...\
+根据这个城堡的主人<$LORD>的命令，\
+我们特别对<$OWNERGUILD>的成员提供20%的折扣。\ \
+<特殊修理/@s_repair>\
+<退出/@exit>
+
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\沙巴克\铁匠铺老板-0151.txt] @Settings
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+根据这个城堡的主人<$LORD>的命令\
+我要收取你三倍的修理费用\ \
+
+<返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\沙巴克\铁匠铺老板-0151.txt] @Mobile_s_repair

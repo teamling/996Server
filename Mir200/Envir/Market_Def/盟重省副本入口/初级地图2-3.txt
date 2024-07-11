@@ -1,0 +1,16 @@
+[@main]
+#if
+equal <$clientflag> 1
+#act
+#call [\NPC面板分类\PC端\PC端初级地图2图文版.txt] @PC端初级地图2图文版
+break
+
+#if
+equal <$clientflag> 2
+#act
+#call [\NPC面板分类\移动端\移动端初级地图2图文版.txt] @移动端初级地图2图文版
+break
+
+[@chuji2]
+#act
+mapmove chuji2 67 27

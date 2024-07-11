@@ -1,0 +1,11 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我要勤加练习,下次换身盔甲,站到前面讲话!\ \
+<确定/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\NPC\klzj1-4.txt] @Settings

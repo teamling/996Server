@@ -1,0 +1,80 @@
+(@buy @sell @repair @s_repair )
+%100
++20
++19
++21
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎. 我可以帮你什么吗?\ \
+ <购买/@buy> 项链 \
+ <出售/@sell> 项链\
+ <修理/@repair> 项链\
+ <特殊修理/@s_repair>\
+ <离 开/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\项链店老板-0105.txt] @Settings
+
+[@buy]
+您要买项链吗?\ \ \
+ <返 回/@Main>
+
+[~@repair]
+看上去修好了.\ \
+ <返 回/@Main>
+ 
+[goods]
+金项链          10      10
+黑檀项链        10      10
+黄色水晶项链    10      10
+黑色水晶项链	  10    	10
+灯笼项链	      10	    10
+白色虎齿项链	  10    	10
+白金项链	      10	    10
+传统项链        10      10
+魔鬼项链	      10    	10
+凤凰明珠	      10	    10
+琥珀项链	      10	    10
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+您出售哪种项链?\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\项链店老板-0105.txt] @Mobile_sell
+
+
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+您要修理项链吗?\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\项链店老板-0105.txt] @Mobile_repair
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你确定要修理？不过我要收取你三倍的价格！\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\项链店老板-0105.txt] @Mobile_s_repair

@@ -1,0 +1,102 @@
+(@buy @sell @repair @s_repair )
+%100
++30
++3
++25
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#ACT
+GOTO @main_1
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM001.txt] @Settings
+
+[@main_1]
+#IF
+random 2
+#ACT
+goto @QUEST
+#ELSEACT
+goto @normal
+
+[@QUEST]
+#IF
+check [353] 1 
+#ACT
+goto @Q353
+break
+#IF
+check [352] 1
+checkitemw 斩马刀 1
+#ACT
+goto @Q352
+#ELSEACT
+goto @normal
+
+[@normal]
+一路上还好吧？要买什么?\
+但是别想讲价钱。\
+不知道今天能不能回到家。\
+<买./@buy>东西\
+<卖./@sell>东西\
+<修理./@repair>东西\
+<关闭/@exit>
+
+[@Q352]
+#IF
+#ACT
+takew 斩马刀 1
+give 金币 0
+SET [353] 1
+#SAY
+哈哈，你的斩马刀是什么东西？\ 
+难道你想用这个斩马刀来欺骗我？\
+谢谢你，我还是用它吧。\
+不好意思白拿，给你100分吧，你得谢谢我啊。 \ 
+还有你去沓水杂货。\ \
+<关闭/@exit>
+
+[@Q353]
+#IF
+#SAY
+快去看看沓水杂货。\ \
+<关闭/@exit>
+
+[@buy]
+虽然有点贵，但是趁现在有快买吧。\ \ \
+ <返回/@main>
+
+[goods]
+蜡烛            1000       1
+修复油       1000       1
+骰子		1000	    1
+
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+要卖什么东西？\ \ \
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM001.txt] @Mobile_sell
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+这里只修补衣服和武器\ \
+
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\比奇城\其它NPC\不法小贩-DM001.txt] @Mobile_repair

@@ -1,0 +1,40 @@
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:01:29 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:31,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:04:29 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:15,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:07:29 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:15,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:10:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:13:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:16:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:19:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:22:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:25:30 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:28:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:16,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:31:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:34:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:37:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:16,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:40:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:16,HumBagItems:0,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:43:31 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:46:32 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:49:32 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:52:32 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:15,HumStorageItems:0,HumMagics:0
+Save:[4] [0] 2020-11-12 18:55:32 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 
+存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:0,HumStorageItems:16,HumMagics:0
+Save:[4] [0] 2020-11-12 18:58:32 愤怒的老鸟 Level:1  -- Bag[0]: MakeIndex:32427430 Index:10017 OverLap:0Bag[1]: MakeIndex:32427432 Index:10006 OverLap:0Bag[2]: MakeIndex:32427433 Index:10004 OverLap:0Bag[3]: MakeIndex:32427435 Index:10134 OverLap:0 -- 

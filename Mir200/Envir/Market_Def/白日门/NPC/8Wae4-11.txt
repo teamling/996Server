@@ -1,0 +1,16 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+在森林里神出鬼没的蜘蛛怪物当中， \
+最让人头疼的要数爆子蜘蛛 \
+这种蜘蛛自身不动，但是不断吐出子虫 \
+这些子虫见人就自爆\
+只有打败母虫, 才会停止吐子虫，打败一个爆子蜘蛛， \
+要经过生死战斗. \ \
+<关闭/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\白日门\NPC\8Wae4-11.txt] @Settings

@@ -1,0 +1,69 @@
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+\ \
+<比齐大城/@JIANAN>   <毒蛇山谷/@FENGDI>   <银杏小村/@XIAGU>   <比奇村庄/@HAIBIN> \
+\ \
+<盟重土城/@YASHU>   <苍月之岛/@HUANGCHENG>   <封魔神谷/@JIANYU>   <白 日 门/@SHADINDAO>\
+\ \ \
+
+#IF
+Equal <$CLIENTFLAG> 2
+#SAY
+#CALL [\Mobile\特殊NPC\传送员.txt] @Settings_cs
+
+
+[@JIANAN] 
+#IF
+#ACT
+mapmove 0 333 268 
+
+
+[@FENGDI] 
+#IF
+#ACT
+mapmove 2 500 485
+break 
+
+[@XIAGU] 
+#IF
+#ACT
+take 金币 2000
+mapmove 0 635 612 
+break 
+
+[@HAIBIN] 
+#IF
+#ACT
+take 金币 2000
+mapmove 0 290 615 
+break 
+
+
+[@YASHU] 
+#IF
+#ACT
+take 金币 2000
+mapmove 3 330 330 
+break 
+
+[@HUANGCHENG]
+#IF
+#ACT
+mapmove 5 140 330
+break 
+
+
+[@JIANYU]
+#IF
+#ACT
+mapmove 4 240 200
+break 
+
+
+[@SHADINDAO]
+#IF
+#ACT
+mapmove 11 180 325
+break 

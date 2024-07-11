@@ -1,0 +1,44 @@
+(@buy @sell )
+%100
++30
++3
++25
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎. 我可以为你做什么吗?\ \
+ <购买/@buy> 物品\
+ <出售/@sell> 物品\
+<退出/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\毒蛇山谷\罗家铺子老板-2.txt] @Settings
+
+[@buy]
+你想购买什么?\
+ <返回/@main>
+
+[goods]
+;物品(can be Zen)     数量       小时
+地牢逃脱卷        1000        1
+随机传送卷        1000        1
+护身符            100         1
+修复油            50          1
+地牢逃脱卷包      100         1
+随机传送卷包      100         1
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我们购买护身符，卷轴，修理液等.\
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\毒蛇山谷\罗家铺子老板-2.txt] @Mobile_sell

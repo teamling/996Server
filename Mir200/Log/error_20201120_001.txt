@@ -1,0 +1,33 @@
+[2020-11-20 13:21:55:614] Frame-----------------------------------
+[2020-11-20 13:21:55:614] [77462F5C] ZwReadFile
+[004218F2] Classes.TList.Add
+[00676949] LocalDB.TFrmDB.LoadGoodPriceRecord (Line 8620, "LocalDB.pas" + 24)
+[006F1345] ObjNpc.TMerchant.LoadNPCData (Line 2009, "ObjNpc.pas" + 3)
+[006CA4BD] UsrEngn.TUserEngine.MerchantInitialize (Line 428, "UsrEngn.pas" + 22)
+[006CA213] UsrEngn.TUserEngine.Initialize (Line 372, "UsrEngn.pas" + 1)
+[00422CC4] Classes.TStrings.Add
+[00653140] svMain.TFrmMain.StartEngine (Line 876, "svMain.pas" + 76)
+[006521E4] svMain.TFrmMain.StartTimerTimer (Line 747, "svMain.pas" + 202)
+[0044EA9B] ExtCtrls.TTimer.Timer
+[0044E97F] ExtCtrls.TTimer.WndProc
+[0042C40C] Classes.StdWndProc
+[00480CD8] Forms.TApplication.ProcessMessage
+[00480CFA] Forms.TApplication.HandleMessage
+[00480FEF] Forms.TApplication.Run
+[007A8FD3] M2Server.M2Server (Line 119, "E:\996_code\M2Server\M2Server.dpr" + 18)
+
+[2020-11-20 13:21:55:614] MainRunThread(7759312)-----------------------------------
+[2020-11-20 13:21:55:615] [7746325C] ZwDelayExecution
+[004DB490] uThreadPools.TThreadPool.ThreadProc (Line 152, "uThreadPools.pas" + 3)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+[2020-11-20 13:21:55:615] FDbThread(7759312)-----------------------------------
+[2020-11-20 13:21:55:615] [77462F8C] ZwRemoveIoCompletion
+[004DB4C7] uThreadPools.TThreadPool.ThreadProc (Line 159, "uThreadPools.pas" + 10)
+[004DB28C] uThreadPools.TMyThread.Execute (Line 69, "uThreadPools.pas" + 2)
+[0042ACEC] Classes.ThreadProc
+(000044EC) [004054EC]
+
+

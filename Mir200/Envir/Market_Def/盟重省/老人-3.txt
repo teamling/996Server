@@ -1,0 +1,46 @@
+(@buy @sell )
+%150
++30
++0
++5
++6
++10
++11
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+欢迎, 我可以为你做什么吗?\
+不要想打折...\
+我认为你别无选择...\
+ <购买/@buy> 物品\
+ <出售/@sell> 物品\\
+ <离 开/@exit>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\老人-3.txt] @Settings
+
+[goods]
+蜡烛            100       10
+火把            10        220
+随机传送卷      100       10
+地牢逃脱卷      100       10
+行会回城卷	    10	      10
+护身符          100       3
+修复油          100       3
+随机传送卷包	  10	      3
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+要卖什么? 收购衣服或武器.\ \ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\老人-3.txt] @Mobile_sell

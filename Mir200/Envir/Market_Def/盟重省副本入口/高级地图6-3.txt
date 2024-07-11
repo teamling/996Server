@@ -1,0 +1,22 @@
+[@main]
+#if
+equal <$clientflag> 1
+#act
+#call [\NPC面板分类\PC端\PC端高级地图6图文版.txt] @PC端高级地图6图文版
+break
+
+#if
+equal <$clientflag> 2
+#act
+#call [\NPC面板分类\移动端\移动端高级地图6图文版.txt] @移动端高级地图6图文版
+break
+
+[@gaoji5]
+#if
+CHECKGAMEGOLD > 799
+#act
+gamegold - 800
+#act
+mapmove gaoji6 108 20
+#elseact
+messagebox 你身上没有800元宝

@@ -1,0 +1,7 @@
+2018-06-04 09:37:11:989closeSession2: fish2/2
+2018-06-04 09:40:16:510closeSession2: cs1/2
+2018-06-04 09:40:47:721closeSession2: cs1/3
+2018-06-04 09:42:40:042closeSession2: cs1/4
+2018-06-04 09:50:40:651closeSession2: cs1/5
+2018-06-04 09:52:19:991closeSession2: cs1/6
+2018-06-04 09:56:09:426closeSession2: cs1/2

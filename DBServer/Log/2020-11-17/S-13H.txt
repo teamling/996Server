@@ -1,0 +1,14 @@
+Msg:-------------
+2020-11-17 13:47:39 LoadHumanRcd: 68 Ret:1
+Main:-------------
+[74912C5C] NtUserWaitMessage
+[0047BE1B] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+
+Data:-------------
+[74912C5C] NtUserWaitMessage
+[0047BE1B] Forms.TApplication.HandleMessage
+[0047C103] Forms.TApplication.Run
+[0052ED9D] DBServer.DBServer (Line 64, "E:\996_code\DBServer\DBServer.dpr" + 22)
+

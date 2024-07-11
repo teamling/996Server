@@ -1,0 +1,11 @@
+2018-07-03 20:04:26:878closeSession2: cs1/4
+2018-07-03 20:04:29:905closeSession2: cs2/5
+2018-07-03 20:18:48:971closeSession2: cs1/6
+2018-07-03 20:18:57:818closeSession2: cs2/7
+2018-07-03 20:22:51:007closeSession2: cs1/8
+2018-07-03 20:22:59:042closeSession2: cs2/9
+2018-07-03 20:25:14:184closeSession2: cs1/10
+2018-07-03 20:25:15:481closeSession2: cs2/11
+2018-07-03 20:25:17:383closeSession2: cs2/13
+2018-07-03 20:33:17:101closeSession2: cs2/14
+2018-07-03 20:33:19:815closeSession2: cs1/12

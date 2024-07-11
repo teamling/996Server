@@ -1,0 +1,42 @@
+Load(¿â):[3] [0] 2020-11-02 19:02:44 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742594 Index:10134 OverLap:0Bag[1]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:32,HumBagItems:15,HumStorageItems:16,HumMagics:16
+Save:[4] [0] 2020-11-02 19:05:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:32,HumBagItems:15,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:08:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:31
+Save:[4] [0] 2020-11-02 19:11:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:31,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:14:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:16,HumMagics:31
+Save:[4] [0] 2020-11-02 19:17:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:31,HumBagItems:16,HumStorageItems:0,HumMagics:31
+Save:[4] [0] 2020-11-02 19:20:45 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:31,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:23:46 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:31,HumBagItems:16,HumStorageItems:0,HumMagics:31
+Save:[4] [0] 2020-11-02 19:26:46 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:31,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:29:46 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:31,HumBagItems:16,HumStorageItems:0,HumMagics:31
+Save:[4] [0] 2020-11-02 19:32:46 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:33:05 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+Load(¿â):[3] [0] 2020-11-02 19:33:50 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:15,HumMagics:16
+Save:[4] [0] 2020-11-02 19:36:51 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:16,HumMagics:15
+Save:[4] [0] 2020-11-02 19:38:46 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+Load(¿â):[3] [0] 2020-11-02 19:40:13 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:16,HumStorageItems:0,HumMagics:15
+Save:[4] [0] 2020-11-02 19:43:13 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:15,HumBagItems:16,HumStorageItems:0,HumMagics:31
+Save:[4] [0] 2020-11-02 19:45:36 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+Load(»º):[1] [0] 2020-11-02 19:45:43 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-02 19:48:43 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:32
+Save:[4] [0] 2020-11-02 19:51:43 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:32
+Save:[4] [0] 2020-11-02 19:54:44 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 
+´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:16,HumBagItems:15,HumStorageItems:0,HumMagics:16
+Save:[4] [0] 2020-11-02 19:57:44 ¼ÖºëÖÂ Level:99 Body[2]: MakeIndex:32426805 Index:10017 btValue:33(1) -- Bag[0]: MakeIndex:1073742606 Index:10134 OverLap:0 -- HumMagic[0]: MagicID:12 btLevel:0 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:0 TranPoint:0 HumMagic[2]: MagicID:3 btLevel:0 TranPoint:19 

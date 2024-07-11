@@ -1,0 +1,46 @@
+(@buy @sell @s_repair )
+%100
++30
++3
++25
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你好啊，快来买点东西，现在我生意好的很， \
+晚了你就买不到了！ \ \
+ <购买/@buy> 物品\
+ <出售/@sell> 物品\
+ <关闭/@exit>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\苍月岛\杂货小贩-5.txt] @Settings
+
+[@buy]
+你想买什么？？\ \
+ <返回/@main>
+
+[goods]
+;物品(can be Zen)     数量       小时
+地牢逃脱卷        1000        1
+随机传送卷      1000        1
+护身符            100         1
+护身符（大）            100         1
+修复油        50          1
+地牢逃脱卷包       100        1
+随机传送卷包        100       1
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+我们收购护身符，卷轴，修理液等.\
+ <返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\苍月岛\杂货小贩-5.txt] @Mobile_sell

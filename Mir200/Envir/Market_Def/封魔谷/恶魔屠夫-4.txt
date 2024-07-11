@@ -1,0 +1,30 @@
+(@sell )
+%100
++40
++1
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+客官,您打猎回来要卖肉吗？\
+快放下吧.哎呀,真是罪过,我最见不得杀生了.\ \
+ <卖/@sell>肉\
+ <取消/@exit>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔屠夫-4.txt] @Settings
+
+
+[@sell]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+让我看看你出售的肉的品质吧....\ \ \
+ <返 回/@Main>
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\封魔谷\恶魔屠夫-4.txt] @Mobile_sell

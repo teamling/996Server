@@ -1,0 +1,49 @@
+(@repair @s_repair)
+%100
++5
++6
+[@main]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+对你这样的武士来说，武器就跟生命一样。\
+如果时刻不准备着，那么你也会成为地上的骷髅。\
+要是你有好几条命，那么可以不修理武器，\
+怎么样，把你的武器交给我来修理？\ \
+ <修理/@repair>武器\
+ <特殊修理/@s_repair>\
+ <关 闭/@exit>\
+ 
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\其它NPC\石墓阵武器店-D71650.txt] @Settings
+
+[~@repair]
+看起来修好了,欢迎下次再来.\ \
+
+[@repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+要修理武器吗？修理什么武器？\ \
+ <返 回/@Main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\其它NPC\石墓阵武器店-D71650.txt] @Mobile_repair
+
+
+[@s_repair]
+#IF
+Equal <$CLIENTFLAG> 1
+#SAY
+你小子运气好，既然能来到这里，不过价格可是\
+普通的三倍哟，我就靠这个赚钱了。\ \
+<返回/@main>
+
+#IF
+Equal <$CLIENTFLAG> 2
+#ACT
+#CALL [\Mobile\盟重省\其它NPC\石墓阵武器店-D71650.txt] @Mobile_s_repair
