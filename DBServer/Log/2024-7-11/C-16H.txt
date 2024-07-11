@@ -6,3 +6,5 @@ Save:[4] [0] 2024-07-11 16:23:33 印屈原 Level:1  -- Bag[0]: MakeIndex:10070 Inde
 Load(库):[3] [1] 2024-07-11 16:24:09 经亦玉 Level:0  --  --  -- 
 2024-07-11 16:24:11 存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
 Save:[4] [0] 2024-07-11 16:24:11 经亦玉 Level:1  -- Bag[0]: MakeIndex:10074 Index:50000 OverLap:0 btValue:49(-2141869483) Bag[1]: MakeIndex:10075 Index:10000 OverLap:1 btValue:49(-2141869483) Bag[2]: MakeIndex:10076 Index:50014 OverLap:0 btValue:49(-2141869483) Bag[3]: MakeIndex:10077 Index:50050 OverLap:0 btValue:49(-2141869483)  --  -- 
+2024-07-11 16:51:57 ReloadRegistWhiteList:
+2024-07-11 16:51:57 加载缓存数据：2

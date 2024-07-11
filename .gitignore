@@ -1,0 +1,11 @@
+_site
+__pycache__
+.vscode/
+DBServer/Log
+DBServer/Log/*
+Log
+Log/*
+Mir200/Log
+Mir200/Log/*
+RunGate/Log
+RunGate/Log/*
